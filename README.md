@@ -43,3 +43,7 @@ We continually tweak and adjust this template to help give you the best experien
 --------
 
 Happy coding!
+
+Version Control
+
+- V1.0 Initial commit
