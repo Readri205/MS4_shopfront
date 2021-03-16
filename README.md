@@ -47,3 +47,4 @@ Happy coding!
 Version Control
 
 - V1.0 Initial commit
+- V1.1 Setup allauth
