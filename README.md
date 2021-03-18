@@ -600,6 +600,7 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V1.4 Add home app and templates
  - V1.5 Add home page content and style
  - V1.6 Add main page header profile
+ - V1.7 Add home page image and static
 
 
 ***
