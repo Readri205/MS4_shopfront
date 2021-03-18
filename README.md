@@ -598,6 +598,7 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
    - V1.2 Add allauth templates and base template
    - V1.3 Add blocks to base template
    - V1.4 Add home app and templates
+   - V1.5 Add home page content and style
 
 
 ***
