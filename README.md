@@ -2,13 +2,6 @@
 
 [View the live **GARDEN MANAGER**  :seedling:  project here.](https://plant-manager-flask-mongodb.herokuapp.com/)
 
-The project uses two key API interfaces as shown here;
-### [Trefle.io](https://Trefle.io/)
-![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/trefle_header.png?raw= "Trefle Logo")
-
-### [Plant.id](https://plant.id/)
-![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/plant_id_header.png?raw= "Plant.ID Logo")
-
 # **GARDEN MANAGER :seedling:**
 
 ## Contents
@@ -604,6 +597,7 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V1.8 Amend my-account dropdown toggle in css
  - V1.9 Amend css styles for text and shop buttons
  - V2.0 Add mobile and main navbar
+ - V2.1 Upload images to media file
 
 
 ***
