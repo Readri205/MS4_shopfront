@@ -599,6 +599,7 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V2.0 Add mobile and main navbar
  - V2.1 Upload images to media file
  - V2.2 Upload fixtures and amend media images
+ - V2.3 Update json files with name fields
 
 
 ***
