@@ -1,0 +1,2602 @@
+[
+ {
+   "pk": 1,
+   "model": "products.appellation",
+   "fields": {
+      "name": "abruzzo_doc",
+      "friendly_name": "Abruzzo DOC"
+   }
+},
+ {
+   "pk": 2,
+   "model": "products.appellation",
+   "fields": {
+      "name": "adelaide",
+      "friendly_name": "Adelaide"
+   }
+},
+ {
+   "pk": 3,
+   "model": "products.appellation",
+   "fields": {
+      "name": "adelaide_hills",
+      "friendly_name": "Adelaide Hills"
+   }
+},
+ {
+   "pk": 4,
+   "model": "products.appellation",
+   "fields": {
+      "name": "aloxe_corton_premier_cru_aoc",
+      "friendly_name": "Aloxe-Corton Premier Cru AOC"
+   }
+},
+ {
+   "pk": 5,
+   "model": "products.appellation",
+   "fields": {
+      "name": "alpes_de_haute_provence_rose_igp",
+      "friendly_name": "Alpes de Haute Provence Rose IGP"
+   }
+},
+ {
+   "pk": 6,
+   "model": "products.appellation",
+   "fields": {
+      "name": "alsace_aoc",
+      "friendly_name": "Alsace AOC"
+   }
+},
+ {
+   "pk": 7,
+   "model": "products.appellation",
+   "fields": {
+      "name": "alsace_aop",
+      "friendly_name": "Alsace AOP"
+   }
+},
+ {
+   "pk": 8,
+   "model": "products.appellation",
+   "fields": {
+      "name": "alsace_grand_cru_aoc",
+      "friendly_name": "Alsace Grand Cru AOC"
+   }
+},
+ {
+   "pk": 9,
+   "model": "products.appellation",
+   "fields": {
+      "name": "alsace_grand_cru_aop",
+      "friendly_name": "Alsace Grand Cru AOP"
+   }
+},
+ {
+   "pk": 10,
+   "model": "products.appellation",
+   "fields": {
+      "name": "apalta_do",
+      "friendly_name": "Apalta DO"
+   }
+},
+ {
+   "pk": 11,
+   "model": "products.appellation",
+   "fields": {
+      "name": "bairrada_doc",
+      "friendly_name": "Bairrada DOC"
+   }
+},
+ {
+   "pk": 12,
+   "model": "products.appellation",
+   "fields": {
+      "name": "barbaresco_docg",
+      "friendly_name": "Barbaresco DOCG"
+   }
+},
+ {
+   "pk": 13,
+   "model": "products.appellation",
+   "fields": {
+      "name": "bardolino_chiaretto_doc",
+      "friendly_name": "Bardolino Chiaretto DOC"
+   }
+},
+ {
+   "pk": 14,
+   "model": "products.appellation",
+   "fields": {
+      "name": "barolo_docg",
+      "friendly_name": "Barolo DOCG"
+   }
+},
+ {
+   "pk": 15,
+   "model": "products.appellation",
+   "fields": {
+      "name": "barossa",
+      "friendly_name": "Barossa"
+   }
+},
+ {
+   "pk": 16,
+   "model": "products.appellation",
+   "fields": {
+      "name": "barossa_and_clare_valley",
+      "friendly_name": "Barossa and Clare Valley"
+   }
+},
+ {
+   "pk": 17,
+   "model": "products.appellation",
+   "fields": {
+      "name": "barossa_valley",
+      "friendly_name": "Barossa Valley"
+   }
+},
+ {
+   "pk": 18,
+   "model": "products.appellation",
+   "fields": {
+      "name": "beaujolais_aoc",
+      "friendly_name": "Beaujolais AOC"
+   }
+},
+ {
+   "pk": 19,
+   "model": "products.appellation",
+   "fields": {
+      "name": "beaujolais_aop",
+      "friendly_name": "Beaujolais AOP"
+   }
+},
+ {
+   "pk": 20,
+   "model": "products.appellation",
+   "fields": {
+      "name": "beaujolais_villages_aoc",
+      "friendly_name": "Beaujolais-Villages AOC"
+   }
+},
+ {
+   "pk": 21,
+   "model": "products.appellation",
+   "fields": {
+      "name": "beaune_aoc",
+      "friendly_name": "Beaune AOC"
+   }
+},
+ {
+   "pk": 22,
+   "model": "products.appellation",
+   "fields": {
+      "name": "beaune_premier_cru_aoc",
+      "friendly_name": "Beaune Premier Cru AOC"
+   }
+},
+ {
+   "pk": 23,
+   "model": "products.appellation",
+   "fields": {
+      "name": "beqaa_valley",
+      "friendly_name": "Beqaa Valley"
+   }
+},
+ {
+   "pk": 24,
+   "model": "products.appellation",
+   "fields": {
+      "name": "bergerac_sec_aoc",
+      "friendly_name": "Bergerac Sec AOC"
+   }
+},
+ {
+   "pk": 25,
+   "model": "products.appellation",
+   "fields": {
+      "name": "bianco_frizzante",
+      "friendly_name": "Bianco Frizzante"
+   }
+},
+ {
+   "pk": 26,
+   "model": "products.appellation",
+   "fields": {
+      "name": "bianco_trevenezie_igt",
+      "friendly_name": "Bianco Trevenezie IGT"
+   }
+},
+ {
+   "pk": 27,
+   "model": "products.appellation",
+   "fields": {
+      "name": "bianco_vergine_valdichiana_dop",
+      "friendly_name": "Bianco Vergine Valdichiana DOP"
+   }
+},
+ {
+   "pk": 28,
+   "model": "products.appellation",
+   "fields": {
+      "name": "blagny_premier_cru_aoc",
+      "friendly_name": "Blagny Premier Cru AOC"
+   }
+},
+ {
+   "pk": 29,
+   "model": "products.appellation",
+   "fields": {
+      "name": "blaye_cotes_de_bordeaux_aoc",
+      "friendly_name": "Blaye Cotes de Bordeaux AOC"
+   }
+},
+ {
+   "pk": 30,
+   "model": "products.appellation",
+   "fields": {
+      "name": "bolgheri_doc",
+      "friendly_name": "Bolgheri DOC"
+   }
+},
+ {
+   "pk": 31,
+   "model": "products.appellation",
+   "fields": {
+      "name": "bonnes_mares_grand_cru_aoc",
+      "friendly_name": "Bonnes Mares Grand Cru AOC"
+   }
+},
+ {
+   "pk": 32,
+   "model": "products.appellation",
+   "fields": {
+      "name": "bordeaux_aoc",
+      "friendly_name": "Bordeaux AOC"
+   }
+},
+ {
+   "pk": 33,
+   "model": "products.appellation",
+   "fields": {
+      "name": "bordeaux_aop",
+      "friendly_name": "Bordeaux AOP"
+   }
+},
+ {
+   "pk": 34,
+   "model": "products.appellation",
+   "fields": {
+      "name": "bordeaux_superieur_aoc",
+      "friendly_name": "Bordeaux Superieur AOC"
+   }
+},
+ {
+   "pk": 35,
+   "model": "products.appellation",
+   "fields": {
+      "name": "bourgogne_aoc",
+      "friendly_name": "Bourgogne AOC"
+   }
+},
+ {
+   "pk": 36,
+   "model": "products.appellation",
+   "fields": {
+      "name": "bourgogne_hautes_cotes_de_nuits_aoc",
+      "friendly_name": "Bourgogne Hautes-Cotes de Nuits AOC"
+   }
+},
+ {
+   "pk": 37,
+   "model": "products.appellation",
+   "fields": {
+      "name": "brunello_di_montalcino_docg",
+      "friendly_name": "Brunello di Montalcino DOCG"
+   }
+},
+ {
+   "pk": 38,
+   "model": "products.appellation",
+   "fields": {
+      "name": "bugeac",
+      "friendly_name": "Bugeac"
+   }
+},
+ {
+   "pk": 39,
+   "model": "products.appellation",
+   "fields": {
+      "name": "bullas",
+      "friendly_name": "Bullas"
+   }
+},
+ {
+   "pk": 40,
+   "model": "products.appellation",
+   "fields": {
+      "name": "cadiz_vdt",
+      "friendly_name": "Cadiz VdT"
+   }
+},
+ {
+   "pk": 41,
+   "model": "products.appellation",
+   "fields": {
+      "name": "cairanne_aop",
+      "friendly_name": "Cairanne AOP"
+   }
+},
+ {
+   "pk": 42,
+   "model": "products.appellation",
+   "fields": {
+      "name": "calatayud_do",
+      "friendly_name": "Calatayud DO"
+   }
+},
+ {
+   "pk": 43,
+   "model": "products.appellation",
+   "fields": {
+      "name": "california",
+      "friendly_name": "California"
+   }
+},
+ {
+   "pk": 44,
+   "model": "products.appellation",
+   "fields": {
+      "name": "campo_de_borja_do",
+      "friendly_name": "Campo de Borja DO"
+   }
+},
+ {
+   "pk": 45,
+   "model": "products.appellation",
+   "fields": {
+      "name": "cannonau_di_sardegna_doc_jerzu",
+      "friendly_name": "Cannonau di Sardegna DOC Jerzu"
+   }
+},
+ {
+   "pk": 46,
+   "model": "products.appellation",
+   "fields": {
+      "name": "carinena_do",
+      "friendly_name": "Carinena DO"
+   }
+},
+ {
+   "pk": 47,
+   "model": "products.appellation",
+   "fields": {
+      "name": "carnuntum",
+      "friendly_name": "Carnuntum"
+   }
+},
+ {
+   "pk": 48,
+   "model": "products.appellation",
+   "fields": {
+      "name": "castilla_y_leon_vdt",
+      "friendly_name": "Castilla y Leon VdT"
+   }
+},
+ {
+   "pk": 49,
+   "model": "products.appellation",
+   "fields": {
+      "name": "castillon_cotes_de_bordeaux_aoc",
+      "friendly_name": "Castillon Cotes de Bordeaux AOC"
+   }
+},
+ {
+   "pk": 50,
+   "model": "products.appellation",
+   "fields": {
+      "name": "cava_do",
+      "friendly_name": "Cava DO"
+   }
+},
+ {
+   "pk": 51,
+   "model": "products.appellation",
+   "fields": {
+      "name": "central_otago",
+      "friendly_name": "Central Otago"
+   }
+},
+ {
+   "pk": 52,
+   "model": "products.appellation",
+   "fields": {
+      "name": "central_valley",
+      "friendly_name": "Central Valley"
+   }
+},
+ {
+   "pk": 53,
+   "model": "products.appellation",
+   "fields": {
+      "name": "central_victoria",
+      "friendly_name": "Central Victoria"
+   }
+},
+ {
+   "pk": 54,
+   "model": "products.appellation",
+   "fields": {
+      "name": "chablis_aoc",
+      "friendly_name": "Chablis AOC"
+   }
+},
+ {
+   "pk": 55,
+   "model": "products.appellation",
+   "fields": {
+      "name": "chablis_grand_cru_aoc",
+      "friendly_name": "Chablis Grand Cru AOC"
+   }
+},
+ {
+   "pk": 56,
+   "model": "products.appellation",
+   "fields": {
+      "name": "chablis_grand_cru_aop",
+      "friendly_name": "Chablis Grand Cru AOP"
+   }
+},
+ {
+   "pk": 57,
+   "model": "products.appellation",
+   "fields": {
+      "name": "chablis_premier_cru_aoc",
+      "friendly_name": "Chablis Premier Cru AOC"
+   }
+},
+ {
+   "pk": 58,
+   "model": "products.appellation",
+   "fields": {
+      "name": "chambertin_grand_cru_aoc",
+      "friendly_name": "Chambertin Grand Cru AOC"
+   }
+},
+ {
+   "pk": 59,
+   "model": "products.appellation",
+   "fields": {
+      "name": "chambolle_musigny_1er_cru_les_charmes",
+      "friendly_name": "Chambolle-Musigny 1er Cru Les Charmes"
+   }
+},
+ {
+   "pk": 60,
+   "model": "products.appellation",
+   "fields": {
+      "name": "chambolle_musigny_aoc",
+      "friendly_name": "Chambolle-Musigny AOC"
+   }
+},
+ {
+   "pk": 61,
+   "model": "products.appellation",
+   "fields": {
+      "name": "chambolle_musigny_premier_cru_aoc",
+      "friendly_name": "Chambolle-Musigny Premier Cru AOC"
+   }
+},
+ {
+   "pk": 62,
+   "model": "products.appellation",
+   "fields": {
+      "name": "chambolle_musigny_premier_cru_aop",
+      "friendly_name": "Chambolle-Musigny Premier Cru AOP"
+   }
+},
+ {
+   "pk": 63,
+   "model": "products.appellation",
+   "fields": {
+      "name": "champagne",
+      "friendly_name": "Champagne"
+   }
+},
+ {
+   "pk": 64,
+   "model": "products.appellation",
+   "fields": {
+      "name": "charmes_chambertin_grand_cru_aoc",
+      "friendly_name": "Charmes-Chambertin Grand Cru AOC"
+   }
+},
+ {
+   "pk": 65,
+   "model": "products.appellation",
+   "fields": {
+      "name": "chateauneuf_du_pape_aoc",
+      "friendly_name": "Chateauneuf-du-Pape AOC"
+   }
+},
+ {
+   "pk": 66,
+   "model": "products.appellation",
+   "fields": {
+      "name": "chateauneuf_du_pape_aop",
+      "friendly_name": "Chateauneuf-du-Pape AOP"
+   }
+},
+ {
+   "pk": 67,
+   "model": "products.appellation",
+   "fields": {
+      "name": "chenas_aoc",
+      "friendly_name": "Chenas AOC"
+   }
+},
+ {
+   "pk": 68,
+   "model": "products.appellation",
+   "fields": {
+      "name": "chianti_classico_docg",
+      "friendly_name": "Chianti Classico DOCG"
+   }
+},
+ {
+   "pk": 69,
+   "model": "products.appellation",
+   "fields": {
+      "name": "chianti_docg",
+      "friendly_name": "Chianti DOCG"
+   }
+},
+ {
+   "pk": 70,
+   "model": "products.appellation",
+   "fields": {
+      "name": "cimislia",
+      "friendly_name": "Cimislia"
+   }
+},
+ {
+   "pk": 71,
+   "model": "products.appellation",
+   "fields": {
+      "name": "cite_de_carcassonne_igp",
+      "friendly_name": "Cite de Carcassonne IGP"
+   }
+},
+ {
+   "pk": 72,
+   "model": "products.appellation",
+   "fields": {
+      "name": "clare_valley",
+      "friendly_name": "Clare Valley"
+   }
+},
+ {
+   "pk": 73,
+   "model": "products.appellation",
+   "fields": {
+      "name": "clare_valley_and_mclaren_vale",
+      "friendly_name": "Clare Valley and McLaren Vale"
+   }
+},
+ {
+   "pk": 74,
+   "model": "products.appellation",
+   "fields": {
+      "name": "clos_de_la_roche_grand_cru_aoc",
+      "friendly_name": "Clos de la Roche Grand Cru AOC"
+   }
+},
+ {
+   "pk": 75,
+   "model": "products.appellation",
+   "fields": {
+      "name": "clos_de_vougeot_grand_cru_aoc",
+      "friendly_name": "Clos de Vougeot Grand Cru AOC"
+   }
+},
+ {
+   "pk": 76,
+   "model": "products.appellation",
+   "fields": {
+      "name": "clos_saint_denis_grand_cru_aoc",
+      "friendly_name": "Clos Saint-Denis Grand Cru AOC"
+   }
+},
+ {
+   "pk": 77,
+   "model": "products.appellation",
+   "fields": {
+      "name": "coastal_region_wo",
+      "friendly_name": "Coastal Region WO"
+   }
+},
+ {
+   "pk": 78,
+   "model": "products.appellation",
+   "fields": {
+      "name": "codru",
+      "friendly_name": "Codru"
+   }
+},
+ {
+   "pk": 79,
+   "model": "products.appellation",
+   "fields": {
+      "name": "colchagua",
+      "friendly_name": "Colchagua"
+   }
+},
+ {
+   "pk": 80,
+   "model": "products.appellation",
+   "fields": {
+      "name": "colchagua_costa",
+      "friendly_name": "Colchagua Costa"
+   }
+},
+ {
+   "pk": 81,
+   "model": "products.appellation",
+   "fields": {
+      "name": "colchagua_valley",
+      "friendly_name": "Colchagua Valley"
+   }
+},
+ {
+   "pk": 82,
+   "model": "products.appellation",
+   "fields": {
+      "name": "colline_pescaresi_igt",
+      "friendly_name": "Colline Pescaresi IGT"
+   }
+},
+ {
+   "pk": 83,
+   "model": "products.appellation",
+   "fields": {
+      "name": "collines_rhodaniennes_igp",
+      "friendly_name": "Collines Rhodaniennes IGP"
+   }
+},
+ {
+   "pk": 84,
+   "model": "products.appellation",
+   "fields": {
+      "name": "collioure_aop",
+      "friendly_name": "Collioure AOP"
+   }
+},
+ {
+   "pk": 85,
+   "model": "products.appellation",
+   "fields": {
+      "name": "comte_tolosan_igp",
+      "friendly_name": "Comte Tolosan IGP"
+   }
+},
+ {
+   "pk": 86,
+   "model": "products.appellation",
+   "fields": {
+      "name": "comte_tolosan_vdp",
+      "friendly_name": "Comte Tolosan VdP"
+   }
+},
+ {
+   "pk": 87,
+   "model": "products.appellation",
+   "fields": {
+      "name": "condrieu_aoc",
+      "friendly_name": "Condrieu AOC"
+   }
+},
+ {
+   "pk": 88,
+   "model": "products.appellation",
+   "fields": {
+      "name": "constantia_wo",
+      "friendly_name": "Constantia WO"
+   }
+},
+ {
+   "pk": 89,
+   "model": "products.appellation",
+   "fields": {
+      "name": "coonawarra",
+      "friendly_name": "Coonawarra"
+   }
+},
+ {
+   "pk": 90,
+   "model": "products.appellation",
+   "fields": {
+      "name": "corbieres_aoc",
+      "friendly_name": "Corbieres AOC"
+   }
+},
+ {
+   "pk": 91,
+   "model": "products.appellation",
+   "fields": {
+      "name": "cornas_aoc",
+      "friendly_name": "Cornas AOC"
+   }
+},
+ {
+   "pk": 92,
+   "model": "products.appellation",
+   "fields": {
+      "name": "cornas_aop",
+      "friendly_name": "Cornas AOP"
+   }
+},
+ {
+   "pk": 93,
+   "model": "products.appellation",
+   "fields": {
+      "name": "corton_charlemagne_grand_cru_aoc",
+      "friendly_name": "Corton Charlemagne Grand Cru AOC"
+   }
+},
+ {
+   "pk": 94,
+   "model": "products.appellation",
+   "fields": {
+      "name": "corton_grand_cru_aoc",
+      "friendly_name": "Corton Grand Cru AOC"
+   }
+},
+ {
+   "pk": 95,
+   "model": "products.appellation",
+   "fields": {
+      "name": "corton_grand_cru_aop",
+      "friendly_name": "Corton Grand Cru AOP"
+   }
+},
+ {
+   "pk": 96,
+   "model": "products.appellation",
+   "fields": {
+      "name": "cote_de_beaune_aoc",
+      "friendly_name": "Cote de Beaune AOC"
+   }
+},
+ {
+   "pk": 97,
+   "model": "products.appellation",
+   "fields": {
+      "name": "cote_de_nuits_villages_aop",
+      "friendly_name": "Cote de Nuits Villages AOP"
+   }
+},
+ {
+   "pk": 98,
+   "model": "products.appellation",
+   "fields": {
+      "name": "cote_rotie_aoc",
+      "friendly_name": "Cote-Rotie AOC"
+   }
+},
+ {
+   "pk": 99,
+   "model": "products.appellation",
+   "fields": {
+      "name": "cote_rotie_aop",
+      "friendly_name": "Cote-Rotie AOP"
+   }
+},
+ {
+   "pk": 100,
+   "model": "products.appellation",
+   "fields": {
+      "name": "coteaux_de_peyriac_igp",
+      "friendly_name": "Coteaux de Peyriac IGP"
+   }
+},
+ {
+   "pk": 101,
+   "model": "products.appellation",
+   "fields": {
+      "name": "cotes_catalanes_igp",
+      "friendly_name": "Cotes Catalanes IGP"
+   }
+},
+ {
+   "pk": 102,
+   "model": "products.appellation",
+   "fields": {
+      "name": "cotes_de_bordeaux_aoc",
+      "friendly_name": "Cotes de Bordeaux AOC"
+   }
+},
+ {
+   "pk": 103,
+   "model": "products.appellation",
+   "fields": {
+      "name": "cotes_de_gascogne_igp",
+      "friendly_name": "Cotes de Gascogne IGP"
+   }
+},
+ {
+   "pk": 104,
+   "model": "products.appellation",
+   "fields": {
+      "name": "cotes_de_provence_aoc",
+      "friendly_name": "Cotes de Provence AOC"
+   }
+},
+ {
+   "pk": 105,
+   "model": "products.appellation",
+   "fields": {
+      "name": "cotes_de_provence_aop",
+      "friendly_name": "Cotes de Provence AOP"
+   }
+},
+ {
+   "pk": 106,
+   "model": "products.appellation",
+   "fields": {
+      "name": "cotes_du_rhone_aoc",
+      "friendly_name": "Cotes du Rhone AOC"
+   }
+},
+ {
+   "pk": 107,
+   "model": "products.appellation",
+   "fields": {
+      "name": "cotes_du_rhone_aop",
+      "friendly_name": "Cotes du Rhone AOP"
+   }
+},
+ {
+   "pk": 108,
+   "model": "products.appellation",
+   "fields": {
+      "name": "cotes_du_rhone_villages_aop_visan",
+      "friendly_name": "Cotes du Rhone Villages AOP Visan"
+   }
+},
+ {
+   "pk": 109,
+   "model": "products.appellation",
+   "fields": {
+      "name": "cotes_du_rhone_villages_aoc",
+      "friendly_name": "Cotes du Rhone-Villages AOC"
+   }
+},
+ {
+   "pk": 110,
+   "model": "products.appellation",
+   "fields": {
+      "name": "cotes_du_rhone_villages_aoc_seguret",
+      "friendly_name": "Cotes du Rhone-Villages AOC Seguret"
+   }
+},
+ {
+   "pk": 111,
+   "model": "products.appellation",
+   "fields": {
+      "name": "cotes_du_roussillon_villages_lesquerde_aop",
+      "friendly_name": "Cotes du Roussillon Villages Lesquerde AOP"
+   }
+},
+ {
+   "pk": 112,
+   "model": "products.appellation",
+   "fields": {
+      "name": "cotes_du_roussillon_villages_aoc",
+      "friendly_name": "Cotes du Roussillon-Villages AOC"
+   }
+},
+ {
+   "pk": 113,
+   "model": "products.appellation",
+   "fields": {
+      "name": "cotes_du_tarn_igp",
+      "friendly_name": "Cotes du Tarn IGP"
+   }
+},
+ {
+   "pk": 114,
+   "model": "products.appellation",
+   "fields": {
+      "name": "cremant_de_bourgogne_aoc",
+      "friendly_name": "Cremant de Bourgogne AOC"
+   }
+},
+ {
+   "pk": 115,
+   "model": "products.appellation",
+   "fields": {
+      "name": "cremant_de_limoux_aoc",
+      "friendly_name": "Cremant de Limoux AOC"
+   }
+},
+ {
+   "pk": 116,
+   "model": "products.appellation",
+   "fields": {
+      "name": "cremant_de_loire_aoc",
+      "friendly_name": "Cremant de Loire AOC"
+   }
+},
+ {
+   "pk": 117,
+   "model": "products.appellation",
+   "fields": {
+      "name": "crozes_hermitage_aoc",
+      "friendly_name": "Crozes-Hermitage AOC"
+   }
+},
+ {
+   "pk": 118,
+   "model": "products.appellation",
+   "fields": {
+      "name": "dealu_mare",
+      "friendly_name": "Dealu Mare"
+   }
+},
+ {
+   "pk": 119,
+   "model": "products.appellation",
+   "fields": {
+      "name": "dealu_mare_doc",
+      "friendly_name": "Dealu Mare DOC"
+   }
+},
+ {
+   "pk": 120,
+   "model": "products.appellation",
+   "fields": {
+      "name": "dealurile_munteniei",
+      "friendly_name": "Dealurile Munteniei"
+   }
+},
+ {
+   "pk": 121,
+   "model": "products.appellation",
+   "fields": {
+      "name": "delle_venezie_doc",
+      "friendly_name": "Delle Venezie DOC"
+   }
+},
+ {
+   "pk": 122,
+   "model": "products.appellation",
+   "fields": {
+      "name": "dop_fruili",
+      "friendly_name": "DOP Fruili"
+   }
+},
+ {
+   "pk": 123,
+   "model": "products.appellation",
+   "fields": {
+      "name": "douro_doc",
+      "friendly_name": "Douro DOC"
+   }
+},
+ {
+   "pk": 124,
+   "model": "products.appellation",
+   "fields": {
+      "name": "dunantúli",
+      "friendly_name": "Dunantúli"
+   }
+},
+ {
+   "pk": 125,
+   "model": "products.appellation",
+   "fields": {
+      "name": "echezeaux_grand_cru_aoc",
+      "friendly_name": "Echezeaux Grand Cru AOC"
+   }
+},
+ {
+   "pk": 126,
+   "model": "products.appellation",
+   "fields": {
+      "name": "eden_valley",
+      "friendly_name": "Eden Valley"
+   }
+},
+ {
+   "pk": 127,
+   "model": "products.appellation",
+   "fields": {
+      "name": "english_quality_sparkling_wine",
+      "friendly_name": "English Quality Sparkling Wine"
+   }
+},
+ {
+   "pk": 128,
+   "model": "products.appellation",
+   "fields": {
+      "name": "extremadura_vdt",
+      "friendly_name": "Extremadura VdT"
+   }
+},
+ {
+   "pk": 129,
+   "model": "products.appellation",
+   "fields": {
+      "name": "fixin_aoc",
+      "friendly_name": "Fixin AOC"
+   }
+},
+ {
+   "pk": 130,
+   "model": "products.appellation",
+   "fields": {
+      "name": "francs_cotes_de_bordeaux_aoc",
+      "friendly_name": "Francs Cotes de Bordeaux AOC"
+   }
+},
+ {
+   "pk": 131,
+   "model": "products.appellation",
+   "fields": {
+      "name": "friuli_isonzo_doc",
+      "friendly_name": "Friuli Isonzo DOC"
+   }
+},
+ {
+   "pk": 132,
+   "model": "products.appellation",
+   "fields": {
+      "name": "friuli_isonzo_dop",
+      "friendly_name": "Friuli Isonzo DOP"
+   }
+},
+ {
+   "pk": 133,
+   "model": "products.appellation",
+   "fields": {
+      "name": "fronsac_aoc",
+      "friendly_name": "Fronsac AOC"
+   }
+},
+ {
+   "pk": 134,
+   "model": "products.appellation",
+   "fields": {
+      "name": "garda_doc",
+      "friendly_name": "Garda DOC"
+   }
+},
+ {
+   "pk": 135,
+   "model": "products.appellation",
+   "fields": {
+      "name": "gavi_docg",
+      "friendly_name": "Gavi DOCG"
+   }
+},
+ {
+   "pk": 136,
+   "model": "products.appellation",
+   "fields": {
+      "name": "getariako_txakolina",
+      "friendly_name": "Getariako Txakolina"
+   }
+},
+ {
+   "pk": 137,
+   "model": "products.appellation",
+   "fields": {
+      "name": "gevrey_chambertin_aoc",
+      "friendly_name": "Gevrey-Chambertin AOC"
+   }
+},
+ {
+   "pk": 138,
+   "model": "products.appellation",
+   "fields": {
+      "name": "gevrey_chambertin_aop",
+      "friendly_name": "Gevrey-Chambertin AOP"
+   }
+},
+ {
+   "pk": 139,
+   "model": "products.appellation",
+   "fields": {
+      "name": "gevrey_chambertin_premier_cru_aoc",
+      "friendly_name": "Gevrey-Chambertin Premier Cru AOC"
+   }
+},
+ {
+   "pk": 140,
+   "model": "products.appellation",
+   "fields": {
+      "name": "gevrey_chambertin_premier_cru_aop",
+      "friendly_name": "Gevrey-Chambertin Premier Cru AOP"
+   }
+},
+ {
+   "pk": 141,
+   "model": "products.appellation",
+   "fields": {
+      "name": "gigondas_aoc",
+      "friendly_name": "Gigondas AOC"
+   }
+},
+ {
+   "pk": 142,
+   "model": "products.appellation",
+   "fields": {
+      "name": "graves_aoc",
+      "friendly_name": "Graves AOC"
+   }
+},
+ {
+   "pk": 143,
+   "model": "products.appellation",
+   "fields": {
+      "name": "great_southern",
+      "friendly_name": "Great Southern"
+   }
+},
+ {
+   "pk": 144,
+   "model": "products.appellation",
+   "fields": {
+      "name": "greco_di_tufo_docg",
+      "friendly_name": "Greco di Tufo DOCG"
+   }
+},
+ {
+   "pk": 145,
+   "model": "products.appellation",
+   "fields": {
+      "name": "gutswein",
+      "friendly_name": "Gutswein"
+   }
+},
+ {
+   "pk": 146,
+   "model": "products.appellation",
+   "fields": {
+      "name": "haut_medoc_aoc_5eme_cru_classe",
+      "friendly_name": "Haut-Medoc AOC 5eme Cru Classe"
+   }
+},
+ {
+   "pk": 147,
+   "model": "products.appellation",
+   "fields": {
+      "name": "haut_medoc_aoc_cru_bourgeois",
+      "friendly_name": "Haut-Medoc AOC Cru Bourgeois"
+   }
+},
+ {
+   "pk": 148,
+   "model": "products.appellation",
+   "fields": {
+      "name": "hawke's_bay",
+      "friendly_name": "Hawke's Bay"
+   }
+},
+ {
+   "pk": 149,
+   "model": "products.appellation",
+   "fields": {
+      "name": "hermitage_aoc",
+      "friendly_name": "Hermitage AOC"
+   }
+},
+ {
+   "pk": 150,
+   "model": "products.appellation",
+   "fields": {
+      "name": "hunter_valley",
+      "friendly_name": "Hunter Valley"
+   }
+},
+ {
+   "pk": 151,
+   "model": "products.appellation",
+   "fields": {
+      "name": "jerez_do",
+      "friendly_name": "Jerez DO"
+   }
+},
+ {
+   "pk": 152,
+   "model": "products.appellation",
+   "fields": {
+      "name": "jora_de_mijloc",
+      "friendly_name": "Jora de Mijloc"
+   }
+},
+ {
+   "pk": 153,
+   "model": "products.appellation",
+   "fields": {
+      "name": "jumilla_do",
+      "friendly_name": "Jumilla DO"
+   }
+},
+ {
+   "pk": 154,
+   "model": "products.appellation",
+   "fields": {
+      "name": "kent",
+      "friendly_name": "Kent"
+   }
+},
+ {
+   "pk": 155,
+   "model": "products.appellation",
+   "fields": {
+      "name": "kremstal",
+      "friendly_name": "Kremstal"
+   }
+},
+ {
+   "pk": 156,
+   "model": "products.appellation",
+   "fields": {
+      "name": "lalande_de_pomerol_aoc",
+      "friendly_name": "Lalande de Pomerol AOC"
+   }
+},
+ {
+   "pk": 157,
+   "model": "products.appellation",
+   "fields": {
+      "name": "langhorne_creek",
+      "friendly_name": "Langhorne Creek"
+   }
+},
+ {
+   "pk": 158,
+   "model": "products.appellation",
+   "fields": {
+      "name": "limestone_coast",
+      "friendly_name": "Limestone Coast"
+   }
+},
+ {
+   "pk": 159,
+   "model": "products.appellation",
+   "fields": {
+      "name": "lirac_aop",
+      "friendly_name": "Lirac AOP"
+   }
+},
+ {
+   "pk": 160,
+   "model": "products.appellation",
+   "fields": {
+      "name": "lot_igp",
+      "friendly_name": "Lot IGP"
+   }
+},
+ {
+   "pk": 161,
+   "model": "products.appellation",
+   "fields": {
+      "name": "lujan_de_cuyo",
+      "friendly_name": "Lujan de Cuyo"
+   }
+},
+ {
+   "pk": 162,
+   "model": "products.appellation",
+   "fields": {
+      "name": "maranges_1er_cru_aoc",
+      "friendly_name": "Maranges 1er Cru AOC"
+   }
+},
+ {
+   "pk": 163,
+   "model": "products.appellation",
+   "fields": {
+      "name": "maranges_aoc",
+      "friendly_name": "Maranges AOC"
+   }
+},
+ {
+   "pk": 164,
+   "model": "products.appellation",
+   "fields": {
+      "name": "margaret_river",
+      "friendly_name": "Margaret River"
+   }
+},
+ {
+   "pk": 165,
+   "model": "products.appellation",
+   "fields": {
+      "name": "margaux_aoc",
+      "friendly_name": "Margaux AOC"
+   }
+},
+ {
+   "pk": 166,
+   "model": "products.appellation",
+   "fields": {
+      "name": "margaux_aoc_2eme_grand_cru_classe",
+      "friendly_name": "Margaux AOC 2eme Grand Cru Classe"
+   }
+},
+ {
+   "pk": 167,
+   "model": "products.appellation",
+   "fields": {
+      "name": "margaux_aoc_3eme_grand_cru_classe",
+      "friendly_name": "Margaux AOC 3eme Grand Cru Classe"
+   }
+},
+ {
+   "pk": 168,
+   "model": "products.appellation",
+   "fields": {
+      "name": "marlborough",
+      "friendly_name": "Marlborough"
+   }
+},
+ {
+   "pk": 169,
+   "model": "products.appellation",
+   "fields": {
+      "name": "marsannay_aoc",
+      "friendly_name": "Marsannay AOC"
+   }
+},
+ {
+   "pk": 170,
+   "model": "products.appellation",
+   "fields": {
+      "name": "martinborough",
+      "friendly_name": "Martinborough"
+   }
+},
+ {
+   "pk": 171,
+   "model": "products.appellation",
+   "fields": {
+      "name": "maule_valley",
+      "friendly_name": "Maule Valley"
+   }
+},
+ {
+   "pk": 172,
+   "model": "products.appellation",
+   "fields": {
+      "name": "mclaren_vale",
+      "friendly_name": "McLaren Vale"
+   }
+},
+ {
+   "pk": 173,
+   "model": "products.appellation",
+   "fields": {
+      "name": "medoc_aoc",
+      "friendly_name": "Medoc AOC"
+   }
+},
+ {
+   "pk": 174,
+   "model": "products.appellation",
+   "fields": {
+      "name": "mendoza",
+      "friendly_name": "Mendoza"
+   }
+},
+ {
+   "pk": 175,
+   "model": "products.appellation",
+   "fields": {
+      "name": "meursault_aoc",
+      "friendly_name": "Meursault AOC"
+   }
+},
+ {
+   "pk": 176,
+   "model": "products.appellation",
+   "fields": {
+      "name": "minervois_aop",
+      "friendly_name": "Minervois AOP"
+   }
+},
+ {
+   "pk": 177,
+   "model": "products.appellation",
+   "fields": {
+      "name": "mixed",
+      "friendly_name": "Mixed"
+   }
+},
+ {
+   "pk": 178,
+   "model": "products.appellation",
+   "fields": {
+      "name": "montagne_saint_emilion_aoc",
+      "friendly_name": "Montagne Saint-Emilion AOC"
+   }
+},
+ {
+   "pk": 179,
+   "model": "products.appellation",
+   "fields": {
+      "name": "montlouis_sur_loire_aoc",
+      "friendly_name": "Montlouis sur Loire AOC"
+   }
+},
+ {
+   "pk": 180,
+   "model": "products.appellation",
+   "fields": {
+      "name": "morey_saint_denis_aoc",
+      "friendly_name": "Morey-Saint-Denis AOC"
+   }
+},
+ {
+   "pk": 181,
+   "model": "products.appellation",
+   "fields": {
+      "name": "morey_saint_denis_premier_cru_aoc",
+      "friendly_name": "Morey-Saint-Denis Premier Cru AOC"
+   }
+},
+ {
+   "pk": 182,
+   "model": "products.appellation",
+   "fields": {
+      "name": "mosel_qualitätswein",
+      "friendly_name": "Mosel Qualitätswein"
+   }
+},
+ {
+   "pk": 183,
+   "model": "products.appellation",
+   "fields": {
+      "name": "moulin_a_vent__aoc",
+      "friendly_name": "Moulin a Vent  AOC"
+   }
+},
+ {
+   "pk": 184,
+   "model": "products.appellation",
+   "fields": {
+      "name": "moulin_à_vent__aop",
+      "friendly_name": "Moulin à Vent  AOP"
+   }
+},
+ {
+   "pk": 185,
+   "model": "products.appellation",
+   "fields": {
+      "name": "muscadet_aoc",
+      "friendly_name": "Muscadet AOC"
+   }
+},
+ {
+   "pk": 186,
+   "model": "products.appellation",
+   "fields": {
+      "name": "navarra_do",
+      "friendly_name": "Navarra DO"
+   }
+},
+ {
+   "pk": 187,
+   "model": "products.appellation",
+   "fields": {
+      "name": "nelson",
+      "friendly_name": "Nelson"
+   }
+},
+ {
+   "pk": 188,
+   "model": "products.appellation",
+   "fields": {
+      "name": "new_south_wales",
+      "friendly_name": "New South Wales"
+   }
+},
+ {
+   "pk": 189,
+   "model": "products.appellation",
+   "fields": {
+      "name": "niederösterreich",
+      "friendly_name": "Niederösterreich"
+   }
+},
+ {
+   "pk": 190,
+   "model": "products.appellation",
+   "fields": {
+      "name": "nuits_saint_georges_aoc",
+      "friendly_name": "Nuits-Saint-Georges AOC"
+   }
+},
+ {
+   "pk": 191,
+   "model": "products.appellation",
+   "fields": {
+      "name": "nuits_saint_georges_premier_cru_aoc",
+      "friendly_name": "Nuits-Saint-Georges Premier Cru AOC"
+   }
+},
+ {
+   "pk": 192,
+   "model": "products.appellation",
+   "fields": {
+      "name": "nuits_saint_georges_premier_cru_aop",
+      "friendly_name": "Nuits-Saint-Georges Premier Cru AOP"
+   }
+},
+ {
+   "pk": 193,
+   "model": "products.appellation",
+   "fields": {
+      "name": "oc_vdp",
+      "friendly_name": "Oc VdP"
+   }
+},
+ {
+   "pk": 194,
+   "model": "products.appellation",
+   "fields": {
+      "name": "pauillac_aoc",
+      "friendly_name": "Pauillac AOC"
+   }
+},
+ {
+   "pk": 195,
+   "model": "products.appellation",
+   "fields": {
+      "name": "pauillac_aoc_5eme_grand_cru_classe",
+      "friendly_name": "Pauillac AOC 5eme Grand Cru Classe"
+   }
+},
+ {
+   "pk": 196,
+   "model": "products.appellation",
+   "fields": {
+      "name": "pays_d'herault_igp",
+      "friendly_name": "Pays d'Herault IGP"
+   }
+},
+ {
+   "pk": 197,
+   "model": "products.appellation",
+   "fields": {
+      "name": "pays_d'oc_igp",
+      "friendly_name": "Pays d'Oc IGP"
+   }
+},
+ {
+   "pk": 198,
+   "model": "products.appellation",
+   "fields": {
+      "name": "pessac_leognan_aoc",
+      "friendly_name": "Pessac-Leognan AOC"
+   }
+},
+ {
+   "pk": 199,
+   "model": "products.appellation",
+   "fields": {
+      "name": "pessac_leognan_aoc_1er_grand_cru_classe",
+      "friendly_name": "Pessac-Leognan AOC 1er Grand Cru Classe"
+   }
+},
+ {
+   "pk": 200,
+   "model": "products.appellation",
+   "fields": {
+      "name": "pessac_leognan_aoc_grand_cru_classe",
+      "friendly_name": "Pessac-Leognan AOC Grand Cru Classe"
+   }
+},
+ {
+   "pk": 201,
+   "model": "products.appellation",
+   "fields": {
+      "name": "pfalz_qba",
+      "friendly_name": "Pfalz QbA"
+   }
+},
+ {
+   "pk": 202,
+   "model": "products.appellation",
+   "fields": {
+      "name": "pfalz_qualitätswein",
+      "friendly_name": "Pfalz Qualitätswein"
+   }
+},
+ {
+   "pk": 203,
+   "model": "products.appellation",
+   "fields": {
+      "name": "pgi_thracian_valley",
+      "friendly_name": "PGI Thracian Valley"
+   }
+},
+ {
+   "pk": 204,
+   "model": "products.appellation",
+   "fields": {
+      "name": "piemonte_dop",
+      "friendly_name": "Piemonte DOP"
+   }
+},
+ {
+   "pk": 205,
+   "model": "products.appellation",
+   "fields": {
+      "name": "pomerol_aoc",
+      "friendly_name": "Pomerol AOC"
+   }
+},
+ {
+   "pk": 206,
+   "model": "products.appellation",
+   "fields": {
+      "name": "pommard_aoc",
+      "friendly_name": "Pommard AOC"
+   }
+},
+ {
+   "pk": 207,
+   "model": "products.appellation",
+   "fields": {
+      "name": "pommard_aop",
+      "friendly_name": "Pommard AOP"
+   }
+},
+ {
+   "pk": 208,
+   "model": "products.appellation",
+   "fields": {
+      "name": "pommard_premier_cru_aoc",
+      "friendly_name": "Pommard Premier Cru AOC"
+   }
+},
+ {
+   "pk": 209,
+   "model": "products.appellation",
+   "fields": {
+      "name": "port",
+      "friendly_name": "Port"
+   }
+},
+ {
+   "pk": 210,
+   "model": "products.appellation",
+   "fields": {
+      "name": "pouilly_fume_aoc",
+      "friendly_name": "Pouilly-Fume AOC"
+   }
+},
+ {
+   "pk": 211,
+   "model": "products.appellation",
+   "fields": {
+      "name": "priorat_doca",
+      "friendly_name": "Priorat DOCa"
+   }
+},
+ {
+   "pk": 212,
+   "model": "products.appellation",
+   "fields": {
+      "name": "produit_en_france",
+      "friendly_name": "Produit en France"
+   }
+},
+ {
+   "pk": 213,
+   "model": "products.appellation",
+   "fields": {
+      "name": "prosecco_doc",
+      "friendly_name": "Prosecco DOC"
+   }
+},
+ {
+   "pk": 214,
+   "model": "products.appellation",
+   "fields": {
+      "name": "prosecco_doc_millesimato",
+      "friendly_name": "Prosecco DOC Millesimato"
+   }
+},
+ {
+   "pk": 215,
+   "model": "products.appellation",
+   "fields": {
+      "name": "prosecco_docg",
+      "friendly_name": "Prosecco DOCG"
+   }
+},
+ {
+   "pk": 216,
+   "model": "products.appellation",
+   "fields": {
+      "name": "puglia_igp",
+      "friendly_name": "Puglia IGP"
+   }
+},
+ {
+   "pk": 217,
+   "model": "products.appellation",
+   "fields": {
+      "name": "puglia_igt",
+      "friendly_name": "Puglia IGT"
+   }
+},
+ {
+   "pk": 218,
+   "model": "products.appellation",
+   "fields": {
+      "name": "puisseguin_saint_emilion_aoc",
+      "friendly_name": "Puisseguin Saint-Emilion AOC"
+   }
+},
+ {
+   "pk": 219,
+   "model": "products.appellation",
+   "fields": {
+      "name": "quality_sparkling_wine",
+      "friendly_name": "Quality Sparkling Wine"
+   }
+},
+ {
+   "pk": 220,
+   "model": "products.appellation",
+   "fields": {
+      "name": "rasteau_aop",
+      "friendly_name": "Rasteau AOP"
+   }
+},
+ {
+   "pk": 221,
+   "model": "products.appellation",
+   "fields": {
+      "name": "rheingau_qmp",
+      "friendly_name": "Rheingau QmP"
+   }
+},
+ {
+   "pk": 222,
+   "model": "products.appellation",
+   "fields": {
+      "name": "rheinhessen_qba",
+      "friendly_name": "Rheinhessen QbA"
+   }
+},
+ {
+   "pk": 223,
+   "model": "products.appellation",
+   "fields": {
+      "name": "rias_baixas_do",
+      "friendly_name": "Rias Baixas DO"
+   }
+},
+ {
+   "pk": 224,
+   "model": "products.appellation",
+   "fields": {
+      "name": "ribeiro_do",
+      "friendly_name": "Ribeiro DO"
+   }
+},
+ {
+   "pk": 225,
+   "model": "products.appellation",
+   "fields": {
+      "name": "ribera_del_duero_do",
+      "friendly_name": "Ribera del Duero DO"
+   }
+},
+ {
+   "pk": 226,
+   "model": "products.appellation",
+   "fields": {
+      "name": "rioja_doc",
+      "friendly_name": "Rioja DOC"
+   }
+},
+ {
+   "pk": 227,
+   "model": "products.appellation",
+   "fields": {
+      "name": "rioja_doca",
+      "friendly_name": "Rioja DOCa"
+   }
+},
+ {
+   "pk": 228,
+   "model": "products.appellation",
+   "fields": {
+      "name": "riverina",
+      "friendly_name": "Riverina"
+   }
+},
+ {
+   "pk": 229,
+   "model": "products.appellation",
+   "fields": {
+      "name": "robertson_wo",
+      "friendly_name": "Robertson WO"
+   }
+},
+ {
+   "pk": 230,
+   "model": "products.appellation",
+   "fields": {
+      "name": "romanee_saint_vivant_grand_cru_aoc",
+      "friendly_name": "Romanee-Saint-Vivant Grand Cru AOC"
+   }
+},
+ {
+   "pk": 231,
+   "model": "products.appellation",
+   "fields": {
+      "name": "rosso_di_montalcino_doc",
+      "friendly_name": "Rosso di Montalcino DOC"
+   }
+},
+ {
+   "pk": 232,
+   "model": "products.appellation",
+   "fields": {
+      "name": "rubicone_igt",
+      "friendly_name": "Rubicone IGT"
+   }
+},
+ {
+   "pk": 233,
+   "model": "products.appellation",
+   "fields": {
+      "name": "rueda_do",
+      "friendly_name": "Rueda DO"
+   }
+},
+ {
+   "pk": 234,
+   "model": "products.appellation",
+   "fields": {
+      "name": "saint_emilion_1er_grand_cru_classe_aoc",
+      "friendly_name": "Saint-Emilion 1er Grand Cru Classe AOC"
+   }
+},
+ {
+   "pk": 235,
+   "model": "products.appellation",
+   "fields": {
+      "name": "saint_emilion_aoc",
+      "friendly_name": "Saint-Emilion AOC"
+   }
+},
+ {
+   "pk": 236,
+   "model": "products.appellation",
+   "fields": {
+      "name": "saint_emilion_grand_cru_aoc",
+      "friendly_name": "Saint-Emilion Grand Cru AOC"
+   }
+},
+ {
+   "pk": 237,
+   "model": "products.appellation",
+   "fields": {
+      "name": "saint_emilion_grand_cru_classe_aoc",
+      "friendly_name": "Saint-Emilion Grand Cru Classe AOC"
+   }
+},
+ {
+   "pk": 238,
+   "model": "products.appellation",
+   "fields": {
+      "name": "saint_estephe_aoc",
+      "friendly_name": "Saint-Estephe AOC"
+   }
+},
+ {
+   "pk": 239,
+   "model": "products.appellation",
+   "fields": {
+      "name": "saint_estephe_aoc_2eme_grand_cru_classe",
+      "friendly_name": "Saint-Estephe AOC 2eme Grand Cru Classe"
+   }
+},
+ {
+   "pk": 240,
+   "model": "products.appellation",
+   "fields": {
+      "name": "saint_estephe_aoc_3eme_grand_cru_classe",
+      "friendly_name": "Saint-Estephe AOC 3eme Grand Cru Classe"
+   }
+},
+ {
+   "pk": 241,
+   "model": "products.appellation",
+   "fields": {
+      "name": "saint_joseph_aoc",
+      "friendly_name": "Saint-Joseph AOC"
+   }
+},
+ {
+   "pk": 242,
+   "model": "products.appellation",
+   "fields": {
+      "name": "saint_joseph_aop",
+      "friendly_name": "Saint-Joseph AOP"
+   }
+},
+ {
+   "pk": 243,
+   "model": "products.appellation",
+   "fields": {
+      "name": "saint_julien_aoc",
+      "friendly_name": "Saint-Julien AOC"
+   }
+},
+ {
+   "pk": 244,
+   "model": "products.appellation",
+   "fields": {
+      "name": "saint_julien_aoc_2eme_grand_cru_classe",
+      "friendly_name": "Saint-Julien AOC 2eme Grand Cru Classe"
+   }
+},
+ {
+   "pk": 245,
+   "model": "products.appellation",
+   "fields": {
+      "name": "saint_julien_aoc_4eme_grand_cru_classe",
+      "friendly_name": "Saint-Julien AOC 4eme Grand Cru Classe"
+   }
+},
+ {
+   "pk": 246,
+   "model": "products.appellation",
+   "fields": {
+      "name": "saint_peray_aoc",
+      "friendly_name": "Saint-Peray AOC"
+   }
+},
+ {
+   "pk": 247,
+   "model": "products.appellation",
+   "fields": {
+      "name": "saint_peray_aop",
+      "friendly_name": "Saint-Peray AOP"
+   }
+},
+ {
+   "pk": 248,
+   "model": "products.appellation",
+   "fields": {
+      "name": "salento_rosso_igp",
+      "friendly_name": "Salento Rosso IGP"
+   }
+},
+ {
+   "pk": 249,
+   "model": "products.appellation",
+   "fields": {
+      "name": "san_juan",
+      "friendly_name": "San Juan"
+   }
+},
+ {
+   "pk": 250,
+   "model": "products.appellation",
+   "fields": {
+      "name": "sancerre_aoc",
+      "friendly_name": "Sancerre AOC"
+   }
+},
+ {
+   "pk": 251,
+   "model": "products.appellation",
+   "fields": {
+      "name": "santa_cruz",
+      "friendly_name": "Santa Cruz"
+   }
+},
+ {
+   "pk": 252,
+   "model": "products.appellation",
+   "fields": {
+      "name": "sauternes_aoc",
+      "friendly_name": "Sauternes AOC"
+   }
+},
+ {
+   "pk": 253,
+   "model": "products.appellation",
+   "fields": {
+      "name": "sicilia_doc",
+      "friendly_name": "Sicilia DOC"
+   }
+},
+ {
+   "pk": 254,
+   "model": "products.appellation",
+   "fields": {
+      "name": "soave_classico_doc",
+      "friendly_name": "Soave Classico DOC"
+   }
+},
+ {
+   "pk": 255,
+   "model": "products.appellation",
+   "fields": {
+      "name": "soave_doc",
+      "friendly_name": "Soave DOC"
+   }
+},
+ {
+   "pk": 256,
+   "model": "products.appellation",
+   "fields": {
+      "name": "soave_dop",
+      "friendly_name": "Soave DOP"
+   }
+},
+ {
+   "pk": 257,
+   "model": "products.appellation",
+   "fields": {
+      "name": "somontano_do",
+      "friendly_name": "Somontano DO"
+   }
+},
+ {
+   "pk": 258,
+   "model": "products.appellation",
+   "fields": {
+      "name": "south_australia",
+      "friendly_name": "South Australia"
+   }
+},
+ {
+   "pk": 259,
+   "model": "products.appellation",
+   "fields": {
+      "name": "south_eastern_australia",
+      "friendly_name": "South Eastern Australia"
+   }
+},
+ {
+   "pk": 260,
+   "model": "products.appellation",
+   "fields": {
+      "name": "stefan_voda",
+      "friendly_name": "Stefan Voda"
+   }
+},
+ {
+   "pk": 261,
+   "model": "products.appellation",
+   "fields": {
+      "name": "stellenbosch_wo",
+      "friendly_name": "Stellenbosch WO"
+   }
+},
+ {
+   "pk": 262,
+   "model": "products.appellation",
+   "fields": {
+      "name": "sussex",
+      "friendly_name": "Sussex"
+   }
+},
+ {
+   "pk": 263,
+   "model": "products.appellation",
+   "fields": {
+      "name": "swartland_wo",
+      "friendly_name": "Swartland WO"
+   }
+},
+ {
+   "pk": 264,
+   "model": "products.appellation",
+   "fields": {
+      "name": "tarantino_igp",
+      "friendly_name": "Tarantino IGP"
+   }
+},
+ {
+   "pk": 265,
+   "model": "products.appellation",
+   "fields": {
+      "name": "tarija",
+      "friendly_name": "Tarija"
+   }
+},
+ {
+   "pk": 266,
+   "model": "products.appellation",
+   "fields": {
+      "name": "tasmania",
+      "friendly_name": "Tasmania"
+   }
+},
+ {
+   "pk": 267,
+   "model": "products.appellation",
+   "fields": {
+      "name": "terre_siciliane_igt",
+      "friendly_name": "Terre Siciliane IGT"
+   }
+},
+ {
+   "pk": 268,
+   "model": "products.appellation",
+   "fields": {
+      "name": "thracian_lowlands",
+      "friendly_name": "Thracian Lowlands"
+   }
+},
+ {
+   "pk": 269,
+   "model": "products.appellation",
+   "fields": {
+      "name": "tokaji_aszu",
+      "friendly_name": "Tokaji Aszu"
+   }
+},
+ {
+   "pk": 270,
+   "model": "products.appellation",
+   "fields": {
+      "name": "toro_do",
+      "friendly_name": "Toro DO"
+   }
+},
+ {
+   "pk": 271,
+   "model": "products.appellation",
+   "fields": {
+      "name": "toscana_igt",
+      "friendly_name": "Toscana IGT"
+   }
+},
+ {
+   "pk": 272,
+   "model": "products.appellation",
+   "fields": {
+      "name": "toscana_rosso_igt",
+      "friendly_name": "Toscana Rosso IGT"
+   }
+},
+ {
+   "pk": 273,
+   "model": "products.appellation",
+   "fields": {
+      "name": "touraine_aoc",
+      "friendly_name": "Touraine AOC"
+   }
+},
+ {
+   "pk": 274,
+   "model": "products.appellation",
+   "fields": {
+      "name": "trevenezie_igp",
+      "friendly_name": "Trevenezie IGP"
+   }
+},
+ {
+   "pk": 275,
+   "model": "products.appellation",
+   "fields": {
+      "name": "uco_valley",
+      "friendly_name": "Uco Valley"
+   }
+},
+ {
+   "pk": 276,
+   "model": "products.appellation",
+   "fields": {
+      "name": "umbria_igp",
+      "friendly_name": "Umbria IGP"
+   }
+},
+ {
+   "pk": 277,
+   "model": "products.appellation",
+   "fields": {
+      "name": "undefined_australian_region",
+      "friendly_name": "Undefined Australian Region"
+   }
+},
+ {
+   "pk": 278,
+   "model": "products.appellation",
+   "fields": {
+      "name": "undefined_south_african_region",
+      "friendly_name": "Undefined South African Region"
+   }
+},
+ {
+   "pk": 279,
+   "model": "products.appellation",
+   "fields": {
+      "name": "upper_hemel_en_aarde_valley",
+      "friendly_name": "Upper Hemel-en-Aarde Valley"
+   }
+},
+ {
+   "pk": 280,
+   "model": "products.appellation",
+   "fields": {
+      "name": "utiel_requena_do",
+      "friendly_name": "Utiel-Requena DO"
+   }
+},
+ {
+   "pk": 281,
+   "model": "products.appellation",
+   "fields": {
+      "name": "vacqueyras_aoc",
+      "friendly_name": "Vacqueyras AOC"
+   }
+},
+ {
+   "pk": 282,
+   "model": "products.appellation",
+   "fields": {
+      "name": "valdepenas_do",
+      "friendly_name": "Valdepenas DO"
+   }
+},
+ {
+   "pk": 283,
+   "model": "products.appellation",
+   "fields": {
+      "name": "valencia_do",
+      "friendly_name": "Valencia DO"
+   }
+},
+ {
+   "pk": 284,
+   "model": "products.appellation",
+   "fields": {
+      "name": "valle_central",
+      "friendly_name": "Valle Central"
+   }
+},
+ {
+   "pk": 285,
+   "model": "products.appellation",
+   "fields": {
+      "name": "valle_de_colchagua",
+      "friendly_name": "Valle de Colchagua"
+   }
+},
+ {
+   "pk": 286,
+   "model": "products.appellation",
+   "fields": {
+      "name": "valle_de_elqui",
+      "friendly_name": "Valle de Elqui"
+   }
+},
+ {
+   "pk": 287,
+   "model": "products.appellation",
+   "fields": {
+      "name": "valle_de_uco",
+      "friendly_name": "Valle de Uco"
+   }
+},
+ {
+   "pk": 288,
+   "model": "products.appellation",
+   "fields": {
+      "name": "valle_del_maule",
+      "friendly_name": "Valle del Maule"
+   }
+},
+ {
+   "pk": 289,
+   "model": "products.appellation",
+   "fields": {
+      "name": "valle_del_rapel",
+      "friendly_name": "Valle del Rapel"
+   }
+},
+ {
+   "pk": 290,
+   "model": "products.appellation",
+   "fields": {
+      "name": "vaucluse_igp",
+      "friendly_name": "Vaucluse IGP"
+   }
+},
+ {
+   "pk": 291,
+   "model": "products.appellation",
+   "fields": {
+      "name": "venezie_doc",
+      "friendly_name": "Venezie DOC"
+   }
+},
+ {
+   "pk": 292,
+   "model": "products.appellation",
+   "fields": {
+      "name": "venezie_igt",
+      "friendly_name": "Venezie IGT"
+   }
+},
+ {
+   "pk": 293,
+   "model": "products.appellation",
+   "fields": {
+      "name": "verdicchio_di_matelica_doc",
+      "friendly_name": "Verdicchio di Matelica DOC"
+   }
+},
+ {
+   "pk": 294,
+   "model": "products.appellation",
+   "fields": {
+      "name": "vernaccia_di_san_gimignano_docg",
+      "friendly_name": "Vernaccia di San Gimignano DOCG"
+   }
+},
+ {
+   "pk": 295,
+   "model": "products.appellation",
+   "fields": {
+      "name": "veronese_igt",
+      "friendly_name": "Veronese IGT"
+   }
+},
+ {
+   "pk": 296,
+   "model": "products.appellation",
+   "fields": {
+      "name": "victoria",
+      "friendly_name": "Victoria"
+   }
+},
+ {
+   "pk": 297,
+   "model": "products.appellation",
+   "fields": {
+      "name": "vin_de_france",
+      "friendly_name": "Vin de France"
+   }
+},
+ {
+   "pk": 298,
+   "model": "products.appellation",
+   "fields": {
+      "name": "vin_varietal",
+      "friendly_name": "Vin Varietal"
+   }
+},
+ {
+   "pk": 299,
+   "model": "products.appellation",
+   "fields": {
+      "name": "vinho_regional_de_lisboa",
+      "friendly_name": "Vinho Regional de Lisboa"
+   }
+},
+ {
+   "pk": 300,
+   "model": "products.appellation",
+   "fields": {
+      "name": "vinho_regional_lisboa",
+      "friendly_name": "Vinho Regional Lisboa"
+   }
+},
+ {
+   "pk": 301,
+   "model": "products.appellation",
+   "fields": {
+      "name": "vinho_regional_península_de_setúbal",
+      "friendly_name": "Vinho Regional Península de Setúbal"
+   }
+},
+ {
+   "pk": 302,
+   "model": "products.appellation",
+   "fields": {
+      "name": "vinho_regional_tejo",
+      "friendly_name": "Vinho regional Tejo"
+   }
+},
+ {
+   "pk": 303,
+   "model": "products.appellation",
+   "fields": {
+      "name": "vinho_verde_do",
+      "friendly_name": "Vinho Verde DO"
+   }
+},
+ {
+   "pk": 304,
+   "model": "products.appellation",
+   "fields": {
+      "name": "vino_bianco",
+      "friendly_name": "Vino Bianco"
+   }
+},
+ {
+   "pk": 305,
+   "model": "products.appellation",
+   "fields": {
+      "name": "vino_blanco",
+      "friendly_name": "Vino Blanco"
+   }
+},
+ {
+   "pk": 306,
+   "model": "products.appellation",
+   "fields": {
+      "name": "vino_da_tavola",
+      "friendly_name": "Vino da Tavola"
+   }
+},
+ {
+   "pk": 307,
+   "model": "products.appellation",
+   "fields": {
+      "name": "vino_de_la_tierra_de_castilla",
+      "friendly_name": "Vino de la Tierra de Castilla"
+   }
+},
+ {
+   "pk": 308,
+   "model": "products.appellation",
+   "fields": {
+      "name": "vino_rosato",
+      "friendly_name": "Vino Rosato"
+   }
+},
+ {
+   "pk": 309,
+   "model": "products.appellation",
+   "fields": {
+      "name": "vino_rosso",
+      "friendly_name": "Vino Rosso"
+   }
+},
+ {
+   "pk": 310,
+   "model": "products.appellation",
+   "fields": {
+      "name": "vino_spumante",
+      "friendly_name": "Vino Spumante"
+   }
+},
+ {
+   "pk": 311,
+   "model": "products.appellation",
+   "fields": {
+      "name": "vino_tinto",
+      "friendly_name": "Vino Tinto"
+   }
+},
+ {
+   "pk": 312,
+   "model": "products.appellation",
+   "fields": {
+      "name": "vinsobres",
+      "friendly_name": "Vinsobres"
+   }
+},
+ {
+   "pk": 313,
+   "model": "products.appellation",
+   "fields": {
+      "name": "volnay_aoc",
+      "friendly_name": "Volnay AOC"
+   }
+},
+ {
+   "pk": 314,
+   "model": "products.appellation",
+   "fields": {
+      "name": "volnay_premier_cru_aop",
+      "friendly_name": "Volnay Premier Cru AOP"
+   }
+},
+ {
+   "pk": 315,
+   "model": "products.appellation",
+   "fields": {
+      "name": "voor_paardeburg",
+      "friendly_name": "Voor Paardeburg"
+   }
+},
+ {
+   "pk": 316,
+   "model": "products.appellation",
+   "fields": {
+      "name": "vosne_romanee_aoc",
+      "friendly_name": "Vosne-Romanee AOC"
+   }
+},
+ {
+   "pk": 317,
+   "model": "products.appellation",
+   "fields": {
+      "name": "vosne_romanee_premier_cru_aoc",
+      "friendly_name": "Vosne-Romanee Premier Cru AOC"
+   }
+},
+ {
+   "pk": 318,
+   "model": "products.appellation",
+   "fields": {
+      "name": "vosne_romanee_premier_cru_aop",
+      "friendly_name": "Vosne-Romanee Premier Cru AOP"
+   }
+},
+ {
+   "pk": 319,
+   "model": "products.appellation",
+   "fields": {
+      "name": "vougeot_premier_cru_aoc",
+      "friendly_name": "Vougeot Premier Cru AOC"
+   }
+},
+ {
+   "pk": 320,
+   "model": "products.appellation",
+   "fields": {
+      "name": "wachau",
+      "friendly_name": "Wachau"
+   }
+},
+ {
+   "pk": 321,
+   "model": "products.appellation",
+   "fields": {
+      "name": "wellington_wo",
+      "friendly_name": "Wellington WO"
+   }
+},
+ {
+   "pk": 322,
+   "model": "products.appellation",
+   "fields": {
+      "name": "western_cape",
+      "friendly_name": "Western Cape"
+   }
+},
+ {
+   "pk": 323,
+   "model": "products.appellation",
+   "fields": {
+      "name": "white_dry_quality_wine",
+      "friendly_name": "White Dry Quality Wine"
+   }
+},
+ {
+   "pk": 324,
+   "model": "products.appellation",
+   "fields": {
+      "name": "wine_of_new_zealand",
+      "friendly_name": "Wine of New Zealand"
+   }
+},
+ {
+   "pk": 325,
+   "model": "products.appellation",
+   "fields": {
+      "name": "yecla_do",
+      "friendly_name": "Yecla DO"
+   }
+}
+]

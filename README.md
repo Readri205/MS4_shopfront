@@ -601,6 +601,7 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V2.2 Upload fixtures and amend media images
  - V2.3 Update json files with name fields
  - V2.4 Update product json file for spelling text appellation
+ - V2.5 Add models product, appellation, variety, country, type
 
 
 ***

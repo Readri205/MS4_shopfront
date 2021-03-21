@@ -1,0 +1,42 @@
+[
+ {
+   "pk": 1,
+   "model": "products.type",
+   "fields": {
+      "name": "white",
+      "friendly_name": "White"
+   }
+},
+ {
+   "pk": 2,
+   "model": "products.type",
+   "fields": {
+      "name": "red",
+      "friendly_name": "Red"
+   }
+},
+ {
+   "pk": 3,
+   "model": "products.type",
+   "fields": {
+      "name": "rose",
+      "friendly_name": "Rose"
+   }
+},
+ {
+   "pk": 4,
+   "model": "products.type",
+   "fields": {
+      "name": "sparkling",
+      "friendly_name": "Sparkling"
+   }
+},
+ {
+   "pk": 5,
+   "model": "products.type",
+   "fields": {
+      "name": "fortified",
+      "friendly_name": "Fortified"
+   }
+}
+]
