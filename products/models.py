@@ -2,6 +2,10 @@ from django.db import models
 
 
 class Type(models.Model):
+
+    class Meta:
+        verbose_name_plural = "Types"
+
     name = models.CharField(max_length=254)
     friendly_name = models.CharField(max_length=254, null=True, blank=True)
 
@@ -13,6 +17,10 @@ class Type(models.Model):
 
 
 class Country(models.Model):
+
+    class Meta:
+        verbose_name_plural = "Countries"
+
     name = models.CharField(max_length=254)
     friendly_name = models.CharField(max_length=254, null=True, blank=True)
     flag_url = models.URLField(
@@ -40,6 +48,10 @@ class Appellation(models.Model):
 
 
 class Variety(models.Model):
+
+    class Meta:
+        verbose_name_plural = "Varieties"
+
     name = models.CharField(max_length=254)
     friendly_name = models.CharField(max_length=254, null=True, blank=True)
 
