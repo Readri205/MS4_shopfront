@@ -49,17 +49,26 @@ body {
 }
 
 .text-black {
-    color: #000 !important;
+    color: #722F37 !important;
 }
 
 .border-black {
-    border: 1px solid black !important;
+    border: 1px solid #722F37 !important;
 }
 
 .bg-burgundy {
     background: #722F37 !important;
 }
 
+.overlay {
+	height: 100%;
+	width: 100%;
+	top: 0;
+	left: 0;
+	position: fixed;
+	background: white;
+	z-index: -1;
+}
 /* -------------------------------- Media Queries */
 
 /* Slightly larger container on xl screens */

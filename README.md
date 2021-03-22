@@ -603,6 +603,7 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V2.4 Update product json file for spelling text appellation
  - V2.5 Add models product, appellation, variety, country, type
  - V2.6 Add models to admin and set and ordered fields
+ - V2.7 Add products page and layout for products
 
 
 ***
