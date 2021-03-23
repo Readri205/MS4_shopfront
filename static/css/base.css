@@ -23,6 +23,10 @@ body {
     text-transform: uppercase;
 }
 
+.header-container {
+        padding-top: 120px;
+    }
+
 .main-logo-link {
     width: fit-content;
 }
@@ -94,5 +98,17 @@ body {
 
     .header-container {
         padding-top: 164px;
+    }
+}
+
+/* fixed top navbar only on medium and up */
+@media (max-width: 991px) {
+
+    .header-container {
+        padding-top: 200px;
+    }
+
+    body {
+        height: calc(100vh - 116px);
     }
 }
