@@ -28,18 +28,8 @@
             </div>
             <div class="col col-md-6 col-lg-4">
                 <div class="product-details-container mb-5 mt-md-5">
-                    <p class="mb-0">{{ product.product }}</p>
+                    <p class="mb-0"><strong>{{ product.product }}</strong></p>
                     <p class="lead mb-0 text-left font-weight-bold">£{{ product.price }}</p>
-                    <p>{% if product.country %}
-                        <small class="text-capitalize"> {{ product.country.friendly_name }}</small>
-                        {% else %}
-                        <small class="">No Country</small>
-                        {% endif %}</p>
-                    <p>{% if product.country %}
-                        <img src="{{ product.country.flag_url }}" class="img-fluid" alt="">
-                        {% else %}
-                        <small class="">No Flag</small>
-                        {% endif %}</p>
                     <p>{% if product.variety %}
                         <small class="text-capitalize"> {{ product.variety.friendly_name }}</small>
                         {% else %}
@@ -50,6 +40,16 @@
                         {% else %}
                         <small class="">No Appellation</small>
                     {% endif %}</p>
+                    <p>{% if product.country %}
+                        <strong class="text-capitalize"> {{ product.country.friendly_name }}</strong>
+                        {% else %}
+                        <small class="">No Country</small>
+                        {% endif %}</p>
+                    <p>{% if product.country %}
+                        <img src="{{ product.country.flag_url }}" class="img-fluid" alt="">
+                        {% else %}
+                        <small class="">No Flag</small>
+                        {% endif %}</p>
                     {% if product.rating %}
                         <small class="text-muted"><i class="fas fa-star mr-1"></i> {{ product.rating }} / 5</small>
                     {% else %}
