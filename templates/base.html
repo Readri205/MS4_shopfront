@@ -18,6 +18,10 @@
         <link href="https://fonts.googleapis.com/css2?family=Chango&display=swap" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css2?family=Source+Serif+Pro&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="{% static 'css/base.css' %}">
+        <link rel="apple-touch-icon" sizes="180x180" href="/media/favicon/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/media/favicon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/medi/favicon/favicon-16x16.png">
+        <link rel="manifest" href="/media/favicon/site.webmanifest">
     {% endblock %}
 
     {% block extra_css %}
@@ -39,7 +43,7 @@
         <div id="topnav" class="row bg-white pt-lg-2 d-none d-lg-flex">
             <div class="col-12 col-lg-4 my-auto py-1 py-lg-0 text-center text-lg-left">
                 <a href="{% url 'home' %}" class="nav-link main-logo-link">
-                    <h2 class="logo-font text-black my-0">
+                    <h2 class="logo-font text-burgundy my-0">
                         <strong>Wine Shop</strong>
                     </h2>
                 </a>
@@ -61,7 +65,7 @@
             <div class="col-12 col-lg-4 my-auto py-1 py-lg-0">
                 <ul class="list-inline list-unstyled text-center text-lg-right my-0">
                     <li class="list-inline-item dropdown">
-                        <a class="text-black nav-link" href="#" id="user-options" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <a class="text-burgundy nav-link" href="#" id="user-options" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             <div class="text-center">
                                 <div><i class="fas fa-user fa-lg"></i></div>
                                 <p class="my-0">My Account</p>
@@ -81,7 +85,7 @@
                         </div>
                     </li>
                     <li class="list-inline-item">
-                        <a class="{% if grand_total %}text-info font-weight-bold{% else %}text-black{% endif %} nav-link" href="">
+                        <a class="{% if grand_total %}text-info font-weight-bold{% else %}text-burgundy{% endif %} nav-link" href="">
                             <div class="text-center">
                                 <div><i class="fas fa-shopping-bag fa-lg"></i></div>
                                 <p class="my-0">

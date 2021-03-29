@@ -608,6 +608,7 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V2.9 Update css for products and product details
  - V3.0 Amend css on products and amend details list
  - V3.1 Add basic product search query
+ - V3.2 Add favicons and colour changes to fonts
 
 
 ***
