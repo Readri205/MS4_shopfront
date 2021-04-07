@@ -1,12 +1,12 @@
 ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/amiresponsive_tulip.png?raw= "WINE SHOP")
 
-[View the live **WINE SHOP**  :wine-glass:  project here.](https://plant-manager-flask-mongodb.herokuapp.com/)
+[View the live **WINE SHOP**  :wine_glass:  project here.](https://plant-manager-flask-mongodb.herokuapp.com/)
 
-# **WINE SHOP :wine-glass:**
+# **WINE SHOP :wine_glass:**
 
 ## Contents
 
-- [**WINE SHOP :wine-glass:**](#--garden-manager--wine-glass---)
+- [**WINE SHOP :wine_glass:**](#--garden-manager--wine_glass---)
 
 ## Site Goals
 
@@ -326,7 +326,7 @@
 * [Emailjs:](https://www.emailjs.com/)
 * Emailjs is used to send the email from the contact form on the 'Contact Us' page.
 * [Favicon.io:](https://favicon.io/)
-* Favicon.io was used for Favicon :wine-glass: web page title images.
+* Favicon.io was used for Favicon :wine_glass: web page title images.
 * [Photoshop:](https://www.adobe.com/ie/products/photoshop.html)
 * Photoshop was used to resize images and edit photos for the website.
 * [GitPod IDE Markup:](https://www.gitpod.io/)
@@ -471,7 +471,7 @@ The project was deployed to GitHub Pages using the following process;
 
   ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/heroku_deployment.png?raw= "Heroku Deployment")
 
-- [Click to view site **WINE SHOP** :wine-glass:](https://plant-manager-flask-mongodb.herokuapp.com/ "Heroku Deployed Site")
+- [Click to view site **WINE SHOP** :wine_glass:](https://plant-manager-flask-mongodb.herokuapp.com/ "Heroku Deployed Site")
 
 ### Forking the GitHub Repository
 
@@ -564,6 +564,7 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V3.1 Add basic product search query
  - V3.2 Add favicons and colour changes to fonts
  - V3.3 Add type filter for products drop down
+ - V3.4 Amend main-nav for product views and types
 
 
 ***
