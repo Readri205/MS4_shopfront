@@ -1,58 +1,12 @@
-![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/amiresponsive_tulip.png?raw= "Garden Manager")
+![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/amiresponsive_tulip.png?raw= "WINE SHOP")
 
-[View the live **GARDEN MANAGER**  :seedling:  project here.](https://plant-manager-flask-mongodb.herokuapp.com/)
+[View the live **WINE SHOP**  :wine-glass:  project here.](https://plant-manager-flask-mongodb.herokuapp.com/)
 
-# **GARDEN MANAGER :seedling:**
+# **WINE SHOP :wine-glass:**
 
 ## Contents
 
-- [**GARDEN MANAGER :seedling:**](#--garden-manager--seedling---)
-
-- [Site Goals](#site-goals)
-- [User Experience (UX)](#user-experience--ux-)
-* [User stories](#user-stories)
-  + [First Time Visitor Goals](#first-time-visitor-goals)
-  + [Returning Visitor Goals](#returning-visitor-goals)
-  + [Frequent User Goals](#frequent-user-goals)
-  + [Mobile Menu](#mobile-menu)
-* [Design](#design)
-  + [colour Scheme](#colour-scheme)
-  + [Typography](#typography)
-  + ['Materialize' Card Structure](#-materialize--card-structure)
-  + [Imagery](#imagery)
-* [Wireframes](#wireframes)
-  + [Original Wireframe Design (October 15, 2020).](#original-wireframe-design--october-15--2020-)
-  + [Actual Site Design.](#actual-site-design)
-- [Features](#features)
-* [Responsive for Device Size](#responsive-for-device-size)
-* [Interactive Elements](#interactive-elements)
-* [Future Features](#future-features)
-- [Technologies Used](#technologies-used)
-* [Languages Used](#languages-used)
-* [Database Used](#database-used)
-* [Frameworks, Databases, Libraries & Programs Used](#frameworks--databases--libraries---programs-used)
-* [Application Programming Interfaces (API's) Used](#application-programming-interfaces--api-s--used)
-- [Site Construction](#site-construction)
-* [Consistent Page Components](#consistent-page-components)
-* [Home Page](#home-page)
-* [Subsequent Pages](#subsequent-pages)
-* [Contacts Page](#contacts-page)
-* [Construction Table](#construction-table)
-- [Testing](#testing)
-* [Known Bugs and Issues](#known-bugs-and-issues)
-- [Deployment](#deployment)
-* [GitHub Pages](#github-pages)
-* [Heroku Deployment](#heroku-deployment)
-* [Forking the GitHub Repository](#forking-the-github-repository)
-* [Making a Local Clone](#making-a-local-clone)
-- [Credits](#credits)
-* [Code](#code)
-- [Content](#content)
-* [Media](#media)
-* [Acknowledgements](#acknowledgements)
-- [Version Control](#version-control)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+- [**WINE SHOP :wine-glass:**](#--garden-manager--wine-glass---)
 
 ## Site Goals
 
@@ -372,7 +326,7 @@
 * [Emailjs:](https://www.emailjs.com/)
 * Emailjs is used to send the email from the contact form on the 'Contact Us' page.
 * [Favicon.io:](https://favicon.io/)
-* Favicon.io was used for Favicon :seedling: web page title images.
+* Favicon.io was used for Favicon :wine-glass: web page title images.
 * [Photoshop:](https://www.adobe.com/ie/products/photoshop.html)
 * Photoshop was used to resize images and edit photos for the website.
 * [GitPod IDE Markup:](https://www.gitpod.io/)
@@ -517,7 +471,7 @@ The project was deployed to GitHub Pages using the following process;
 
   ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/heroku_deployment.png?raw= "Heroku Deployment")
 
-- [Click to view site **GARDEN MANAGER** :seedling:](https://plant-manager-flask-mongodb.herokuapp.com/ "Heroku Deployed Site")
+- [Click to view site **WINE SHOP** :wine-glass:](https://plant-manager-flask-mongodb.herokuapp.com/ "Heroku Deployed Site")
 
 ### Forking the GitHub Repository
 
@@ -609,6 +563,7 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V3.0 Amend css on products and amend details list
  - V3.1 Add basic product search query
  - V3.2 Add favicons and colour changes to fonts
+ - V3.3 Add type filter for products drop down
 
 
 ***
