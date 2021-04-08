@@ -52,11 +52,14 @@ body {
     color: white;
 }
 
-.text-burgundy {
+.text-burgundy,
+.fa-tractor {
     color: #722F37 !important;
 }
 
-.text-muted {
+.text-muted,
+.fa-leaf,
+.fa-globe {
     color:#4f742f !important;
 }
 
@@ -76,6 +79,11 @@ body {
 	position: fixed;
 	background: white;
 	z-index: -1;
+}
+
+a.category-badge > span.badge:hover {
+    background: #722F37 !important;
+    color: #fff !important;
 }
 /* -------------------------------- Media Queries */
 

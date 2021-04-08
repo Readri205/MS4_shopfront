@@ -31,17 +31,17 @@
                     <p class="mb-0"><strong>{{ product.product }}</strong></p>
                     <p class="lead mb-0 text-left font-weight-bold">£{{ product.price }}</p>
                     <p>{% if product.variety %}
-                        <small class="text-capitalize"> {{ product.variety.friendly_name }}</small>
+                        <small class="text-capitalize fas fa-leaf"> {{ product.variety.friendly_name }}</small>
                         {% else %}
                         <small class="">No Variety</small>
                         {% endif %}</p>
                     <p>{% if product.appellation %}
-                        <small class="text-capitalize"> {{ product.appellation.friendly_name }}</small>
+                        <small class="text-capitalize fas fa-tractor"> {{ product.appellation.friendly_name }}</small>
                         {% else %}
                         <small class="">No Appellation</small>
                     {% endif %}</p>
                     <p>{% if product.country %}
-                        <strong class="text-capitalize"> {{ product.country.friendly_name }}</strong>
+                        <strong class="text-capitalize fas fa-globe"> {{ product.country.friendly_name }}</strong>
                         {% else %}
                         <small class="">No Country</small>
                         {% endif %}</p>

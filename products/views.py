@@ -11,8 +11,8 @@ def all_products(request):
 
     products = Product.objects.all()
     query = None
-    type = None
-    variety = None
+    types = None
+    varieties = None
     sort = None
     direction = None
 
@@ -54,8 +54,8 @@ def all_products(request):
     context = {
         'products': products,
         'search_term': query,
-        'current_types': type,
-        'current_varieties': variety,
+        'current_types': types,
+        'current_varieties': varieties,
         'current_sorting': current_sorting,
     }
 
