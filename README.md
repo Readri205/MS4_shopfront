@@ -563,6 +563,7 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V3.3 Add type filter for products drop down
  - V3.4 Amend main-nav for product views and types
  - V3.5 Update menus with product views and sorts
+ - V3.6 Update collections for mixed variety products sort
 
 
 ***

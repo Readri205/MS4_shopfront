@@ -1,7 +1,7 @@
 from django.shortcuts import render, redirect, reverse, get_object_or_404
 from django.contrib import messages
 from django.db.models import Q
-from .models import Product, Type
+from .models import Product, Type, Variety
 
 # Create your views here.
 
@@ -12,6 +12,7 @@ def all_products(request):
     products = Product.objects.all()
     query = None
     type = None
+    variety = None
     sort = None
     direction = None
 
@@ -34,6 +35,11 @@ def all_products(request):
             products = products.filter(type__name__in=types)
             types = Type.objects.filter(name__in=types)
 
+        if 'variety' in request.GET:
+            varieties = request.GET['variety'].split(',')
+            products = products.filter(variety__name__in=varieties)
+            varieties = Variety.objects.filter(name__in=varieties)
+
         if 'q' in request.GET:
             query = request.GET['q']
             if not query:
@@ -49,6 +55,7 @@ def all_products(request):
         'products': products,
         'search_term': query,
         'current_types': type,
+        'current_varieties': variety,
         'current_sorting': current_sorting,
     }
 

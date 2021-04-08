@@ -86,9 +86,9 @@
                 Collections!
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="specials-link">
-                <a href="{% url 'products' %}?variety=mixed" class="dropdown-item text-burgundy">By Country</a>
-                <a href="{% url 'products' %}?variety=mixed" class="dropdown-item text-burgundy">By Price</a>
-                <a href="{% url 'products' %}?variety=mixed" class="dropdown-item text-burgundy">By Rating</a>
+                <a href="{% url 'products' %}?variety=mixed&sort=country&direction=asc" class="dropdown-item text-burgundy">By Country</a>
+                <a href="{% url 'products' %}?variety=mixed&sort=price&direction=asc" class="dropdown-item text-burgundy">By Price</a>
+                <a href="{% url 'products' %}?variety=mixed&sort=rating&direction=desc" class="dropdown-item text-burgundy">By Rating</a>
                 <a href="{% url 'products' %}?variety=mixed" class="dropdown-item text-burgundy">All Mixed</a>
             </div>
         </li>
