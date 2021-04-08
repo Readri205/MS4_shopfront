@@ -4,9 +4,6 @@
 
 # **WINE SHOP :wine_glass:**
 
-## Contents
-
-- [**WINE SHOP :wine_glass:**](#--garden-manager--wine_glass---)
 
 ## Site Goals
 
@@ -565,6 +562,7 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V3.2 Add favicons and colour changes to fonts
  - V3.3 Add type filter for products drop down
  - V3.4 Amend main-nav for product views and types
+ - V3.5 Update menus with product views and sorts
 
 
 ***
