@@ -568,6 +568,7 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V3.8 Amend product sort to eliminate sytax errors
  - V3.9 Add jquery script to corejs for product sort function
  - V4.0 Update sort for product sort by product
+ - V4.1 Add paage return function
 
 
 ***
