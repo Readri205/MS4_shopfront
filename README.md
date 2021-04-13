@@ -566,6 +566,7 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V3.6 Update collections for mixed variety products sort
  - V3.7 Update for sorting and product filter count
  - V3.8 Amend product sort to eliminate sytax errors
+ - V3.9 Add jquery script to corejs for product sort function
 
 
 ***
