@@ -37,8 +37,10 @@
                                 <option value="rating_desc" {% if current_sorting == 'rating_desc' %}selected{% endif %}>Rating (high to low)</option>
                                 <option value="variety_asc" {% if current_sorting == 'variety_asc' %}selected{% endif %}>Variety (A-Z)</option>
                                 <option value="variety_desc" {% if current_sorting == 'variety_desc' %}selected{% endif %}>Variety (Z-A)</option>
-                                <option value="category_asc" {% if current_sorting == 'country_asc' %}selected{% endif %}>Country (A-Z)</option>
-                                <option value="category_desc" {% if current_sorting == 'country_desc' %}selected{% endif %}>Country (Z-A)</option>
+                                <option value="country_asc" {% if current_sorting == 'country_asc' %}selected{% endif %}>Country (A-Z)</option>
+                                <option value="country_desc" {% if current_sorting == 'country_desc' %}selected{% endif %}>Country (Z-A)</option>
+                                <option value="product_asc" {% if current_sorting == 'product_asc' %}selected{% endif %}>Product (A-Z)</option>
+                                <option value="product_desc" {% if current_sorting == 'product_desc' %}selected{% endif %}>Product (Z-A)</option>
                             </select>
                         </div>
                     </div>
@@ -131,7 +133,7 @@
 {% endblock %}
 
 {% block postloadjs %}
-{{ block.super }}
+    {{ block.super }}
     
     <script type="text/javascript">
         $('#sort-selector').change(function() {
