@@ -565,6 +565,7 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V3.5 Update menus with product views and sorts
  - V3.6 Update collections for mixed variety products sort
  - V3.7 Update for sorting and product filter count
+ - V3.8 Amend product sort to eliminate sytax errors
 
 
 ***
