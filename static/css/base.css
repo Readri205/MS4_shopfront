@@ -10,6 +10,19 @@ body {
     font-family: 'Source Serif Pro';
 }
 
+.hazy {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(250, 250, 250, 0.8);
+    z-index: -1;
+  }
+  
+
 /* from Bulma */
 .icon {
     align-items: center;
@@ -46,6 +59,17 @@ body {
     background: #fff;
     color: #4f742f !important;
     border: 1px solid #4f742f;
+}
+
+.btn-burgundy {
+    background: #722F37;
+    color: white;
+}
+
+.btn-outline-burgundy {
+    background: #fff;
+    color: #722F37 !important;
+    border: 1px solid #722F37;
 }
 
 .shop-now-button:hover,
