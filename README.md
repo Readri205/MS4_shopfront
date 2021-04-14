@@ -571,6 +571,7 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V4.1 Add page return function
  - V4.2 Add cart app for shopping
  - V4.3 Amend fonts and icons on cart page
+ - V4.4 Add context to cart
 
 
 ***
