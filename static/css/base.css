@@ -75,11 +75,21 @@ body {
 .shop-now-button:hover,
 .shop-now-button:active,
 .shop-now-button:focus,
-.btn-black:hover,
-.btn-black:active,
-.btn-black:focus {
+.btn-green:hover,
+.btn-green:active,
+.btn-green:focus {
     background: #722F37;
     color: white;
+}
+
+.link-burgundy {
+    color: #722F37;
+}
+
+.link-burgundy:hover,
+.link-burgundy:active,
+.link-burgundy:focus {
+    color: #4f742f;
 }
 
 .text-burgundy,
