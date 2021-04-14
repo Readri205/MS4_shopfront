@@ -37,9 +37,15 @@ body {
     min-width: 260px;
 }
 
-.btn-black {
+.btn-green {
     background: #4f742f;
     color: white;
+}
+
+.btn-outline-green {
+    background: #fff;
+    color: #4f742f !important;
+    border: 1px solid #4f742f;
 }
 
 .shop-now-button:hover,
