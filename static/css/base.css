@@ -91,6 +91,7 @@ body {
 
 .link-burgundy {
     color: #722F37;
+    cursor: pointer;
 }
 
 .link-burgundy:hover,
@@ -110,7 +111,7 @@ body {
     color:#4f742f !important;
 }
 
-.border-black {
+.border-burgundy {
     border: 1px solid #722F37 !important;
 }
 
@@ -143,7 +144,6 @@ a.category-badge > span.badge:hover {
 }
 
 .btt-link {
-    cursor: pointer;
     color: #722F37 !important;
 }
 
