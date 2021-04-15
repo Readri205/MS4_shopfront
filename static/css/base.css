@@ -66,6 +66,13 @@ body {
     color: white;
 }
 
+.btn-burgundy:hover,
+.btn-burgundy:active,
+.btn-burgundy:focus {
+    background: #4f742f;
+    color: white;
+}
+
 .btn-outline-burgundy {
     background: #fff;
     color: #722F37 !important;
