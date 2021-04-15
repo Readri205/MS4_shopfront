@@ -578,6 +578,7 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V4.8 Amend styles for product home link
  - V4.9 Amend cart shop summary for bootsrap text-end
  - V5.0 Add quantity increment decrement script
+ - V5.1 Add icons to money and increment decrement to cart
 
 
 ***
