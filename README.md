@@ -576,6 +576,7 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V4.6 Add cart url
  - V4.7 Amend background, formats, fonts and table in cart
  - V4.8 Amend styles for product home link
+ - V4.9 Amend cart shop summary for bootsrap text-end
 
 
 ***
