@@ -581,6 +581,7 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V5.1 Add icons to money and increment decrement to cart
  - V5.2 Add update and remove links in cart
  - V5.3 Amend styles on account and cart links
+ - V5.4 Add sub total update and cart quantity amends
 
 
 ***
