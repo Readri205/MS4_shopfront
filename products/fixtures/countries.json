@@ -4,7 +4,7 @@
     "model": "products.country",
     "fields":{"name": "argentina",
     "friendly_name": "Argentina",
-    "flag_url": "https://www.countryflags.io/ar/shiny/64.png"
+    "flag_url": "https://flagcdn.com/16x12/ar.png"
   }},
   {
     "pk": "2",
