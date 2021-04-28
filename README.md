@@ -588,6 +588,7 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V5.8 Add checkout app and checkout models
  - 5.9 Add forms for checkout
  - 6.0 Update crispy template and base css for checkout
+ - 6.1 Amend css in checkout
 
 
 ***
