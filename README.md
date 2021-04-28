@@ -586,6 +586,7 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V5.6 Amend flag url from countryflag io to flagcdn.com
  - V5.7 Update toasts for shopping add and updates
  - V5.8 Add checkout app and checkout models
+ - 5.9 Add forms for checkout
 
 
 ***
