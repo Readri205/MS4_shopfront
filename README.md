@@ -590,6 +590,7 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - 6.0 Update crispy template and base css for checkout
  - 6.1 Amend css in checkout
  - 6.2 Add stripe componant to checkout
+ - 6.3 Ad stripe variables to gitpod
 
 
 ***
