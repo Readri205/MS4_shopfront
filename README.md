@@ -591,6 +591,7 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - 6.1 Amend css in checkout
  - 6.2 Add stripe componant to checkout
  - 6.3 Add stripe variables to gitpod
+ - 6.4 Amend clientSecret syntax to fix payment
 
 
 ***
