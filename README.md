@@ -586,12 +586,13 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V5.6 Amend flag url from countryflag io to flagcdn.com
  - V5.7 Update toasts for shopping add and updates
  - V5.8 Add checkout app and checkout models
- - 5.9 Add forms for checkout
- - 6.0 Update crispy template and base css for checkout
- - 6.1 Amend css in checkout
- - 6.2 Add stripe componant to checkout
- - 6.3 Add stripe variables to gitpod
- - 6.4 Amend clientSecret syntax to fix payment
+ - V5.9 Add forms for checkout
+ - V6.0 Update crispy template and base css for checkout
+ - V6.1 Amend css in checkout
+ - V6.2 Add stripe componant to checkout
+ - V6.3 Add stripe variables to gitpod
+ - V6.4 Amend clientSecret syntax to fix payment
+ - V6.5 Add checkout success page
 
 
 ***
