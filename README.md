@@ -596,6 +596,7 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V6.6 Add order detail to checkout page
  - V6.7 Add stripe checkout confirmation
  - V6.8 Add stripe webhook
+ - V6.9 Update stripe webhooks for payment types
 
 
 ***
