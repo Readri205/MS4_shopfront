@@ -598,6 +598,7 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V6.8 Add stripe webhook
  - V6.9 Update stripe webhooks for payment types
  - V7.0 Update webhook for client info on submit
+ - V7.1 Update webhooks for order redundancy
 
 
 ***
