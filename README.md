@@ -601,6 +601,7 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V7.1 Update webhooks for order redundancy
  - V7.2 Add profiles app
  - V7.3 Add profile model views and url
+ - V7.4 Update allauth for styles and crispy forms
 
 
 ***
