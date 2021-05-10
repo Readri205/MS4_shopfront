@@ -604,6 +604,7 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V7.4 Update allauth for styles and crispy forms
  - V7.5 Add profile link and style to profile page
  - V7.6 Add profile update form
+ - V7.7 Add profile updates to checkout process
 
 
 ***
