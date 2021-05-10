@@ -608,6 +608,6 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V7.8 Add order update via stripe webhook for orders
  - V7.9 Add confirmation email to webhook
  - V8.0 Add product form for product update
-
+ - V8.1 Add add product form
 
 ***
