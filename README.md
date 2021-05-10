@@ -606,6 +606,7 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V7.6 Add profile update form
  - V7.7 Add profile updates to checkout process
  - V7.8 Add order update via stripe webhook for orders
+ - V7.9 Add confirmation email to webhook
 
 
 ***
