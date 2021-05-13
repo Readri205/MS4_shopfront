@@ -610,5 +610,6 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V8.0 Add product form for product update
  - V8.1 Add add product form
  - V8.2 Update product form for categories
+ - V8.3 Add add product style and media context processor
 
 ***
