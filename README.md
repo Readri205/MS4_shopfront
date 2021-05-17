@@ -617,5 +617,6 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V8.7 Add image widget for edit
  - V8.8 Add image js for image load
  - V8.9 Test webhook handler and update profile page styles
+ - V9.0 Update confirmation email details
 
 ***
