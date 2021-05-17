@@ -615,5 +615,6 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V8.5 Add delete product function
  - V8.6 Add superuser profile checks
  - V8.7 Add image widget for edit
+ - V8.8 Add image js for image load
 
 ***
