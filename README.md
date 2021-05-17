@@ -613,5 +613,6 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V8.3 Add add product style and media context processor
  - V8.4 Add edit product function
  - V8.5 Add delete product function
+ - V8.6 Add superuser profile checks
 
 ***
