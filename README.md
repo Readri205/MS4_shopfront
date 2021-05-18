@@ -626,5 +626,6 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V9.6 Move Procfile to correct location
  - V9.7 Move codes out
  - V9.8 Debug amend and enable heroku auto update
+ - V9.9 Deploy files to aws
 
 ***
