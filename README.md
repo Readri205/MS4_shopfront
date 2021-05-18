@@ -623,5 +623,6 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V9.3 Amend Procfile
  - V9.4 Further amend on Procfile
  - V9.5 Further amend on Procfile
+ - V9.6 Move Procfile to correct location
 
 ***
