@@ -28,7 +28,6 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = os.environ.get('SECRET_KEY', '')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-# SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = 'DEVELOPMENT' in os.environ
 
 ALLOWED_HOSTS = ['read205-wineshop.herokuapp.com', 'localhost']
@@ -202,10 +201,13 @@ if 'USE_AWS' in os.environ:
     STATICFILES_LOCATION = 'static'
     DEFAULT_FILE_STORAGE = 'custom_storages.MediaStorage'
     MEDIAFILES_LOCATION = 'media'
+    FAVICON_STORAGE = 'custom_storages.FaviconStorage'
+    FAVICON_LOCATION = 'media/favicon'
 
     # Override static and media URLs in production
     STATIC_URL = f'https://{AWS_S3_CUSTOM_DOMAIN}/{STATICFILES_LOCATION}/'
     MEDIA_URL = f'https://{AWS_S3_CUSTOM_DOMAIN}/{MEDIAFILES_LOCATION}/'
+    FAVICON_URL = f'https://{AWS_S3_CUSTOM_DOMAIN}/{FAVICON_LOCATION}/'
 
 
 # Stripe
