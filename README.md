@@ -619,5 +619,6 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V8.9 Test webhook handler and update profile page styles
  - V9.0 Update confirmation email details
  - V9.1 Setup Heroku delpoyment
+ - V9.2 Deploy to heroku
 
 ***
