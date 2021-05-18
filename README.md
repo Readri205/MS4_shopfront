@@ -628,5 +628,6 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V9.8 Debug amend and enable heroku auto update
  - V9.9 Deploy files to aws
  - V10.0 Add aws object parameters for cache
+ - V10.1 Remove additional media image
 
 ***
