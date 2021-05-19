@@ -632,5 +632,6 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V10.2 Upload favicon s3 location
  - V10.3 Move favicons to test
  - V10.4 Update favicon location for S3
+ - V10.5 Amend for faviconfiles location
 
 ***
