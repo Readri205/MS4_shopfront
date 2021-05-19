@@ -8,3 +8,7 @@ class StaticStorage(S3Boto3Storage):
 
 class MediaStorage(S3Boto3Storage):
     location = settings.MEDIAFILES_LOCATION
+
+
+class FaviconStorage(S3Boto3Storage):
+    location = settings.FAVICONFILES_LOCATION
