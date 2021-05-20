@@ -645,5 +645,6 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V11.5 Further update favicon route for S3
  - V11.6 Test red link on main menu for heroku
  - V11.7 Test red link label
+ - V11.8 Test for type all reds
 
 ***
