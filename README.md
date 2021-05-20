@@ -648,5 +648,6 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V11.8 Test for type all reds
  - V11.9 Reload fixtures files to heroku
  - V12.0 Test for variety monastrell
+ - V12.1 Test for allowed hosts
 
 ***
