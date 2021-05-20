@@ -636,5 +636,6 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V10.6 Add stripe keys to heroku
  - V10.7 Amend favicon links in base html
  - V10.8 Return to original base html
+ - V10.9 Remove favicons
 
 ***
