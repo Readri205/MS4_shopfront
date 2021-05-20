@@ -642,5 +642,6 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V11.2 Remove site manifest file from favicon
  - V11.3 Amend to favicon and mobile menu styles
  - V11.4 Update favicon route in S3
+ - V11.5 Further update favicon route for S3
 
 ***
