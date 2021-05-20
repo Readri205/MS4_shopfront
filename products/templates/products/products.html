@@ -17,7 +17,7 @@
                 <h2 class="text-burgundy logo-font">Products</h2>
                 {% for t in current_types %}
                     <a class="category-badge text-decoration-none" href="{% url 'products' %}?type={{ t.name }}">
-                            <span class="p-2 mt-2 badge badge-white text-burgundy rounded-0 border border-dark">{{ t.friendly_name }}</span>
+                            <span class="p-2 mt-2 badge badge-white text-burgundy rounded-0 border border-burgundy">{{ t.friendly_name }}</span>
                     </a>
                 {% endfor %}
                 <hr class="w-90 mb-1">
