@@ -640,4 +640,6 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V11.0 New folder for favicons
  - V11.1 Favicons to root
  - V11.2 Remove site manifest file from favicon
+ - V11.3 Amend to favicon and mobile menu styles
+
 ***
