@@ -651,5 +651,6 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V12.1 Test for allowed hosts
  - V12.2 Test remove import stripe
  - V12.3 Add back import stripe
+ - V12.4 Set debug to true for errors
 
 ***
