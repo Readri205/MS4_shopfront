@@ -8,6 +8,7 @@ class ProductAdmin(admin.ModelAdmin):
     list_display = (
         'sku',
         'product',
+        'type',
         'variety',
         'appellation',
         'country',

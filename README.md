@@ -654,5 +654,6 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V12.4 Set debug to true for errors
  - V12.5 Test for amends on images access
  - V12.6 Redeploy after amend image names
+ - V12.7 Update admin product detail display
 
 ***
