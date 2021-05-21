@@ -649,5 +649,6 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V11.9 Reload fixtures files to heroku
  - V12.0 Test for variety monastrell
  - V12.1 Test for allowed hosts
+ - V12.2 Test remove import stripe
 
 ***
