@@ -46,4 +46,3 @@ class ProductForm(forms.ModelForm):
         for field_name, field in self.fields.items():
             field.widget.attrs[
                 'class'] = 'border-burgundy rounded-0 text-capitalize'
-
