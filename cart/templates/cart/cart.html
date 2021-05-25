@@ -108,9 +108,18 @@
                 </div>
             {% else %}
                 <p class="lead mb-5">Nothing in the Cart Yet!  <i class="far fa-person-dolly-empty"></i></p>
-                <a href="{% url 'products' %}" class="btn btn-burgundy rounded-0 btn-lg"></a>
+
+                <a href="{% url 'products' %}" class="btn btn-outline-burgundy rounded-0 btn-lg">
+                    <span class="icon">
+                        <i class="fas fa-chevron-left"></i>
+                    </span>
+                    <span class="text-uppercase">Keep Shopping</span>
+                </a>
+
+                <a href="{% url 'products' %}" class="btn btn-outline-burgundy rounded-0 btn-lg">
                 <span><i class="fas fa-door-open"></i>  <i class="far fa-hand-point-left">  </i>   </span>
                 <span class="text-uppercase">Back to the Shop!</span>
+                </a>
             {% endif %}
         </div>
     </div>
