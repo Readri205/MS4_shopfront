@@ -660,5 +660,6 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V13.0 Amend mobile css
  - V13.1 Update mobile page layouts
  - V13.2 Update css on mobile
+ - V13.3 Update for product image html error
 
 ***
