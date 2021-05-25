@@ -663,5 +663,6 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V13.3 Update for product image html error
  - V13.4 Further update for product image error
  - V13.5 Update for product image reference
+ - V13.6 Amend chckout buttons page
 
 ***
