@@ -683,5 +683,6 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V15.3 Further amend product details template
  - V15.4 Further amend product details page
  - V15.5 Heroku push
+ - V15.6 Further product details amends
 
 ***
