@@ -668,5 +668,6 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V13.8 Amend back to shop in empty cart page
  - V13.9 Amend for button on empty cart page
  - V14.0 Amend lint errors
+ - V14.1 Test product details page
 
 ***
