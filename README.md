@@ -681,5 +681,6 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V15.1 Update detail quantity form
  - V15.2 Amend product details template
  - V15.3 Further amend product details template
+ - V15.4 Further amend product details page
 
 ***
