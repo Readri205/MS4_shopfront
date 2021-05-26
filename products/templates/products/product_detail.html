@@ -103,10 +103,10 @@
                             </div>
                             <div class="col-12 col-sm-6 float-end">
                                 <input type="submit" class="btn btn-burgundy rounded-0 text-uppercase mt-5 text-end" value="Add to Cart">
-                                <p><a href="{% url 'products' %}" class="btn btn-outline-burgundy rounded-0 mt-5 float-end">
+                                <a href="{% url 'products' %}" class="btn btn-outline-burgundy rounded-0 mt-5 float-end">
                                 <span><i class="fas fa-door-open"></i>  <i class="far fa-hand-point-left">  </i>   </span>
                                 <span class="text-uppercase">Keep Shopping!</span>
-                                </a></p>
+                                </a>
                             </div>
                             <input type="hidden" name="redirect_url" value="{{ request.path }}">
                         </div>
