@@ -669,5 +669,6 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V13.9 Amend for button on empty cart page
  - V14.0 Amend lint errors
  - V14.1 Test product details page
+ - V14.2 Test text positions product details page
 
 ***
