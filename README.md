@@ -673,5 +673,6 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V14.3 Test product details layout
  - V14.4 Test product details text layout
  - V14.5 Test for product details layout
+ - V14.6 Test for product details quantity layout
 
 ***
