@@ -695,18 +695,18 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V16.5 Update fonts on password resets
  - V16.6 Update text in product details
  - ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/static/images/readme/amiresponsive.png?raw= "WINE SHOP")
- 
+
  [View the live **WINE SHOP**  :wine_glass:  project here.](https://read205-wineshop.herokuapp.com/)
- 
+
  # **WINE SHOP :wine_glass:**
- 
- 
+
+
  ## Site Goals
- 
+
  * This website provides a functionality for users to create a list of plants in collections, either by entering plant details or by uploading from a search. The searches can be made in a number of ways, including by name, image or by filters. Users are able to update the details of plants and collections in their lists. Users are also able to delete plants and collections. A user can also move a plant from one collection to another if so desired. A user can also amend their personal details including email, username and telephone number. A user is also able to fully delete their login and all plants and collections listed on that login. Each users logn and details are specific to that user and cannot be viewed by any other user.
- 
+
  * **NOTE: This site is currently entirely for educational purposes only. Whilst there is an ability to register for the site, any personal details entered are not protected.**
- 
+
  * The website is **'functional'**, allowing users to enter information about **Plants** and to view information on specific plants. The site is designed to show details on **Plants** where required.
  * The website concept is to provide a user with a useful list of plants;
    * what is the name of the plant?
@@ -720,150 +720,150 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
        * **search** to identify a **name** characteristic for a plant;
        * **filter** to identify **colour** characteristics for a plant; and
        * **image** using a computer or mobile device to upload a **file image**.
- 
+
        * The website sources data from the **[Trefle.io](https://Trefle.io/)** and **[Plant.id](https://plant.id/)**. The website primarily makes use of Application Programming Interfaces (API's) to construct the plant search data. The **[MongoDB](https://www.mongodb.com/cloud/atlas)** is used to store user data and allows for create, read, update and delete data **(CRUD)** for plant details and their user login data. API and other data source details are provided in the **'Application Programming Interfaces (API's) Used'** section below.
- 
+
  * If the site is perceived as successful, it is anticipated that the site could be expanded as;
  * there is a significant amount of data in the Trefle database that can be utilised for more specific searches and filtering;
  * other API sources could also be utilised to improve the information set;
  * other functions could be added such as creating as a calendar for gardening jobs at a particular time of year.
- 
+
  * The site is designed to be responsive and accessible on a range of devices, making it easy to navigate for interested users. The website was designed using **'Mobile First'** principles as the site must be perceived to be quick and easy to use and read as a reference site on a mobile device.
- 
+
  ## User Experience (UX)
- 
+
  *   ### User stories
- 
+
    *   #### First Time Visitor Goals
        * The first time visitor will want to;
          * easily understand the main purpose of the site;
- 
+
          ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_maininfo.png?raw= "Home")
- 
+
          * be able to easily navigate throughout the site to find content;
- 
+
          ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_mainmenu.png?raw= "Main Menu")
- 
+
          * view the carousel images just beneath the header;
- 
+
          ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_carousel.png?raw= "Carousel")
- 
+
          * scroll down through the information, read the content, view each of the function cards;
- 
+
          ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_maininfo.png?raw= "Cards")
- 
+
          * register for the site and create login credentials;
- 
+
          ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_register.png?raw= "Register")
- 
+
          * enter plant details for plants they are interested in;
- 
+
            * login to the site;
- 
+
            ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_login.png?raw= "Login")
- 
+
            * immediately view their plants list;
- 
+
            ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_myplants.png?raw= "My Plants")
- 
+
            * immediately view a plant from list;
- 
+
            ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_viewplant.png?raw= "My Plants")
- 
+
            * view their collections list;
- 
+
            ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_mycollections.png?raw= "My Collections")
- 
+
            * search for plants in one of the search methods;
              * name;
- 
+
              ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_searchname.png?raw= "Search Name")
- 
+
              * View plants returned from a search;
- 
+
              ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_return.png?raw= "Search Name")
- 
+
              * View individual plant details from a search return;
- 
+
              ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_plantdeets.png?raw= "Search Name")
- 
+
              * filter by attribute;
- 
+
              ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_filter.png?raw= "search Filter")
- 
+
              * image upload.
- 
+
              ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_image.png?raw= "Image")
- 
+
              ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_imagesuggestions.png?raw= "Image Suggestions")
- 
+
            * add a plant to users plant list and a collection.
- 
+
            ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_addplant.png?raw= "Add Plant")
- 
+
          * see their user details and amend if necessary.
- 
+
            ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_mydetails.png?raw= "My Details")
- 
+
          * contact us to ask about data projects that they may be interested to have completed as an item of work.
- 
+
            ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_contact.png?raw= "Contact")
- 
+
    *   #### Returning Visitor Goals
        * The returning visitor will want to;
          * login to the site;
          * immediately view their plants list;
          * view their collections list.
        * **A returning visitor** may want to go straight to the 'Plant' search function;
- 
+
            * search for plants in one of the search methods;
              * name;
              * filter by attribute;
              * image upload.
            * on finding a plant the user in they may want to find out more details on that plant by choosing the 'plant details' button;
              * there a number of specific details including in the return;
- 
+
            * the user may want to add the plant to their plant list and a collection.
        * **A returning visitor** may want to go straight to the 'Contact Us' page;
          * contact us for more information or to provide comments about the site;
          * contact us to ask about projects that they may be interested to have completed as an item of work.
- 
+
    *   #### Frequent User Goals
        * The frequent user will want to;
          * login to the site;
          * immediately view their plants list;
          * view their collections list.
        * **A returning visitor** may want to go straight to the 'Plant' search function;
- 
+
            * search for plants in one of the search methods;
              * name;
              * filter by attribute;
              * image upload.
            * on finding a plant the user in they may want to find out more details on that plant by choosing the 'plant details' button;
              * there a number of specific details including in the return;
- 
+
            * the user may want to add the plant to their plant list and a collection.
        * **A frequent visitor** may want to go straight to the 'Contact Us' page;
          * contact us for more information or to provide comments about the site;
          * contact us to ask about projects that they may be interested to have completed as an item of work.
- 
+
    *   #### Mobile Menu
          * On mobile devices the menu is shown as a 'hamburger' drop down;
- 
+
          ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_mobile.png?raw= "Mobile")
- 
+
          * On mobile devices the menu is shown as a 'hamburger' drop down;
- 
+
          ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_mobilemenu.png?raw= "Mobile Menu")
- 
+
          * On mobile devices the search function operates in the same manner as for larger screens;
- 
+
          ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_mobilesearch.png?raw= "Mobile Search")
- 
+
          * On mobile devices an image can be captured and uploaded directly;
- 
+
          ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_capture.png?raw= "Mobile Capture")
- 
+
  *   ### Design
    *   #### colour Scheme
        * The main colour is 'Teal' (#008080), designed to provide a light neutral background to highlight a 'Yellow" (#FFFF00) text. The colours have been manipulated to lighten or darken them using 'Materialize' CSS properties. The various shades of 'Teal' are used to reference the the plant kingdom.
@@ -878,12 +878,12 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
        * The header contains a carousel designed to be striking and catch the user's attention and to provide some unique image themes. To provide some context on larger screens each image has a clear title description sourced from the original image provided by the contributor. Note that on some screen sizes the titles can be difficult to read where they blend into the image. As the titles are not fundamental to the website information it has been considered 'acceptable'.
        * Note that the background, carousel and main home page cards all reference  [© Unsplash.com](https://unsplash.com/) for the images. As this is the case there is a risk that an image could be removed from the source and so the site image would fail. Copies of images are retained in the project image folder for backup.
        * The background image is of 'Dark plants ...', designed to provide a dark neutral background yet reference the plant kingdom. The header images are intended to blend into the background image with the 'deep black' backgrounds.
- 
+
            ![alt text](https://images.unsplash.com/photo-1586990684319-40c14d005de9?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1402&q=80)
- 
+
            *['Dark plants ...'](https://unsplash.com/photos/aDvrHHFGAlE)  By Amir Nyct  [© Unsplash.com](https://unsplash.com/)*
- 
- 
+
+
  *   ### Wireframes
    *   #### Original Wireframe Design (October 15, 2020).
        * The **'Home'** page includes a basic overall introduction to the purpose of the site. Cards are used to describe the main features of the site. The features are User Plant List, User Collections, Search by a Name, Filter, Image Upload and a  Year Calendar.
@@ -908,9 +908,9 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
          1. The **Calendar Feature** has proven difficult to implement as information to support this appears lacking in the plant world. Most plant and gardening information providers appear to have their own databases to support this kind of feature as a Unique Selling Product (USP). The Trefle.io database has some details such as 'bloom months' and 'sowing months'. However, this data is not complete. The feature could be added as a future feature on the site.
          1. The **'Contact Form'** has its own page. It is accessible from every page either through the main menu or from the footer;
        * The listed API sources, [Trefle.io](https://Trefle.io/), [Plant.id](https://plant.id/) were utilised. [Emailjs](https://www.emailjs.com/) was utilised for email response.
- 
+
  ## Features
- 
+
  *   ### Responsive for Device Size
      * Mobile / Smaller screen size
        * The site is designed primarily for use on a mobile. The 'Box Content' structure using Materialize Grid System has been utilised so that the information boxes (search results) will stack vertically on small screens for readability.
@@ -928,7 +928,7 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
        * The menu item list is coloured 'dark yellow' to make it visible yet not intrusive when viewing the site details.
        * The 'drop down' site page options are coloured 'dark yellow' with the current page shown with an 'off-white' background.
        * The header image and carousel images are designed to be larger and 'impactful' on the larger screen size.
- 
+
  *   ### Interactive Elements
      * The first key feature of the site is the ability for the user to;
         * enter their own list of plants;
@@ -946,7 +946,7 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
         * This page has an interactive contact form that the user can complete and submit their details through to us.
         * There is an open text box so that the user can submit comments.
         * When the user submits their details by clicking the 'Send Contact Details' button, a modal pops up to confirm that details have been sent.
- 
+
  *   ### Future Features
      * If a user adds a plant to their list from the Trefle.io search , it would be useful to link directly back to the Trefle.io database in order to return more of the details on that plant.
      * Increase the number of filter types in searches. Currently only 'colour' is provided but further filters could be included such as 'edible plants', 'soil types', 'plant height', and 'water conditions'.
@@ -962,40 +962,40 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
      * Amend the cards to ensure appropriate rendering on screen sizes at 280px size.
      * Social media icons link to respective social media website home pages. Social media links will in future feature link directly to RMC Ltd social media connections.
      * Note that at present there is no functionality for a user to delete their account. This can be provided as a future feature.
- 
+
  ## Technologies Used
- 
+
  ### Languages Used
- 
+
  *   [HTML5](https://en.wikipedia.org/wiki/HTML5)
  *   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
  *   [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
  *   [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
- 
+
  ### Database Used
  * [MongoDB](https://www.mongodb.com/cloud/atlas)
  * MongoDb was used to store user data, user plant and collection lists for 'CRUD' purposes.
  * The database was planned to be as simple as possible with three MongoDB collections;
    1. Users - for user registration and login;
- 
+
      ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/mongodb_user.png?raw= "Users")
    1. Collections - for users to record their plant lists in their user defined collections;
- 
+
      ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/mongodb_collection.png?raw= "Collection")
    1. Plants - for users to record their plants as a complete list and divide these lists into their respective collections. Note that for any images in the database, they are referenced as an HTTP/HTTPS link only.
- 
+
      ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/mongodb_plant.png?raw= "Plant")
- 
+
  * All plants in the database are directly referenced with the Users ObjectId and a Collection ObjectId.
  * All collections are directly referenced to a User ObjectId.
- 
+
  * A key feature of the site is for users to reference the [Trefle.io](https://Trefle.io/) and [Plant.id](https://plant.id/) search capabilities and then upload the data from [Trefle.io](https://Trefle.io/) into their plant list. However, plants can be added to the user list manually, or by utilising the [Trefle.io](https://Trefle.io/) search functionality.
  * Images can be uploaded to MongoDB but only in an HTTP/HTTPS referenced form. The database is not designed to hold large images in standard image formats such as JPEG. As such all images are 'referenced' in this way. If a user wishes to upload an image, the user can if the user references a third party website or database.
  * Note that at present there is no functionality for a user to delete their account, but will be included as a future feature.
- 
- 
+
+
  ### Frameworks, Databases, Libraries & Programs Used
- 
+
  * [Materialize 1.0.0](https://materializecss.com/)
  * Bootstrap was used to assist with the responsiveness and styling of the website.
  * [Flask](https://flask.palletsprojects.com/en/1.1.x/)
@@ -1032,23 +1032,23 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  * Balsamiq was used to create the [wireframes]() during the design process.
  * [Am I Responsive:](http://ami.responsivedesign.is/#)
  * Am I Responsive was used to test the page layouts during the build process;
- 
+
    ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/amiresponsive_succ.png?raw= "Am I Responsive")
- 
+
  ### Application Programming Interfaces (API's) Used
- 
+
  * The website sources data from the **[Trefle.io](https://Trefle.io/)** and the **[Plant.id](https://plant.id/)** databases. The API's provide search capabilities for users to identify plants in a number of ways.
- 
+
  * [Trefle.io](https://Trefle.io/)
   * The [Trefle.io](https://Trefle.io/) database was used as the primary search database for a user;
     * entering a 'name'; or
     * by using a filter by 'colour'.
- 
+
  * [Plant.id](https://plant.id/)
   * The [Plant.id](https://plant.id/) database was used as the source for plant searches based on a user image. Images can be captured directly from a mobile device or by file upload.
- 
+
  ## Site Construction
- 
+
  * ### Consistent Page Components
   * All pages of the site contain the same 'header', 'navbar', 'carousel' and 'footer';
     * **Header** consists of a title carousel images with titles.
@@ -1067,11 +1067,11 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  * All subsequent pages follow a common theme (using Materialise CSS for font and colours);
    * Main Header Title in 'Yellow';
    * Card in 'Teal' background with information text in 'Dark Teal'.
- 
+
  * ### Contacts Page
   * The Contacts Page contains the 'Contact Form' for a user to supply contact information and to provide comments, questions or to provide a request for some work.
   * The 'Contact Form' will generate an email by referencing the **sendemail.js** file when a user submits their information.
- 
+
  * ### Construction Table
   * The following table provides a summary of how the Site Pages and Sections are compiled;
       Site Page | Page Section | Python File / Code Lines | JS File / Code Lines | API Reference |
@@ -1094,8 +1094,8 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
       My Details | Card Box | app.py / 289 - 317 | N/A |N/A |
       Contact | Contact Form |N/A| sendemailjs.js | [Emailjs](https://www.emailjs.com/) (Website)|
       Error | Error Messages | app.py / 759 - 775 | N/A | N/A |
- 
- 
+
+
  ## Testing
  Testing information can be found in a separate [testing.md](https://github.com/Readri205/MS3_Plant_Manager/blob/master/testing.md) file.
  ### Known Bugs and Issues
@@ -1108,75 +1108,75 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  * Note that the background, carousel and main home page cards all reference  [© Unsplash.com](https://unsplash.com/) for the images. As this is the case there is a risk that an image could be removed from the source and so the site image would fail. Copies of images are retained in the project image folder for backup.
  * GitPod IDE markup was used to format HTML files. This easy to use and makes the code very easy to read. I understand this to be a VS Code standard.
  * In the Heroku deployment, and on a mobile device, in the Trefle Search function, if a user enters a name with an apostrophe in it, the search with fail and report an Error (this issue is unique to Heroku deployment on a mobile device. The search will work on a desktop device or in Heroku Chrome Dev tools for mobile device screen sizes). The issue was discussed with CI Tutor Support with the suggestion to record the issue in the README.md file;
- 
+
  * example of type of search;
- 
+
    ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/problem_search.png?raw= "Mobile Problem Search")
- 
+
  * example of the error return;
- 
+
    ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/value_error.png?raw= "Mobile Device Error")
- 
+
  * if the user enters a search on mobile with an apostrophe in the name, the following error message is returned (HTTP 500 server error);
- 
+
    ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/oops_error_message.png?raw= "Error Message")
- 
+
  ## Deployment
- 
+
  ### GitHub Pages
- 
+
  The project was deployed to GitHub Pages using the following process;
- 
+
  1. The project was written in [GitPod](https://www.gitpod.io/) and pushed to GitHub Pages ready for deployment by taking the following steps;
  1. Logged in to GitHub and located the [GitHub Repository](https://github.com/Readri205/MS3_Plant_Manager);
  1. From this point deployment was made linking the Github repository to Heroku;
- 
+
  ### Heroku Deployment
- 
+
  1. The application was deployed in Heroku to run the Python Application on the Web front end.
  1. An account was created in Heroku and then a new application was setup;
- 
+
    ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/heroku_new_app.png?raw= "Heroku New App")
- 
+
  1. In the 'Deploy' menu the Heroku application is connected to the Github Repository so that it is automatically updated when Github is deployed;
- 
+
    ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/heroku_github_deploy.png?raw= "Github to Heroku Deploy")
- 
+
  1. In the 'Settings' menu, all the relevant API token, Secret Key and config files are entered individually so that the application can run with reference to these inputs;
- 
+
  * The application configs are set in the app.py file for reference;
- 
+
    ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/heroku_configs.png?raw= "Heroku Configs")
- 
+
  * Heroku can reference them once they are set in the Config Vars. All the tokens and secret keys are entered into an environment variable file that is referenced by the offline application and are not uploaded to Github. Any user wishing to copy the application and deploy it will need to obtain and create their own environment variables as listed below;
- 
+
    ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/heroku_app_configs.png?raw= "Heroku App Configs")
- 
+
  1. A requirements file must be set in the Github application which is passed to Heroku so that it knows which libraries to run;
- 
+
    ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/heroku_reqv2.png?raw= "Heroku Deployment")
- 
+
  1. A 'Proc' file must also be set in the Github application which is passed to Heroku so that it knows which programme to run the web application;
- 
+
    ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/heroku_proc.png?raw= "Heroku Deployment")
- 
+
  1. The application is opened on the web by clicking on the "Open app" button;
- 
+
    ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/heroku_deployment.png?raw= "Heroku Deployment")
- 
+
  - [Click to view site **WINE SHOP** :wine_glass:](https://plant-manager-flask-mongodb.herokuapp.com/ "Heroku Deployed Site")
- 
+
  ### Forking the GitHub Repository
- 
+
  A copy of the GitHub Repository can be made by forking the GitHub account. This copy can be viewed and  changes can be made to the copy without affecting the original repository. Take the following steps to fork the repository;
- 
+
  1. Log in to GitHub and locate the [GitHub Repository](https://github.com/Readri205/MS3_Plant_Manager);
  1. At the top of the Repository above the "Settings" Button on the menu, locate the "Fork" Button.
     ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/github_fork.png?raw= "Github Fork"); and
  1. Click to create a copy of the original repository in your own GitHub account.
- 
+
  ### Making a Local Clone
- 
+
  1. Log in to **GitHub** and locate the [GitHub Repository](https://github.com/Readri205/MS3_Plant_Manager)
  1. Under the repository name, click "Code".
  1. To clone the repository using HTTPS, click the top right hand link click "Use HTTPS";
@@ -1185,30 +1185,30 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  1. Open your Code Editor and access the appropriate process to paste the clone link;
  1. Change the current working directory to the location where you want to keep the cloned directory;
  1. Paste the URL you copied in step 4 above.
- 
+
  Note that different Code Editors will have different processes for making the clone once the HTTPS link copy is made in step 4 above.
- 
+
  * If using **GitHub Desktop**, the clone can de saved directly into GitHub Desktop from the "Code" dropdown menu by choosing **'Open with GitHub Desktop'**.
- 
+
  A **Zip File** clone can be downloaded from the same "Code" drop down above;
  * Select **'Download ZIP'** and the complete zip file will be saved to you local computer.
- 
+
  ## Credits
- 
+
  ### Code
- 
+
  * My Mentor (Adegbenga Adeye (email:adegbenga.adeye@outlook.com, slack:gbenga_mentor)) for providing help, guidance, inspiration and input on the more challenging components.
  * [Code Institute course](https://codeinstitute.net/5-day-coding-challenge/?utm_term=%2Bcode%20%2Binstitute%20%2Bcourses&utm_campaign=a%2526c_BR_IRL_Code_Institute&utm_source=adwords&utm_medium=ppc&hsa_net=adwords&hsa_tgt=kwd-443742237303&hsa_ad=407017470923&hsa_acc=8983321581&hsa_grp=62188641040&hsa_mt=b&hsa_cam=1578649861&hsa_kw=%2Bcode%20%2Binstitute%20%2Bcourses&hsa_ver=3&hsa_src=g&gclid=CjwKCAjw4MP5BRBtEiwASfwAL3-Oi3uDo1sBfn2KpQVAlLb07T2ndP-Q2mCFxdGgpvoBMoPIAtbg9xoCyZgQAvD_BwE&gclsrc=aw.ds); (the 'Task List' example) by Tim Nelson for the [Flask](https://flask.palletsprojects.com/en/1.1.x/) / [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) / [MongoDB](https://www.mongodb.com/cloud/atlas) / [Materialize](https://materializecss.com/) example which is used for the base construction of this website.
  * (the [Emailjs](https://www.emailjs.com/) example) for the 'Contact Form' email return function used in this website.
  * Code for the Carousel was from [Learning Simplified](https://youtu.be/re2W7o6IsYo), a youtube channel doing some good things with the [Materialize 1.0.0](https://materializecss.com/) Library.
  * [Julian Nash](https://www.youtube.com/channel/UC5_oFcBFlawLcFCBmU7oNZA) provided me with lots of useful tips for Flask and Python programming. The youtube videos are easy to follow and understand and are backed up with useful documentation.
- 
+
  ## Content
- 
+
  * All content was written by the developer.
- 
+
  ### Media
- 
+
  * All images [© Unsplash.com](https://unsplash.com/) unless otherwise stated;
  *   Background image - ['Dark plants ...''](https://unsplash.com/photos/aDvrHHFGAlE) By Amir Nyct [© Unsplash.com](https://unsplash.com/);
  *   Carousel image - ['Orchid in Bloom'](https://unsplash.com/photos/1PJnrGd6K1w) By Sanni Sahil [© Unsplash.com](https://unsplash.com/);
@@ -1220,19 +1220,19 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  *   Home page card image - ['Deep Red Leaves'](https://unsplash.com/photos/mdNQ3R5dT6w) Jessica Fadel [© Unsplash.com](https://stock.adobe.com/uk/);
  *   Home page card image - ['Pink Flowers'](https://unsplash.com/photos/ia1eeRnsbLg) Annie Spratt [© Unsplash.com](https://stock.adobe.com/uk/);
  *   Error page image - ['Dying Plant Flower'](https://www.deviantart.com/florapolitis/art/Dying-Plant-Flower-689450996) © 2017 - 2021 florapolitis ['Florapolotis'](https://www.deviantart.com/florapolitis/art/Dying-Plant-Flower-689450996) [Deviant Art](https://www.deviantart.com/);
- 
+
  ### Acknowledgements
- 
+
  * My Mentor **Adegbenga Adeye**, (email: adegbenga.adeye@outlook.com, slack:gbenga_mentor) for continuous helpful feedback. Ade has been an amazing in helping and supporting me with this site. It has proven much harder and much more work for me to develop than I ever thought (severe case of 'what you don't know when you start').
  * **Tutor support** at Code Institute for their support. When I have requested help, it has come quickly and efficiently when needed.
  * **Student assessment** at Code Institute. I have looked to accommodate comments back on MS2 to reduce any re-occurring issues in MS3.
  * **Other students** (Slack Code Institute Workspace) on the Full Stack Developer Course, via the [Slack Communication Platform](https://slack.com/intl/en-gb/).
  * **Friends and family** providing review and feedback on the site content, navigation and screen size testing. This has been invaluable with two very 'have mobile, will travel' daughters, it is often brutal but effective.
- 
+
  ## Version Control
- 
+
  *   All through the development phase of the project, commits have been made from the GitPod Repository to GitHub. The version control list below mirrors the GitHub Commit list. It is designed to provide a direct track on commits in the README file for easy access as to code status in GitPod.
- 
+
   - V1.0 Initial Commit
   - V1.1 Setup allauth
   - V1.2 Add allauth templates and base template
@@ -1392,5 +1392,6 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
   - V16.6 Update text in product details
   - V16.7 Add amiresponsive image
   - V16.8 Heroku push
- 
+  - V16.9 Further heroku push
+
  ***
