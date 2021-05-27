@@ -1395,5 +1395,6 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
   - V16.9 Further heroku push
   - V17.0 Heroku push for build fails
   - V17.1 Reconnect Heroku
+  - V17.2 Further reconnect heroku
 
  ***
