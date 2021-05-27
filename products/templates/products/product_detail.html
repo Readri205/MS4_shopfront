@@ -19,9 +19,9 @@
                         <a href="{{ product.image.url }}" target="_blank">
                             <img class="img-fluid mx-auto d-block" src="{{ product.image.url }}" alt="{{ product.product }}">
                         </a>
-                        {% else %}
+                    {% else %}
                         <a href="">
-                            <img class="img-fluid mx-auto d-block" src="{{ MEDIA_URL }}noimage.png" alt="{{ product.product }}">
+                            <img class="img-fluid mx-auto d-block" src="{{ MEDIA_URL }}default_bottle.png" alt="{{ product.product }}">
                         </a>
                     {% endif %}
                 </div>
@@ -95,9 +95,7 @@
 
                             <div class="col{% if s %}-12 mt-2{% endif %}">
                                 <a href="{% url 'products' %}" class="btn btn-outline-burgundy rounded-0 mt-5">
-                                    <span class="icon">
-                                        <i class="fas fa-chevron-left"></i>
-                                    </span>
+                                    <span><i class="fas fa-door-open"></i>  <i class="far fa-hand-point-left">  </i>   </span>
                                     <span class="text-uppercase">Keep Shopping</span>
                                 </a>
                                 <input type="submit" class="btn btn-burgundy rounded-0 text-uppercase mt-5" value="Add to Bag">

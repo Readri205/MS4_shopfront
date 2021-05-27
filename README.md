@@ -689,5 +689,6 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V15.9 Update product details page
  - V16.0 Amend error on product details
  - V16.1 Adjust image and quantity block
+ - V16.2 Amend columns and icons product detail
 
 ***
