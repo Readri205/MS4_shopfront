@@ -686,5 +686,6 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V15.6 Further product details amends
  - V15.7 Amend to float add cart to right
  - V15.8 Amend to keep shopping
+ - V15.9 Update product details page
 
 ***
