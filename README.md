@@ -692,5 +692,6 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V16.2 Amend columns and icons product detail
  - V16.3 Add email account to settings
  - V16.4 Amend email account settings
+ - V16.5 Update fonts on password resets
 
 ***
