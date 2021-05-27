@@ -691,5 +691,6 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V16.1 Adjust image and quantity block
  - V16.2 Amend columns and icons product detail
  - V16.3 Add email account to settings
+ - V16.4 Amend email account settings
 
 ***
