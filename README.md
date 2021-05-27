@@ -1391,5 +1391,6 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
   - V16.5 Update fonts on password resets
   - V16.6 Update text in product details
   - V16.7 Add amiresponsive image
+  - V16.8 Heroku push
  
  ***
