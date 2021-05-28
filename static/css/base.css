@@ -79,13 +79,18 @@ body {
     border: 1px solid #722F37;
 }
 
+.btn-outline-burgundy:hover,
+.btn-outline-burgundy:active,
+.btn-outline-burgundy:focus {
+    background: #fff;
+    color: #4f742f !important;
+    border: 1px solid #4f742f;
+}
+
 .shop-now-button:hover,
 .shop-now-button:active,
-.shop-now-button:focus,
-.btn-green:hover,
-.btn-green:active,
-.btn-green:focus {
-    background: #722F37;
+.shop-now-button:focus {
+    background: #4f742f;
     color: white;
 }
 
