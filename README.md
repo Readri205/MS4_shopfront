@@ -1397,5 +1397,6 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
   - V17.1 Reconnect Heroku
   - V17.2 Further connect heroku
   - V17.3 Load readme amiresponsive
+  - V17.4 Style amends on home page
 
  ***
