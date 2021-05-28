@@ -1,4 +1,4 @@
-![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/static/images/readme/amiresponsive.png?raw= "WINE SHOP")
+![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/amiresponsive.png?raw= "WINE SHOP")
 
 [View the live **WINE SHOP**  :wine_glass:  project here.](https://read205-wineshop.herokuapp.com/)
 
@@ -1395,6 +1395,7 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
   - V16.9 Further heroku push
   - V17.0 Heroku push for build fails
   - V17.1 Reconnect Heroku
-  - V17.2 Further reconnect heroku
+  - V17.2 Further connect heroku
+  - V17.3 Load readme amiresponsive
 
  ***
