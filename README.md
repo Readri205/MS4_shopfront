@@ -7,7 +7,7 @@
 
 ## Site Goals
 
-* This website provides a functionality for users to create a list of plants in collections, either by entering plant details or by uploading from a search. The searches can be made in a number of ways, including by name, image or by filters. Users are able to update the details of plants and collections in their lists. Users are also able to delete plants and collections. A user can also move a plant from one collection to another if so desired. A user can also amend their personal details including email, username and telephone number. A user is also able to fully delete their login and all plants and collections listed on that login. Each users logn and details are specific to that user and cannot be viewed by any other user.
+* This website provides a functionality for users to create a list of plants in collections, either by entering plant details or by uploading from a search. The searches can be made in a number of ways, including by name, image or by filters. Users are able to update the details of plants and collections in their lists. Users are also able to delete plants and collections. A user can also move a plant from one collection to another if so desired. A user can also amend their personal details including email, username and telephone number. A user is also able to fully delete their login and all plants and collections listed on that login. Each users login and details are specific to that user and cannot be viewed by any other user.
 
 * **NOTE: This site is currently entirely for educational purposes only. Whilst there is an ability to register for the site, any personal details entered are not protected.**
 
@@ -42,76 +42,76 @@
       * The first time visitor will want to;
         * easily understand the main purpose of the site;
 
-        ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_maininfo.png?raw= "Home")
+        ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_maininfo.png?raw= "Home")
 
         * be able to easily navigate throughout the site to find content;
 
-        ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_mainmenu.png?raw= "Main Menu")
+        ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_mainmenu.png?raw= "Main Menu")
 
         * view the carousel images just beneath the header;
 
-        ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_carousel.png?raw= "Carousel")
+        ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_carousel.png?raw= "Carousel")
 
         * scroll down through the information, read the content, view each of the function cards;
 
-        ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_maininfo.png?raw= "Cards")
+        ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_maininfo.png?raw= "Cards")
 
         * register for the site and create login credentials;
 
-        ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_register.png?raw= "Register")
+        ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_register.png?raw= "Register")
 
         * enter plant details for plants they are interested in;
 
           * login to the site;
 
-          ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_login.png?raw= "Login")
+          ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_login.png?raw= "Login")
 
           * immediately view their plants list;
 
-          ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_myplants.png?raw= "My Plants")
+          ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_myplants.png?raw= "My Plants")
 
           * immediately view a plant from list;
 
-          ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_viewplant.png?raw= "My Plants")
+          ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_viewplant.png?raw= "My Plants")
 
           * view their collections list;
 
-          ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_mycollections.png?raw= "My Collections")
+          ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_mycollections.png?raw= "My Collections")
 
           * search for plants in one of the search methods;
             * name;
 
-            ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_searchname.png?raw= "Search Name")
+            ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_searchname.png?raw= "Search Name")
 
             * View plants returned from a search;
 
-            ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_return.png?raw= "Search Name")
+            ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_return.png?raw= "Search Name")
 
             * View individual plant details from a search return;
 
-            ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_plantdeets.png?raw= "Search Name")
+            ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_plantdeets.png?raw= "Search Name")
 
             * filter by attribute;
 
-            ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_filter.png?raw= "search Filter")
+            ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_filter.png?raw= "search Filter")
 
             * image upload.
 
-            ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_image.png?raw= "Image")
+            ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_image.png?raw= "Image")
 
-            ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_imagesuggestions.png?raw= "Image Suggestions")
+            ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_imagesuggestions.png?raw= "Image Suggestions")
 
           * add a plant to users plant list and a collection.
 
-          ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_addplant.png?raw= "Add Plant")
+          ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_addplant.png?raw= "Add Plant")
 
         * see their user details and amend if necessary.
 
-          ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_mydetails.png?raw= "My Details")
+          ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_mydetails.png?raw= "My Details")
 
         * contact us to ask about data projects that they may be interested to have completed as an item of work.
 
-          ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_contact.png?raw= "Contact")
+          ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_contact.png?raw= "Contact")
 
   *   #### Returning Visitor Goals
       * The returning visitor will want to;
@@ -154,19 +154,19 @@
   *   #### Mobile Menu
         * On mobile devices the menu is shown as a 'hamburger' drop down;
 
-        ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_mobile.png?raw= "Mobile")
+        ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_mobile.png?raw= "Mobile")
 
         * On mobile devices the menu is shown as a 'hamburger' drop down;
 
-        ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_mobilemenu.png?raw= "Mobile Menu")
+        ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_mobilemenu.png?raw= "Mobile Menu")
 
         * On mobile devices the search function operates in the same manner as for larger screens;
 
-        ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_mobilesearch.png?raw= "Mobile Search")
+        ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_mobilesearch.png?raw= "Mobile Search")
 
         * On mobile devices an image can be captured and uploaded directly;
 
-        ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_capture.png?raw= "Mobile Capture")
+        ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_capture.png?raw= "Mobile Capture")
 
 *   ### Design
   *   #### colour Scheme
@@ -180,12 +180,12 @@
   *   #### Imagery
       * A 'Dark' theme has been intentionally chosen to make it distinct from other numerous 'plant' applications. The dark background provides a clear backdrop to highlight the colours and shapes of plants, and also to highlight clearly the information that is provided in the teal 'card' structure.
       * The header contains a carousel designed to be striking and catch the user's attention and to provide some unique image themes. To provide some context on larger screens each image has a clear title description sourced from the original image provided by the contributor. Note that on some screen sizes the titles can be difficult to read where they blend into the image. As the titles are not fundamental to the website information it has been considered 'acceptable'.
-      * Note that the background, carousel and main home page cards all reference  [© Unsplash.com](https://unsplash.com/) for the images. As this is the case there is a risk that an image could be removed from the source and so the site image would fail. Copies of images are retained in the project image folder for backup.
+      * Note that the background reference  [© Unsplash.com](https://unsplash.com/) for the image. As this is the case there is a risk that an image could be removed from the source and so the site image would fail. Copies of images are retained in the project image folder for backup.
       * The background image is of 'Dark plants ...', designed to provide a dark neutral background yet reference the plant kingdom. The header images are intended to blend into the background image with the 'deep black' backgrounds.
 
-          ![alt text](https://images.unsplash.com/photo-1586990684319-40c14d005de9?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1402&q=80)
+          ![alt text](https://images.unsplash.com/photo-1596063093406-321358f23bb1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80)
 
-          *['Dark plants ...'](https://unsplash.com/photos/aDvrHHFGAlE)  By Amir Nyct  [© Unsplash.com](https://unsplash.com/)*
+          *['The grapes on the vineyards in Douro Valley, Portugal. The UNESCO World Heritage region where the Porto Wine is produced.'](https://unsplash.com/@qwitka) By Maksym Kaharlytskyi [© Unsplash.com](https://unsplash.com/)*
 
 
 *   ### Wireframes
@@ -205,7 +205,7 @@
       * The contact page uses the following source;
         * Automated Email Response - [Emailjs](https://www.emailjs.com/)
       * All images in the wireframe are by example only.
-      *   The **Original Wireframe Design** can be viewed here - [View](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/wireframes/rhcgardenmanager.pdf)
+      *   The **Original Wireframe Design** can be viewed here - [View](https://github.com/Readri205/MS4_shopfront/blob/master/static/wireframes/rhcgardenmanager.pdf)
   *  #### Actual Site Design.
       * The developed site uses many of the concepts from the original Wireframe design. Variations are as follows;
         1. The **Home** page has a number of cards explaining the key features of the site, but there is no **'Calendar View'** feature;
@@ -282,13 +282,13 @@
 * The database was planned to be as simple as possible with three MongoDB collections;
   1. Users - for user registration and login;
 
-    ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/mongodb_user.png?raw= "Users")
+    ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/mongodb_user.png?raw= "Users")
   1. Collections - for users to record their plant lists in their user defined collections;
 
-    ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/mongodb_collection.png?raw= "Collection")
+    ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/mongodb_collection.png?raw= "Collection")
   1. Plants - for users to record their plants as a complete list and divide these lists into their respective collections. Note that for any images in the database, they are referenced as an HTTP/HTTPS link only.
 
-    ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/mongodb_plant.png?raw= "Plant")
+    ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/mongodb_plant.png?raw= "Plant")
 
 * All plants in the database are directly referenced with the Users ObjectId and a Collection ObjectId.
 * All collections are directly referenced to a User ObjectId.
@@ -337,7 +337,7 @@
 * [Am I Responsive:](http://ami.responsivedesign.is/#)
 * Am I Responsive was used to test the page layouts during the build process;
 
-  ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/amiresponsive_succ.png?raw= "Am I Responsive")
+  ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/amiresponsive.png?raw= "Am I Responsive")
 
 ### Application Programming Interfaces (API's) Used
 
@@ -401,7 +401,7 @@
 
 
 ## Testing
-Testing information can be found in a separate [testing.md](https://github.com/Readri205/MS3_Plant_Manager/blob/master/testing.md) file.
+Testing information can be found in a separate [testing.md](https://github.com/Readri205/MS4_shopfront/blob/master/testing.md) file.
 ### Known Bugs and Issues
 * The python file 'app.py' could be rationalised into key functional items such as 'user, Trefle search and Plant.ID search' to make them more distinct and easier to reference specific functionality in the future.
 * Likewise the templates could be rationalised into key functional folders such as 'user, Trefle search and Plant.ID search' to make them more distinct and easier to reference specific functionality in the future.
@@ -415,15 +415,15 @@ Testing information can be found in a separate [testing.md](https://github.com/R
 
 * example of type of search;
 
-  ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/problem_search.png?raw= "Mobile Problem Search")
+  ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/problem_search.png?raw= "Mobile Problem Search")
 
 * example of the error return;
 
-  ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/value_error.png?raw= "Mobile Device Error")
+  ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/value_error.png?raw= "Mobile Device Error")
 
 * if the user enters a search on mobile with an apostrophe in the name, the following error message is returned (HTTP 500 server error);
 
-  ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/oops_error_message.png?raw= "Error Message")
+  ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/oops_error_message.png?raw= "Error Message")
 
 ## Deployment
 
@@ -432,7 +432,7 @@ Testing information can be found in a separate [testing.md](https://github.com/R
 The project was deployed to GitHub Pages using the following process;
 
 1. The project was written in [GitPod](https://www.gitpod.io/) and pushed to GitHub Pages ready for deployment by taking the following steps;
-1. Logged in to GitHub and located the [GitHub Repository](https://github.com/Readri205/MS3_Plant_Manager);
+1. Logged in to GitHub and located the [GitHub Repository](https://github.com/Readri205/MS4_shopfront);
 1. From this point deployment was made linking the Github repository to Heroku;
 
 ### Heroku Deployment
@@ -440,33 +440,33 @@ The project was deployed to GitHub Pages using the following process;
 1. The application was deployed in Heroku to run the Python Application on the Web front end.
 1. An account was created in Heroku and then a new application was setup;
 
-  ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/heroku_new_app.png?raw= "Heroku New App")
+  ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/heroku_new_app.png?raw= "Heroku New App")
 
 1. In the 'Deploy' menu the Heroku application is connected to the Github Repository so that it is automatically updated when Github is deployed;
 
-  ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/heroku_github_deploy.png?raw= "Github to Heroku Deploy")
+  ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/heroku_github_deploy.png?raw= "Github to Heroku Deploy")
 
 1. In the 'Settings' menu, all the relevant API token, Secret Key and config files are entered individually so that the application can run with reference to these inputs;
 
 * The application configs are set in the app.py file for reference;
 
-  ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/heroku_configs.png?raw= "Heroku Configs")
+  ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/heroku_configs.png?raw= "Heroku Configs")
 
 * Heroku can reference them once they are set in the Config Vars. All the tokens and secret keys are entered into an environment variable file that is referenced by the offline application and are not uploaded to Github. Any user wishing to copy the application and deploy it will need to obtain and create their own environment variables as listed below;
 
-  ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/heroku_app_configs.png?raw= "Heroku App Configs")
+  ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/heroku_app_configs.png?raw= "Heroku App Configs")
 
 1. A requirements file must be set in the Github application which is passed to Heroku so that it knows which libraries to run;
 
-  ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/heroku_reqv2.png?raw= "Heroku Deployment")
+  ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/heroku_reqv2.png?raw= "Heroku Deployment")
 
 1. A 'Proc' file must also be set in the Github application which is passed to Heroku so that it knows which programme to run the web application;
 
-  ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/heroku_proc.png?raw= "Heroku Deployment")
+  ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/heroku_proc.png?raw= "Heroku Deployment")
 
 1. The application is opened on the web by clicking on the "Open app" button;
 
-  ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/heroku_deployment.png?raw= "Heroku Deployment")
+  ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/heroku_deployment.png?raw= "Heroku Deployment")
 
 - [Click to view site **WINE SHOP** :wine_glass:](https://plant-manager-flask-mongodb.herokuapp.com/ "Heroku Deployed Site")
 
@@ -474,18 +474,18 @@ The project was deployed to GitHub Pages using the following process;
 
 A copy of the GitHub Repository can be made by forking the GitHub account. This copy can be viewed and  changes can be made to the copy without affecting the original repository. Take the following steps to fork the repository;
 
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/Readri205/MS3_Plant_Manager);
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/Readri205/MS4_shopfront);
 1. At the top of the Repository above the "Settings" Button on the menu, locate the "Fork" Button.
-   ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/github_fork.png?raw= "Github Fork"); and
+   ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/github_fork.png?raw= "Github Fork"); and
 1. Click to create a copy of the original repository in your own GitHub account.
 
 ### Making a Local Clone
 
-1. Log in to **GitHub** and locate the [GitHub Repository](https://github.com/Readri205/MS3_Plant_Manager)
+1. Log in to **GitHub** and locate the [GitHub Repository](https://github.com/Readri205/MS4_shopfront)
 1. Under the repository name, click "Code".
 1. To clone the repository using HTTPS, click the top right hand link click "Use HTTPS";
 1. Copy the link under "Clone with HTTPS";
-   ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/github_clone.png?raw= "Github Clone")
+   ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/github_clone.png?raw= "Github Clone")
 1. Open your Code Editor and access the appropriate process to paste the clone link;
 1. Change the current working directory to the location where you want to keep the cloned directory;
 1. Paste the URL you copied in step 4 above.
@@ -514,16 +514,9 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
 ### Media
 
 * All images [© Unsplash.com](https://unsplash.com/) unless otherwise stated;
-*   Background image - ['Dark plants ...''](https://unsplash.com/photos/aDvrHHFGAlE) By Amir Nyct [© Unsplash.com](https://unsplash.com/);
-*   Carousel image - ['Orchid in Bloom'](https://unsplash.com/photos/1PJnrGd6K1w) By Sanni Sahil [© Unsplash.com](https://unsplash.com/);
-*   Carousel image - ['Spring Red Tulips on Moody Background'](https://unsplash.com/photos/gH5ujsvtohE) By Michele Tardivo [© Unsplash.com](https://unsplash.com/);
-*   Carousel image - ['Floral Potrait...'](https://unsplash.com/photos/-yYaO0ioyOY) By Abhishek Dhakate [© Unsplash.com](https://unsplash.com/);
-*   Carousel image - ['Singapore Botanic Gardens, Singapore'](https://unsplash.com/photos/fQQBArliXGE) Elliot Lowe [© Unsplash.com](https://stock.adobe.com/uk/);
-*   Home page card image - ['Hazleton, United States'](https://unsplash.com/photos/Q2dxmAzbUbk) Honey Yanibel Minaya Cruz [© Unsplash.com](https://stock.adobe.com/uk/);
-*   Home page card image - ['Mystic Hydrangea'](https://unsplash.com/photos/FOrCwEMIgSI) Natasha Polyakova [© Unsplash.com](https://stock.adobe.com/uk/);
-*   Home page card image - ['Deep Red Leaves'](https://unsplash.com/photos/mdNQ3R5dT6w) Jessica Fadel [© Unsplash.com](https://stock.adobe.com/uk/);
-*   Home page card image - ['Pink Flowers'](https://unsplash.com/photos/ia1eeRnsbLg) Annie Spratt [© Unsplash.com](https://stock.adobe.com/uk/);
-*   Error page image - ['Dying Plant Flower'](https://www.deviantart.com/florapolitis/art/Dying-Plant-Flower-689450996) © 2017 - 2021 florapolitis ['Florapolotis'](https://www.deviantart.com/florapolitis/art/Dying-Plant-Flower-689450996) [Deviant Art](https://www.deviantart.com/);
+*   Background image - ['The grapes on the vineyards in Douro Valley, Portugal. The UNESCO World Heritage region where the Porto Wine is produced.'](https://unsplash.com/@qwitka) By Maksym Kaharlytskyi [© Unsplash.com](https://unsplash.com/);
+
+
 
 ### Acknowledgements
 
@@ -694,7 +687,7 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  - V16.4 Amend email account settings
  - V16.5 Update fonts on password resets
  - V16.6 Update text in product details
- - ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/static/images/readme/amiresponsive.png?raw= "WINE SHOP")
+ - ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/amiresponsive.png?raw= "WINE SHOP")
 
  [View the live **WINE SHOP**  :wine_glass:  project here.](https://read205-wineshop.herokuapp.com/)
 
@@ -738,76 +731,76 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
        * The first time visitor will want to;
          * easily understand the main purpose of the site;
 
-         ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_maininfo.png?raw= "Home")
+         ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_maininfo.png?raw= "Home")
 
          * be able to easily navigate throughout the site to find content;
 
-         ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_mainmenu.png?raw= "Main Menu")
+         ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_mainmenu.png?raw= "Main Menu")
 
          * view the carousel images just beneath the header;
 
-         ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_carousel.png?raw= "Carousel")
+         ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_carousel.png?raw= "Carousel")
 
          * scroll down through the information, read the content, view each of the function cards;
 
-         ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_maininfo.png?raw= "Cards")
+         ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_maininfo.png?raw= "Cards")
 
          * register for the site and create login credentials;
 
-         ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_register.png?raw= "Register")
+         ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_register.png?raw= "Register")
 
          * enter plant details for plants they are interested in;
 
            * login to the site;
 
-           ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_login.png?raw= "Login")
+           ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_login.png?raw= "Login")
 
            * immediately view their plants list;
 
-           ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_myplants.png?raw= "My Plants")
+           ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_myplants.png?raw= "My Plants")
 
            * immediately view a plant from list;
 
-           ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_viewplant.png?raw= "My Plants")
+           ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_viewplant.png?raw= "My Plants")
 
            * view their collections list;
 
-           ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_mycollections.png?raw= "My Collections")
+           ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_mycollections.png?raw= "My Collections")
 
            * search for plants in one of the search methods;
              * name;
 
-             ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_searchname.png?raw= "Search Name")
+             ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_searchname.png?raw= "Search Name")
 
              * View plants returned from a search;
 
-             ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_return.png?raw= "Search Name")
+             ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_return.png?raw= "Search Name")
 
              * View individual plant details from a search return;
 
-             ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_plantdeets.png?raw= "Search Name")
+             ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_plantdeets.png?raw= "Search Name")
 
              * filter by attribute;
 
-             ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_filter.png?raw= "search Filter")
+             ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_filter.png?raw= "search Filter")
 
              * image upload.
 
-             ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_image.png?raw= "Image")
+             ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_image.png?raw= "Image")
 
-             ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_imagesuggestions.png?raw= "Image Suggestions")
+             ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_imagesuggestions.png?raw= "Image Suggestions")
 
            * add a plant to users plant list and a collection.
 
-           ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_addplant.png?raw= "Add Plant")
+           ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_addplant.png?raw= "Add Plant")
 
          * see their user details and amend if necessary.
 
-           ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_mydetails.png?raw= "My Details")
+           ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_mydetails.png?raw= "My Details")
 
          * contact us to ask about data projects that they may be interested to have completed as an item of work.
 
-           ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_contact.png?raw= "Contact")
+           ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_contact.png?raw= "Contact")
 
    *   #### Returning Visitor Goals
        * The returning visitor will want to;
@@ -850,19 +843,19 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
    *   #### Mobile Menu
          * On mobile devices the menu is shown as a 'hamburger' drop down;
 
-         ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_mobile.png?raw= "Mobile")
+         ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_mobile.png?raw= "Mobile")
 
          * On mobile devices the menu is shown as a 'hamburger' drop down;
 
-         ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_mobilemenu.png?raw= "Mobile Menu")
+         ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_mobilemenu.png?raw= "Mobile Menu")
 
          * On mobile devices the search function operates in the same manner as for larger screens;
 
-         ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_mobilesearch.png?raw= "Mobile Search")
+         ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_mobilesearch.png?raw= "Mobile Search")
 
          * On mobile devices an image can be captured and uploaded directly;
 
-         ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/app_capture.png?raw= "Mobile Capture")
+         ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_capture.png?raw= "Mobile Capture")
 
  *   ### Design
    *   #### colour Scheme
@@ -901,7 +894,7 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
        * The contact page uses the following source;
          * Automated Email Response - [Emailjs](https://www.emailjs.com/)
        * All images in the wireframe are by example only.
-       *   The **Original Wireframe Design** can be viewed here - [View](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/wireframes/rhcgardenmanager.pdf)
+       *   The **Original Wireframe Design** can be viewed here - [View](https://github.com/Readri205/MS4_shopfront/blob/master/static/wireframes/rhcgardenmanager.pdf)
    *  #### Actual Site Design.
        * The developed site uses many of the concepts from the original Wireframe design. Variations are as follows;
          1. The **Home** page has a number of cards explaining the key features of the site, but there is no **'Calendar View'** feature;
@@ -978,13 +971,13 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  * The database was planned to be as simple as possible with three MongoDB collections;
    1. Users - for user registration and login;
 
-     ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/mongodb_user.png?raw= "Users")
+     ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/mongodb_user.png?raw= "Users")
    1. Collections - for users to record their plant lists in their user defined collections;
 
-     ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/mongodb_collection.png?raw= "Collection")
+     ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/mongodb_collection.png?raw= "Collection")
    1. Plants - for users to record their plants as a complete list and divide these lists into their respective collections. Note that for any images in the database, they are referenced as an HTTP/HTTPS link only.
 
-     ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/mongodb_plant.png?raw= "Plant")
+     ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/mongodb_plant.png?raw= "Plant")
 
  * All plants in the database are directly referenced with the Users ObjectId and a Collection ObjectId.
  * All collections are directly referenced to a User ObjectId.
@@ -1033,7 +1026,7 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  * [Am I Responsive:](http://ami.responsivedesign.is/#)
  * Am I Responsive was used to test the page layouts during the build process;
 
-   ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/amiresponsive_succ.png?raw= "Am I Responsive")
+   ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/amiresponsive_succ.png?raw= "Am I Responsive")
 
  ### Application Programming Interfaces (API's) Used
 
@@ -1097,7 +1090,7 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
 
 
  ## Testing
- Testing information can be found in a separate [testing.md](https://github.com/Readri205/MS3_Plant_Manager/blob/master/testing.md) file.
+ Testing information can be found in a separate [testing.md](https://github.com/Readri205/MS4_shopfront/blob/master/testing.md) file.
  ### Known Bugs and Issues
  * The python file 'app.py' could be rationalised into key functional items such as 'user, Trefle search and Plant.ID search' to make them more distinct and easier to reference specific functionality in the future.
  * Likewise the templates could be rationalised into key functional folders such as 'user, Trefle search and Plant.ID search' to make them more distinct and easier to reference specific functionality in the future.
@@ -1111,15 +1104,15 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
 
  * example of type of search;
 
-   ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/problem_search.png?raw= "Mobile Problem Search")
+   ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/problem_search.png?raw= "Mobile Problem Search")
 
  * example of the error return;
 
-   ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/value_error.png?raw= "Mobile Device Error")
+   ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/value_error.png?raw= "Mobile Device Error")
 
  * if the user enters a search on mobile with an apostrophe in the name, the following error message is returned (HTTP 500 server error);
 
-   ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/oops_error_message.png?raw= "Error Message")
+   ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/oops_error_message.png?raw= "Error Message")
 
  ## Deployment
 
@@ -1128,7 +1121,7 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  The project was deployed to GitHub Pages using the following process;
 
  1. The project was written in [GitPod](https://www.gitpod.io/) and pushed to GitHub Pages ready for deployment by taking the following steps;
- 1. Logged in to GitHub and located the [GitHub Repository](https://github.com/Readri205/MS3_Plant_Manager);
+ 1. Logged in to GitHub and located the [GitHub Repository](https://github.com/Readri205/MS4_shopfront);
  1. From this point deployment was made linking the Github repository to Heroku;
 
  ### Heroku Deployment
@@ -1136,33 +1129,33 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
  1. The application was deployed in Heroku to run the Python Application on the Web front end.
  1. An account was created in Heroku and then a new application was setup;
 
-   ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/heroku_new_app.png?raw= "Heroku New App")
+   ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/heroku_new_app.png?raw= "Heroku New App")
 
  1. In the 'Deploy' menu the Heroku application is connected to the Github Repository so that it is automatically updated when Github is deployed;
 
-   ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/heroku_github_deploy.png?raw= "Github to Heroku Deploy")
+   ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/heroku_github_deploy.png?raw= "Github to Heroku Deploy")
 
  1. In the 'Settings' menu, all the relevant API token, Secret Key and config files are entered individually so that the application can run with reference to these inputs;
 
  * The application configs are set in the app.py file for reference;
 
-   ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/heroku_configs.png?raw= "Heroku Configs")
+   ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/heroku_configs.png?raw= "Heroku Configs")
 
  * Heroku can reference them once they are set in the Config Vars. All the tokens and secret keys are entered into an environment variable file that is referenced by the offline application and are not uploaded to Github. Any user wishing to copy the application and deploy it will need to obtain and create their own environment variables as listed below;
 
-   ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/heroku_app_configs.png?raw= "Heroku App Configs")
+   ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/heroku_app_configs.png?raw= "Heroku App Configs")
 
  1. A requirements file must be set in the Github application which is passed to Heroku so that it knows which libraries to run;
 
-   ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/heroku_reqv2.png?raw= "Heroku Deployment")
+   ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/heroku_reqv2.png?raw= "Heroku Deployment")
 
  1. A 'Proc' file must also be set in the Github application which is passed to Heroku so that it knows which programme to run the web application;
 
-   ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/heroku_proc.png?raw= "Heroku Deployment")
+   ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/heroku_proc.png?raw= "Heroku Deployment")
 
  1. The application is opened on the web by clicking on the "Open app" button;
 
-   ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/heroku_deployment.png?raw= "Heroku Deployment")
+   ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/heroku_deployment.png?raw= "Heroku Deployment")
 
  - [Click to view site **WINE SHOP** :wine_glass:](https://plant-manager-flask-mongodb.herokuapp.com/ "Heroku Deployed Site")
 
@@ -1170,18 +1163,18 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
 
  A copy of the GitHub Repository can be made by forking the GitHub account. This copy can be viewed and  changes can be made to the copy without affecting the original repository. Take the following steps to fork the repository;
 
- 1. Log in to GitHub and locate the [GitHub Repository](https://github.com/Readri205/MS3_Plant_Manager);
+ 1. Log in to GitHub and locate the [GitHub Repository](https://github.com/Readri205/MS4_shopfront);
  1. At the top of the Repository above the "Settings" Button on the menu, locate the "Fork" Button.
-    ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/github_fork.png?raw= "Github Fork"); and
+    ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/github_fork.png?raw= "Github Fork"); and
  1. Click to create a copy of the original repository in your own GitHub account.
 
  ### Making a Local Clone
 
- 1. Log in to **GitHub** and locate the [GitHub Repository](https://github.com/Readri205/MS3_Plant_Manager)
+ 1. Log in to **GitHub** and locate the [GitHub Repository](https://github.com/Readri205/MS4_shopfront)
  1. Under the repository name, click "Code".
  1. To clone the repository using HTTPS, click the top right hand link click "Use HTTPS";
  1. Copy the link under "Clone with HTTPS";
-    ![alt text](https://github.com/Readri205/MS3_Plant_Manager/blob/master/static/images/readme/github_clone.png?raw= "Github Clone")
+    ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/github_clone.png?raw= "Github Clone")
  1. Open your Code Editor and access the appropriate process to paste the clone link;
  1. Change the current working directory to the location where you want to keep the cloned directory;
  1. Paste the URL you copied in step 4 above.
@@ -1399,5 +1392,6 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
   - V17.3 Load readme amiresponsive
   - V17.4 Style amends on home page
   - V17.5 Further style amend home page
+  - V17.6 Add readme images
 
  ***
