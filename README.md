@@ -551,5 +551,6 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
   - V18.7 Amend mixed products in gitpod
   - V18.8 Redeploy to heroku
   - V18.9 Add footer section
+  - V19.0 Add css on footer
 
   ***
