@@ -7,7 +7,7 @@
 
 ## Site Goals
 
-* This website provides a functionality for users to purchase a selection of wines from a winestore. users can select from a number of menu dropdowns for wines that suite their interest across red, white, rose, sparkling and fortified. The user can select the wines and place them in a shopping cart, prrocide user details for delivery and make credit card payment.
+* This website provides a functionality for users to purchase a selection of wines from a wine store. users can select from a number of menu drop-downs for wines that suite their interest across red, white, rose, sparkling and fortified. The user can select the wines and place them in a shopping cart, provide user details for delivery and make credit card payment.
 
 * **NOTE: This site is currently entirely for educational purposes only. Whilst there is an ability to register for the site, any personal details entered are not protected.**
 
@@ -123,7 +123,7 @@
       * The main colour themes are 'Burgundy' (#722F37) and 'Green' (#4f742f), primarily in reference to 'red' and 'white' wines. 'Burgundy' is used to highlight 'buttons' with 'Green' as a 'hover' effect over 'buttons'.
       * The main colours,  were potentially a concern for the 'colour blind' fraternity. Some basic tests with colour-blind persons did not present any issues, however the spectrum of colour blindness is vast so there may be some issues with some persons. The colour structure is relatively easy to change if there is negative feedback.
   *   #### Typography
-      * The site uses the 'Bootstrap' 'Roboto' default font throughout the whole website. 'Roboto' is a clean font which is both attractive and appropriate.
+      * ...
   *   #### 'Bootstrap' Card Structure
       * The 'Bootstrap' card structure is used to return search results. This structures the returns into identifiable components with an image and corresponding details for a return. This keeps each return distinct and independent of each other.
   *   #### Imagery
@@ -166,7 +166,7 @@
       * The header image suitably sized for smaller screens.
     * Desktop / Laptop large screen size
       * The 'Box Content' is effective on wide screens. The Bootstrap Grid System allows for the 'Box Content' to align horizontally in themes that are consistent on each of the 'Home' and 'Search' pages.
-      * The header menu system uses the Bootstrap 'navbar' functionality with the menu option pages listed to the center.
+      * The header menu system uses the Bootstrap 'navbar' functionality with the menu option pages listed to the centre.
       * The menu item list is coloured 'burgundy' to make it visible yet not intrusive when viewing the site details.
       * The 'drop down' site page options are coloured 'burgundy' with the current page shown with an 'white' background.
 
@@ -228,6 +228,8 @@
 
 * [Bootstrap 1.0.0](https://Bootstrapcss.com/)
 * Bootstrap was used to assist with the responsiveness and styling of the website.
+* [Django](https://www.djangoproject.com/)
+* Django framework was used to construct the website using standard templates and Django pyhton scripts, including the allauth profiles and security mechanisms for user login and registration.
 * [Amazon S3](https://www.Amazon S3.com/cloud/atlas)
 * Amazon S3 was used to store user data, user plant and collection lists for 'CRUD' purposes.
 * [Stripe](https://www.stripe.com)
@@ -581,5 +583,6 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
   - V19.0 Add css on footer
   - V19.2 Amend css on footer
   - V19.3 Add readme content
+  - V19.4 Further readme updates
 
   ***
