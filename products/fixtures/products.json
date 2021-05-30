@@ -1459,7 +1459,7 @@
    "pk": 1083,
    "model": "products.product",
    "fields": {
-      "sku": "/M13120",
+      "sku": "M13120",
       "product": "Discovery Reds Case Gift",
       "image": "M13120.png",
       "appellation": 177,
@@ -1475,7 +1475,7 @@
    "pk": 1084,
    "model": "products.product",
    "fields": {
-      "sku": "/M13123",
+      "sku": "M13123",
       "product": "Classic Reds Dozen Gift",
       "image": "M13123.png",
       "appellation": 177,
@@ -1491,7 +1491,7 @@
    "pk": 1095,
    "model": "products.product",
    "fields": {
-      "sku": "/M14098",
+      "sku": "M14098",
       "product": "Essentials Reds",
       "image": "M14098.png",
       "appellation": 177,
@@ -1571,7 +1571,7 @@
    "pk": 1093,
    "model": "products.product",
    "fields": {
-      "sku": "/M14093",
+      "sku": "M14093",
       "product": "Black Reds of Portugal",
       "image": "M14093.png",
       "appellation": 177,
