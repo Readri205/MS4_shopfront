@@ -320,7 +320,7 @@ input[name='q']::placeholder {
 
 /* footer css */
 .footer {
-    position:absolute;
+    position:fixed;
     bottom:0;
     width:100%;
     height:auto;   /* Height of the footer */
@@ -328,7 +328,7 @@ input[name='q']::placeholder {
  }
 
 .footer-margin {
-    margin-top:15px;
+    margin-top:20px;
     margin-bottom: 0px;
 }
 

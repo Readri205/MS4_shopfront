@@ -56,7 +56,7 @@
 
         * see their user details and amend if necessary.
 
-          ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_mydetails.png?raw= "My Details")
+          ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_profile.png?raw= "My Profile")
 
         * add items to their shopping cart;
           * amend the items in the shopping cart by increasing or decreasing quantity;
@@ -106,21 +106,17 @@
   *   #### Mobile Menu
         * On mobile devices the menu is shown as a 'hamburger' drop down;
 
-        ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_mobile.png?raw= "Mobile")
-
-        * On mobile devices the menu is shown as a 'hamburger' drop down;
-
-        ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_mobilemenu.png?raw= "Mobile Menu")
+        ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_mobilemenu.png?raw= "Mobile")
 
         * On mobile devices the menu and search function operates in the same manner as for larger screens;
 
-        ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_mobilesearch.png?raw= "Mobile Search")
+        ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_mobiledrop.png?raw= "Mobile Dropdown")
 
 *   ### Design
   *   #### Colour Scheme
       * the main background uses an image of vines in the Duoro Valley in Portugal. the landing page shows this image distinctly, whilst all other pages use the same image as a 'hazy' backdrop.
 
-            ![alt text](https://images.unsplash.com/photo-1596063093406-321358f23bb1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80)
+        ![alt text](https://images.unsplash.com/photo-1596063093406-321358f23bb1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80)
 
       * The main colour themes are 'Burgundy' (#722F37) and 'Green' (#4f742f), primarily in reference to 'red' and 'white' wines. 'Burgundy' is used to highlight 'buttons' with 'Green' as a 'hover' effect over 'buttons'.
       * The main colours,  were potentially a concern for the 'colour blind' fraternity. Some basic tests with colour-blind persons did not present any issues, however the spectrum of colour blindness is vast so there may be some issues with some persons. The colour structure is relatively easy to change if there is negative feedback.
@@ -130,7 +126,7 @@
       * The 'Bootstrap' card structure is used to return search results. This structures the returns into identifiable components with an image and corresponding details for a return. This keeps each return distinct and independent of each other.
   *   #### Imagery
       * Note that the background reference is [© Unsplash.com](https://unsplash.com/) for the image. As this is the case there is a risk that an image could be removed from the source and so the site image would fail. Copies of images are retained in the project image folder for backup.
-      * The background image is of 'Dark plants ...', designed to provide a reference to vineyards.
+      * The background image is of 'The grapes on the vineyards in Douro Valley, Portugal'.
 
             ![alt text](https://images.unsplash.com/photo-1596063093406-321358f23bb1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80)
 
@@ -584,5 +580,6 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
   - V19.4 Further readme updates
   - V19.5 Adds to readme
   - V19.6 Fix footer to page foot
+  - V19.7 Add footer css and readme amends
 
   ***
