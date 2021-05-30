@@ -318,6 +318,32 @@ input[name='q']::placeholder {
     border-radius: 0;
 }
 
+/* footer css */
+.footer-margin {
+    margin-bottom: 0px;
+}
+
+.footer-text i {
+	padding-left: 5px;
+}
+.social-networks {
+	text-align: center;
+}
+.social-networks li {
+	display: inline;
+}
+.social-networks i {
+	font-size: 110%;
+	padding: 0 10px;
+	color: #fff;
+}
+.footer-text i:hover {
+	color: #316833;
+}
+.social-networks i:hover {
+	color: #316833;
+}
+
 /* fixed top navbar only on medium and up */
 @media (min-width: 992px) {
     .fixed-top-desktop-only {
