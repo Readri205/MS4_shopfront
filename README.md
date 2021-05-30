@@ -62,6 +62,20 @@
 
             ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_mydetails.png?raw= "My Details")
 
+        * checkout and make payment;
+          * go to user details and delivery information;
+          * review the shopping cart summary;
+          * input credit card payment and submit order.
+
+            ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_mydetails.png?raw= "My Details")
+
+        * super users can manage product sets in database;
+          * add new products to the database;
+          * delete products from database; and
+          * amend existing products.
+
+            ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_productmanagement.png?raw= "Product Management")
+
 
   *   #### Returning Visitor Goals
       * The returning visitor will want to;
@@ -70,12 +84,22 @@
         * update their contact and delivery details
       * **A returning visitor** may want to go straight to the menu dropdown or search function.
 
+      * **A returning visitor** may be a super user and can manage product sets in database;
+        * add new products to the database;
+        * delete products from database; and
+        * amend existing products.
+
   *   #### Frequent User Goals
       * The frequent user will want to;
         * login to the site;
         * view their previous orders;
         * update their contact and delivery details
-      * **A frequent visitor** may want to go straight to the menu dropdown or search;
+      * **A frequent visitor** may want to go straight to the menu dropdown or search.
+
+      * **A frequent visitor** may be a super user and can manage product sets in database;
+        * add new products to the database;
+        * delete products from database; and
+        * amend existing products.
 
   *   #### Mobile Menu
         * On mobile devices the menu is shown as a 'hamburger' drop down;
@@ -103,7 +127,7 @@
   *   #### 'Bootstrap' Card Structure
       * The 'Bootstrap' card structure is used to return search results. This structures the returns into identifiable components with an image and corresponding details for a return. This keeps each return distinct and independent of each other.
   *   #### Imagery
-      * Note that the background reference  [© Unsplash.com](https://unsplash.com/) for the image. As this is the case there is a risk that an image could be removed from the source and so the site image would fail. Copies of images are retained in the project image folder for backup.
+      * Note that the background reference is [© Unsplash.com](https://unsplash.com/) for the image. As this is the case there is a risk that an image could be removed from the source and so the site image would fail. Copies of images are retained in the project image folder for backup.
       * The background image is of 'Dark plants ...', designed to provide a reference to vineyards.
 
             ![alt text](https://images.unsplash.com/photo-1596063093406-321358f23bb1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80)
@@ -125,6 +149,7 @@
       * The search list is considered to return name and image upload searches as detail page returns.
       * The pages include those for user details entry and checkout from the shopping cart.
       * All images in the wireframe are by example only.
+      * Wireframe includes examples for desktop and mobile devices.
       *   The **Original Wireframe Design** can be viewed here - [View](https://github.com/Readri205/MS4_shopfront/blob/master/readme/wireframe/wineshop.pdf).
 
 ## Features
@@ -137,37 +162,50 @@
       * The navbar is coloured 'dark teal' to make it distinctive from the site pages.
       * The 'hamburger' is coloured 'dark yellow' to make it visible yet not intrusive when viewing the site details.
       * See comments above with regard to potential colour blindness impacts of the yellow and green colour mix.
-      * The 'drop down' site page options are coloured 'dark yellow' with the current page shown with an 'off-white' background. Note that on a mobile, the drop down lists can prove 'sticky' on selection with touch screen and sometimes go through to the wrong selection.
-      * The header image and the carousel images are suitably sized for smaller screens.
+      * The 'drop down' site page options are coloured 'burgundy' with the current page shown with an 'white' background.
+      * The header image suitably sized for smaller screens.
     * Desktop / Laptop large screen size
       * The 'Box Content' is effective on wide screens. The Bootstrap Grid System allows for the 'Box Content' to align horizontally in themes that are consistent on each of the 'Home' and 'Search' pages.
-      * The header menu system uses the Bootstrap 'navbar' functionality with the menu option pages listed to the right.
+      * The header menu system uses the Bootstrap 'navbar' functionality with the menu option pages listed to the center.
       * The menu item list is coloured 'burgundy' to make it visible yet not intrusive when viewing the site details.
-      * The 'drop down' site page options are coloured 'burgundy' with the current page shown with an 'off-white' background.
+      * The 'drop down' site page options are coloured 'burgundy' with the current page shown with an 'white' background.
 
 *   ### Interactive Elements
     * The first key feature of the site is the ability for the user to;
-       * enter their own list of plants;
-       * place their listed plants into collections;
-       * define their collections.
-    * The second key features of the site is the ability for a user to search for plants;
-       * by entering a 'name';
-       * by using a filter for required 'colours'; or
-       * upload an image from file.
-    * Each method returns results that the user can;
-       * review and choose to see more details on any particular return;
-       * add the plant to their list and to a collection.
-       * if the search is based on a Trefle.io search the Trefle.io plant id is also added to the list for cross reference to the database.
-    * The user is able to contact us via the 'Contact Us' page.
-       * This page has an interactive contact form that the user can complete and submit their details through to us.
-       * There is an open text box so that the user can submit comments.
-       * When the user submits their details by clicking the 'Send Contact Details' button, a modal pops up to confirm that details have been sent.
+       * enter search by name and description for wines;
+       * review their search response details;
+       * select menu items for short listed wines by type.
+    * The user can register for the site;
+        * enter an email and username and password;
+        * confirm email and password to confirm accuracy;
+        * receive an email to confirm validity of login details;
+        * login to the site as a registered user.
+    * The user has the ability to;
+        * enter search by name and description for wines;
+        * review their search response details;
+        * select menu items for short listed wines by type.
+    * The user has the ability to select wines for purchase;
+       * review the returns by menu or search and select a wine to review details;
+       * select a wine for entering into the shopping cart; or
+       * on wine details page increase or decrease quantity for each wine into shopping cart.
+    * A user can enter the shopping cart to review their shopping cart summary;
+       * accept the cart for payment;
+       * make adjustment by cart entry to increase or decrease quantities.
+       * delete an item from the shopping cart if required.
+    * The user is able to make an order and make a payment.
+       * The user can make a payment and enter their details for delivery;
+       * The user will receives a 'toast' confirmation to confirm the order and will receive an email.
+    * The super-user is able to make adjustments to te product database;
+      * The user can make a payment and enter their details for delivery;
+      * The user will receives a 'toast' confirmation to confirm the order and will receive an email.
 
 *   ### Future Features
-    * If a user adds a plant to their list from the Trefle.io search , it would be useful to link directly back to the Trefle.io database in order to return more of the details on that plant.
-    * Increase the number of filter types in searches. Currently only 'colour' is provided but further filters could be included such as 'edible plants', 'soil types', 'plant height', and 'water conditions'.
-    * More complex filters could also be provided to include more than one filter type such as 'colour' and 'soil type'.
-    * Improve the quality of data returns for a specific plant in searches, either from updated data submissions in the Trefle.io database or supplement the plant data returns from other available databases.
+    * The search function could be improved to be be more specific across appellations, varieties, types and countries.
+    * Increase the number of wines.
+    * Add other products like foods and other items associated with wines.
+    * User functionality for users to delete their account directly.
+    * Add marketing tools for product messaging to registered and other users where they 'opt-in' for such material.
+
 
 ## Technologies Used
 
@@ -182,22 +220,8 @@
 * [Amazon S3](https://www.Amazon S3.com/cloud/atlas)
 * Amazon S3 was used to store user data, user plant and collection lists for 'CRUD' purposes.
 * The database was planned to be as simple as possible with three Amazon S3 collections;
-  1. Users - for user registration and login;
-
-    ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/Amazon S3_user.png?raw= "Users")
-  1. Collections - for users to record their plant lists in their user defined collections;
-
-    ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/Amazon S3_collection.png?raw= "Collection")
-  1. Plants - for users to record their plants as a complete list and divide these lists into their respective collections. Note that for any images in the database, they are referenced as an HTTP/HTTPS link only.
-
-    ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/Amazon S3_plant.png?raw= "Plant")
-
-* All plants in the database are directly referenced with the Users ObjectId and a Collection ObjectId.
-* All collections are directly referenced to a User ObjectId.
-
-* A key feature of the site is for users to reference the [Trefle.io](https://Trefle.io/) and [Plant.id](https://plant.id/) search capabilities and then upload the data from [Trefle.io](https://Trefle.io/) into their plant list. However, plants can be added to the user list manually, or by utilising the [Trefle.io](https://Trefle.io/) search functionality.
-* Images can be uploaded to Amazon S3 but only in an HTTP/HTTPS referenced form. The database is not designed to hold large images in standard image formats such as JPEG. As such all images are 'referenced' in this way. If a user wishes to upload an image, the user can if the user references a third party website or database.
-* Note that at present there is no functionality for a user to delete their account, but will be included as a future feature.
+  * All static files are housed in s3;
+  * All media files for production are housed in S3 (readme media images remain in Github).
 
 
 ### Frameworks, Databases, Libraries & Programs Used
@@ -206,6 +230,8 @@
 * Bootstrap was used to assist with the responsiveness and styling of the website.
 * [Amazon S3](https://www.Amazon S3.com/cloud/atlas)
 * Amazon S3 was used to store user data, user plant and collection lists for 'CRUD' purposes.
+* [Stripe](https://www.stripe.com)
+* Stripe was used to facilitate customer payments using credit card information.
 * [Hover.css:](https://ianlunn.github.io/Hover/)
 * Hover.css was used on the contact details types and for social media icons in the footer to add the float transition while being hovered over.
 * [Font Awesome:](https://fontawesome.com/)
@@ -240,33 +266,34 @@
 ## Site Construction
 
 * ### Consistent Page Components
- * All pages of the site contain the same 'header', 'navbar', 'carousel' and 'footer';
-   * **Header** consists of a title carousel images with titles.
-   * **Navbar** is a menu top bar dark yellow coloured lettering. There is a light backdrop highlighting the page that the user is on. The menu allows for easy access to any of the pages at all time. On mobile devices, the menu becomes a 'hamburger' and must be 'touched' in order to select any of the pages.
-   * **Footer** The footer is displayed on all pages and is consistent. There are three sections **'About'** - describes 'us' as an organisation, **'Data Analysis and Presentation Requirements?'** - describes what we do, and **'Contact'** - describes how to contact **'us'** to discuss what we can do for **'you'**.
-* ### Home Page
+ * All pages of the site contain the same 'header', 'navbar' and 'footer';
+   * **Navbar** is a menu top bar with 'burgundy' lettering. The menu allows for easy access to any of the pages at all time. On mobile devices, the menu becomes a 'hamburger' and must be 'touched' in order to select any of the pages.
+   * **Footer** The footer is displayed on all pages and is consistent. There are two sections **'About'** - describes 'us' as an organisation, and **'Contact'** - describes how to contact **'us'**.
+* ### Product Pages
  * Information Box
-   * Contains the details as to the intention of the site and a how it can be used. It contains basic information in each card to explain the key features of the site;
-     * User defined plant lists;
-     * User defined collections lists;
-     * Search functions by name, filter and image upload;
-     * Register function for new users;
-     * Login for registered users.
-* ### Subsequent Pages
-* All subsequent pages follow a common theme (using Materialise CSS for font and colours);
-  * Main Header Title in 'Burgundy'.
-
+   * Summary pages include details for each wine including;
+     * Image;
+     * Name;
+     * Description;
+     * Rating;
+     * Variety;
+     * Country & Flag;
+     * Price
+  * Detail wine pages include all the above plus;
+     * Description;
+     * ability to add product to cart;
+     * amend the quantity;
+     * click through to the shopping cart.
+* ### shopping Cart Page
+    * User details;
+    * Cart summary;
+    * Cart cost and card payment form.
 
 ## Testing
 Testing information can be found in a separate [testing.md](https://github.com/Readri205/MS4_shopfront/blob/master/testing.md) file.
 ### Known Bugs and Issues
-* The python file 'app.py' could be rationalised into key functional items such as 'user, Trefle search and Plant.ID search' to make them more distinct and easier to reference specific functionality in the future.
-* Likewise the templates could be rationalised into key functional folders such as 'user, Trefle search and Plant.ID search' to make them more distinct and easier to reference specific functionality in the future.
-* Trefle search and filter functionality proved 'difficult' with reference to API pagination. The Trefle database restricts returns to 20 items per page. Identifying distinct pages and presenting them proved difficult even with the 'Shamrock' library, and as such there are a number of Trefle search and filter pages to accommodate pagination from the API return. As the current structure 'works' in terms of presentation (no impact to users), it was decided to submit as is and update the functionality at a later point.
-* Note that on a mobile device the 'collections' drop down creates a 'mobile' type drop down selection that can be confusing initially, compared to a desktop drop down. It's a bit clunky but it works.
-* Note that on a mobile, the drop down lists can prove 'sticky' on selection with touch screen and sometimes go through to the wrong selection. Again, this can be 'annoying' initially. Further review can look to resolve this for user aesthetics.
+*
 * Note that at present there is no functionality for a user to delete their account, but would be provided as a future feature.
-* Note that the background, carousel and main home page cards all reference  [© Unsplash.com](https://unsplash.com/) for the images. As this is the case there is a risk that an image could be removed from the source and so the site image would fail. Copies of images are retained in the project image folder for backup.
 * GitPod IDE markup was used to format HTML files. This easy to use and makes the code very easy to read. I understand this to be a VS Code standard.
 
 ## Deployment
@@ -553,5 +580,6 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
   - V18.9 Add footer section
   - V19.0 Add css on footer
   - V19.2 Amend css on footer
+  - V19.3 Add readme content
 
   ***
