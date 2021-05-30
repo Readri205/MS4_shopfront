@@ -696,5 +696,6 @@ Any interest in content for purchase should be directed to [Laithwaites](https:/
   - V17.6 Add readme images
   - V17.7 Amends in readme
   - V17.8 Amend product model
+  - V17.9 Amend products
 
  ***
