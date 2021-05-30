@@ -7,28 +7,14 @@
 
 ## Site Goals
 
-* This website provides a functionality for users to create a list of plants in collections, either by entering plant details or by uploading from a search. The searches can be made in a number of ways, including by name, image or by filters. Users are able to update the details of plants and collections in their lists. Users are also able to delete plants and collections. A user can also move a plant from one collection to another if so desired. A user can also amend their personal details including email, username and telephone number. A user is also able to fully delete their login and all plants and collections listed on that login. Each users login and details are specific to that user and cannot be viewed by any other user.
+* This website provides a functionality for users to purchase a selction of wines from a winestore. users can select from a number of menu dropdowns for wines that suite their interest accross red, white, rose, sparkling and fortified. The user can select the wines and place them in a shopping cart, prrocide user details for delivery and make credit card payment.
 
 * **NOTE: This site is currently entirely for educational purposes only. Whilst there is an ability to register for the site, any personal details entered are not protected.**
 
-* The website is **'functional'**, allowing users to enter information about **Plants** and to view information on specific plants. The site is designed to show details on **Plants** where required.
-* The website concept is to provide a user with a useful list of plants;
-  * what is the name of the plant?
-  * what are the scientific names and details?
-  * what collection do I have the plant in?
-  * The structure for the **Plants** is provided by;
-    * a list of **plants** entered by and for, a specific user;
-    * a list of **collections** entered in which plants can be listed;
-    * entering a plant can be made using the following methods;
-      * **manual** where a user already has details for a plant, external to the application;
-      * **search** to identify a **name** characteristic for a plant;
-      * **filter** to identify **colour** characteristics for a plant; and
-      * **image** using a computer or mobile device to upload a **file image**.
-
-      * The website sources data from the **[Trefle.io](https://Trefle.io/)** and **[Plant.id](https://plant.id/)**. The website primarily makes use of Application Programming Interfaces (API's) to construct the plant search data. The **[MongoDB](https://www.mongodb.com/cloud/atlas)** is used to store user data and allows for create, read, update and delete data **(CRUD)** for plant details and their user login data. API and other data source details are provided in the **'Application Programming Interfaces (API's) Used'** section below.
-
 * If the site is perceived as successful, it is anticipated that the site could be expanded as;
-* there is a significant amount of data in the Trefle database that can be utilised for more specific searches and filtering;
+  * more wines cold be added to the list for purchase;
+  * more products could be added such as cheeses and other foods; and
+  * other products related to wines such as glasses, cheeseboards etc.
 
 * The site is designed to be responsive and accessible on a range of devices, making it easy to navigate for interested users. The website was designed using **'Mobile First'** principles as the site must be perceived to be quick and easy to use and read as a reference site on a mobile device.
 
@@ -46,108 +32,50 @@
 
         ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_mainmenu.png?raw= "Main Menu")
 
-        * view the carousel images just beneath the header;
-
-        ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_carousel.png?raw= "Carousel")
-
-        * scroll down through the information, read the content, view each of the function cards;
-
-        ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_maininfo.png?raw= "Cards")
-
         * register for the site and create login credentials;
 
         ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_register.png?raw= "Register")
 
-        * enter plant details for plants they are interested in;
+        * use the menu dropdown to see a selection;
 
-          * login to the site;
+        ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_searchname.png?raw= "Search Name")
 
-          ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_login.png?raw= "Login")
-
-          * immediately view their plants list;
-
-          ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_myplants.png?raw= "My Plants")
-
-          * immediately view a plant from list;
-
-          ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_viewplant.png?raw= "My Plants")
-
-          * view their collections list;
-
-          ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_mycollections.png?raw= "My Collections")
-
-          * search for plants in one of the search methods;
-            * name;
+        * search for wines by name or description using the search bar;
 
             ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_searchname.png?raw= "Search Name")
 
-            * View plants returned from a search;
+            * View wines returned from a search;
 
             ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_return.png?raw= "Search Name")
 
-            * View individual plant details from a search return;
+            * View wine details from a search return;
 
             ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_plantdeets.png?raw= "Search Name")
-
-            * filter by attribute;
-
-            ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_filter.png?raw= "search Filter")
-
-            * image upload.
-
-            ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_image.png?raw= "Image")
-
-            ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_imagesuggestions.png?raw= "Image Suggestions")
-
-          * add a plant to users plant list and a collection.
-
-          ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_addplant.png?raw= "Add Plant")
 
         * see their user details and amend if necessary.
 
           ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_mydetails.png?raw= "My Details")
 
-        * contact us to ask about data projects that they may be interested to have completed as an item of work.
+        * add items to their shopping cart;
+          * amend the items in the shopping cart by increasing or decreasing quantity;
+          * adding or deleting items completely;
 
-          ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_contact.png?raw= "Contact")
+            ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_mydetails.png?raw= "My Details")
+
 
   *   #### Returning Visitor Goals
       * The returning visitor will want to;
         * login to the site;
-        * immediately view their plants list;
-        * view their collections list.
-      * **A returning visitor** may want to go straight to the 'Plant' search function;
-
-          * search for plants in one of the search methods;
-            * name;
-            * filter by attribute;
-            * image upload.
-          * on finding a plant the user in they may want to find out more details on that plant by choosing the 'plant details' button;
-            * there a number of specific details including in the return;
-
-          * the user may want to add the plant to their plant list and a collection.
-      * **A returning visitor** may want to go straight to the 'Contact Us' page;
-        * contact us for more information or to provide comments about the site;
-        * contact us to ask about projects that they may be interested to have completed as an item of work.
+        * view their previous orders;
+        * update their contact and delivery details
+      * **A returning visitor** may want to go straight to the menu dropdown or search function.
 
   *   #### Frequent User Goals
       * The frequent user will want to;
         * login to the site;
-        * immediately view their plants list;
-        * view their collections list.
-      * **A returning visitor** may want to go straight to the 'Plant' search function;
-
-          * search for plants in one of the search methods;
-            * name;
-            * filter by attribute;
-            * image upload.
-          * on finding a plant the user in they may want to find out more details on that plant by choosing the 'plant details' button;
-            * there a number of specific details including in the return;
-
-          * the user may want to add the plant to their plant list and a collection.
-      * **A frequent visitor** may want to go straight to the 'Contact Us' page;
-        * contact us for more information or to provide comments about the site;
-        * contact us to ask about projects that they may be interested to have completed as an item of work.
+        * view their previous orders;
+        * update their contact and delivery details
+      * **A frequent visitor** may want to go straight to the menu dropdown or search;
 
   *   #### Mobile Menu
         * On mobile devices the menu is shown as a 'hamburger' drop down;
@@ -158,28 +86,22 @@
 
         ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_mobilemenu.png?raw= "Mobile Menu")
 
-        * On mobile devices the search function operates in the same manner as for larger screens;
+        * On mobile devices the menu and search function operates in the same manner as for larger screens;
 
         ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_mobilesearch.png?raw= "Mobile Search")
 
-        * On mobile devices an image can be captured and uploaded directly;
-
-        ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_capture.png?raw= "Mobile Capture")
-
 *   ### Design
   *   #### Colour Scheme
-      * The main colour is 'Teal' (#008080), designed to provide a light neutral background to highlight a 'Yellow" (#FFFF00) text. The colours have been manipulated to lighten or darken them using 'Materialize' CSS properties. The various shades of 'Teal' are used to reference the the plant kingdom.
-      * The main colours, 'Yellow" (#FFFF00)on a 'Teal' (#008080) background, were potentially a concern for the 'colour blind' fraternity. Some basic tests with colour blind persons did not present any issues, however the spectrum of colour blindness is vast so there may be some issues with some persons. The colour structure is relatively easy to change if there is negative feedback.
+      * the main background uses an image of vines in the Duoro Valley in Portugal. the landing page shows this image distinctly, whilst all other pages use the same image as a 'hazy' backdrop.
+      * The main colour themes are 'Burgundy' (#722F37) and 'Green' (#4f742f), primarily in reference to 'red' and 'white' wines. 'Burgundy' is used to highlight 'buttons' with 'Green' as a 'hover' effect over buttons.
+      * The main colours,  were potentially a concern for the 'colour blind' fraternity. Some basic tests with colour-blind persons did not present any issues, however the spectrum of colour blindness is vast so there may be some issues with some persons. The colour structure is relatively easy to change if there is negative feedback.
   *   #### Typography
-      * The site uses the 'Materialize' 'Roboto' default font throughout the whole website. 'Roboto' is a clean font which is both attractive and appropriate.
-  *   #### 'Materialize' Card Structure
-      * The 'Materialize' card structure is used to return search results. This structures the returns into identifiable components with an image and corresponding details for a return. This keeps each return distinct and independent of each other.
-      * The user plant and the collections lists are not constructed in 'Materialize' cards but are shown as accordion lists that the user can access to view more details on each item.
+      * The site uses the 'Bootstrap' 'Roboto' default font throughout the whole website. 'Roboto' is a clean font which is both attractive and appropriate.
+  *   #### 'Bootstrap' Card Structure
+      * The 'Bootstrap' card structure is used to return search results. This structures the returns into identifiable components with an image and corresponding details for a return. This keeps each return distinct and independent of each other.
   *   #### Imagery
-      * A 'Dark' theme has been intentionally chosen to make it distinct from other numerous 'plant' applications. The dark background provides a clear backdrop to highlight the colours and shapes of plants, and also to highlight clearly the information that is provided in the teal 'card' structure.
-      * The header contains a carousel designed to be striking and catch the user's attention and to provide some unique image themes. To provide some context on larger screens each image has a clear title description sourced from the original image provided by the contributor. Note that on some screen sizes the titles can be difficult to read where they blend into the image. As the titles are not fundamental to the website information it has been considered 'acceptable'.
       * Note that the background reference  [© Unsplash.com](https://unsplash.com/) for the image. As this is the case there is a risk that an image could be removed from the source and so the site image would fail. Copies of images are retained in the project image folder for backup.
-      * The background image is of 'Dark plants ...', designed to provide a dark neutral background yet reference the plant kingdom. The header images are intended to blend into the background image with the 'deep black' backgrounds.
+      * The background image is of 'Dark plants ...', designed to provide a reference to vineyards.
 
           ![alt text](https://images.unsplash.com/photo-1596063093406-321358f23bb1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80)
 
@@ -190,33 +112,24 @@
   *   #### Original Wireframe Design (October 15, 2020).
       * The **'Home'** page includes a basic overall introduction to the purpose of the site. Cards are used to describe the main features of the site. The features are User Plant List, User Collections, Search by a Name, Filter, Image Upload and a  Year Calendar.
       * Once the User has a login these features are accessible from the menu.
-      * The menu includes direct links to;
-        1. User plant list;
-        1. User Collection list;
-        1. Search list;
-        1. User details.
-      * MongoDB to be used as the database core for the user, plant and collection details.
+      * The menu includes direct links to wine types;
+        1. Reds;
+        1. Whites;
+        1. Rose;
+        1. Sparkling; and
+        1. Fortified
+      * Amazon S3 to be used as the database for static and media files.
       * The search list is considered to return name and image upload searches as detail page returns.
-      * Sources for search data were considered as follows;
-        * Trefle.io plant search - [Trefle.io](https://Trefle.io/)
-        * Plant.id for image recognition - [Plant.id](https://plant.id/)
-      * The contact page uses the following source;
-        * Automated Email Response - [Emailjs](https://www.emailjs.com/)
+      * The pages include those for user details entry and checkout from the shopping cart.
       * All images in the wireframe are by example only.
-      *   The **Original Wireframe Design** can be viewed here - [View](https://github.com/Readri205/MS4_shopfront/blob/master/static/wireframes/rhcgardenmanager.pdf)
-  *  #### Actual Site Design.
-      * The developed site uses many of the concepts from the original Wireframe design. Variations are as follows;
-        1. The **Home** page has a number of cards explaining the key features of the site, but there is no **'Calendar View'** feature;
-        1. The **Calendar Feature** has proven difficult to implement as information to support this appears lacking in the plant world. Most plant and gardening information providers appear to have their own databases to support this kind of feature as a Unique Selling Product (USP). The Trefle.io database has some details such as 'bloom months' and 'sowing months'. However, this data is not complete. The feature could be added as a future feature on the site.
-        1. The **'Contact Form'** has its own page. It is accessible from every page either through the main menu or from the footer;
-      * The listed API sources, [Trefle.io](https://Trefle.io/), [Plant.id](https://plant.id/) were utilised. [Emailjs](https://www.emailjs.com/) was utilised for email response.
+      *   The **Original Wireframe Design** can be viewed here - [View](https://github.com/Readri205/MS4_shopfront/blob/master/readme/wireframe/wineshop.pdf).
 
 ## Features
 
 *   ### Responsive for Device Size
     * Mobile / Smaller screen size
-      * The site is designed primarily for use on a mobile. The 'Box Content' structure using Materialize Grid System has been utilised so that the information boxes (search results) will stack vertically on small screens for readability.
-      * The menu system uses the Materialize 'navbar' functionality for small screens using the 'toggle' capability for the 'drop down' menu list from a 'hamburger' icon.
+      * The site is designed primarily for use on a mobile. The 'Box Content' structure using Bootstrap Grid System has been utilised so that the information boxes (search results) will stack vertically on small screens for readability.
+      * The menu system uses the Bootstrap 'navbar' functionality for small screens using the 'toggle' capability for the 'drop down' menu list from a 'hamburger' icon.
       * The navbar is 'fixed' to the top of the screen at all times on page scroll down for easy access.
       * The navbar is coloured 'dark teal' to make it distinctive from the site pages.
       * The 'hamburger' is coloured 'dark yellow' to make it visible yet not intrusive when viewing the site details.
@@ -224,12 +137,10 @@
       * The 'drop down' site page options are coloured 'dark yellow' with the current page shown with an 'off-white' background. Note that on a mobile, the drop down lists can prove 'sticky' on selection with touch screen and sometimes go through to the wrong selection.
       * The header image and the carousel images are suitably sized for smaller screens.
     * Desktop / Laptop large screen size
-      * The 'Box Content' is effective on wide screens. The Materialize Grid System allows for the 'Box Content' to align horizontally in themes that are consistent on each of the 'Home' and 'Search' pages.
-      * The header menu system uses the Materialize 'navbar' functionality with the menu option pages listed to the right.
-      * The navbar is coloured 'dark teal' to make it distinctive from the site pages.
-      * The menu item list is coloured 'dark yellow' to make it visible yet not intrusive when viewing the site details.
-      * The 'drop down' site page options are coloured 'dark yellow' with the current page shown with an 'off-white' background.
-      * The header image and carousel images are designed to be larger and 'impactful' on the larger screen size.
+      * The 'Box Content' is effective on wide screens. The Bootstrap Grid System allows for the 'Box Content' to align horizontally in themes that are consistent on each of the 'Home' and 'Search' pages.
+      * The header menu system uses the Bootstrap 'navbar' functionality with the menu option pages listed to the right.
+      * The menu item list is coloured 'burgundy' to make it visible yet not intrusive when viewing the site details.
+      * The 'drop down' site page options are coloured 'burgundy' with the current page shown with an 'off-white' background.
 
 *   ### Interactive Elements
     * The first key feature of the site is the ability for the user to;
@@ -254,16 +165,6 @@
     * Increase the number of filter types in searches. Currently only 'colour' is provided but further filters could be included such as 'edible plants', 'soil types', 'plant height', and 'water conditions'.
     * More complex filters could also be provided to include more than one filter type such as 'colour' and 'soil type'.
     * Improve the quality of data returns for a specific plant in searches, either from updated data submissions in the Trefle.io database or supplement the plant data returns from other available databases.
-    * Directly link any search to sources for plant purchase from;
-        * local suppliers to the user based on geolocation identifiers; and/or
-        * create the ability to online purchase from an identified supplier.
-    * Provide an option for the user to image capture a plant and store that image in image form. Links to third party databases are possible for this feature such as AWS, Google and Cloudinary.
-    * Provide an option for the user to image capture a plant in their garden which takes them directly to pertinent care details for that particular plant.
-    * More sophisticated features include image identifying plants say at a garden centre and being able to compare the plant growing requirements to a users own garden conditions such as light, soil type, water, ph etc.
-    * The **Calendar Feature** has proven difficult to implement as information to support this appears lacking in the plant world. Most plant and gardening information providers appear to have their own databases to support this kind of feature as a Unique Selling Product (USP). The Trefle.io database has some details such as 'bloom months' and 'sowing months'. However, this data is not complete. The feature could be added as a future feature on the site.
-    * Amend the cards to ensure appropriate rendering on screen sizes at 280px size.
-    * Social media icons link to respective social media website home pages. Social media links will in future feature link directly to RMC Ltd social media connections.
-    * Note that at present there is no functionality for a user to delete their account. This can be provided as a future feature.
 
 ## Technologies Used
 
@@ -275,41 +176,39 @@
 *   [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
 
 ### Database Used
-* [MongoDB](https://www.mongodb.com/cloud/atlas)
-* MongoDb was used to store user data, user plant and collection lists for 'CRUD' purposes.
-* The database was planned to be as simple as possible with three MongoDB collections;
+* [Amazon S3](https://www.Amazon S3.com/cloud/atlas)
+* Amazon S3 was used to store user data, user plant and collection lists for 'CRUD' purposes.
+* The database was planned to be as simple as possible with three Amazon S3 collections;
   1. Users - for user registration and login;
 
-    ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/mongodb_user.png?raw= "Users")
+    ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/Amazon S3_user.png?raw= "Users")
   1. Collections - for users to record their plant lists in their user defined collections;
 
-    ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/mongodb_collection.png?raw= "Collection")
+    ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/Amazon S3_collection.png?raw= "Collection")
   1. Plants - for users to record their plants as a complete list and divide these lists into their respective collections. Note that for any images in the database, they are referenced as an HTTP/HTTPS link only.
 
-    ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/mongodb_plant.png?raw= "Plant")
+    ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/Amazon S3_plant.png?raw= "Plant")
 
 * All plants in the database are directly referenced with the Users ObjectId and a Collection ObjectId.
 * All collections are directly referenced to a User ObjectId.
 
 * A key feature of the site is for users to reference the [Trefle.io](https://Trefle.io/) and [Plant.id](https://plant.id/) search capabilities and then upload the data from [Trefle.io](https://Trefle.io/) into their plant list. However, plants can be added to the user list manually, or by utilising the [Trefle.io](https://Trefle.io/) search functionality.
-* Images can be uploaded to MongoDB but only in an HTTP/HTTPS referenced form. The database is not designed to hold large images in standard image formats such as JPEG. As such all images are 'referenced' in this way. If a user wishes to upload an image, the user can if the user references a third party website or database.
+* Images can be uploaded to Amazon S3 but only in an HTTP/HTTPS referenced form. The database is not designed to hold large images in standard image formats such as JPEG. As such all images are 'referenced' in this way. If a user wishes to upload an image, the user can if the user references a third party website or database.
 * Note that at present there is no functionality for a user to delete their account, but will be included as a future feature.
 
 
 ### Frameworks, Databases, Libraries & Programs Used
 
-* [Materialize 1.0.0](https://materializecss.com/)
+* [Bootstrap 1.0.0](https://Bootstrapcss.com/)
 * Bootstrap was used to assist with the responsiveness and styling of the website.
-* [Flask](https://flask.palletsprojects.com/en/1.1.x/)
-* Flask was used to generate the front end web page design, using python as the primary back end programming language.
-* [MongoDB](https://www.mongodb.com/cloud/atlas)
-* MongoDb was used to store user data, user plant and collection lists for 'CRUD' purposes.
+* [Amazon S3](https://www.Amazon S3.com/cloud/atlas)
+* Amazon S3 was used to store user data, user plant and collection lists for 'CRUD' purposes.
 * [Hover.css:](https://ianlunn.github.io/Hover/)
 * Hover.css was used on the contact details types and for social media icons in the footer to add the float transition while being hovered over.
 * [Font Awesome:](https://fontawesome.com/)
 * Font Awesome was used for the website to add icons for aesthetic and UX purposes.
 * [jQuery:](https://jquery.com/)
-* jQuery came with Materialize to make the navbar responsive but was also used to support JavaScript and is loaded from the [CDJNS](https://cdnjs.com/libraries/materialize).
+* jQuery came with Bootstrap to make the navbar responsive but was also used to support JavaScript and is loaded from the [CDJNS](https://cdnjs.com/libraries/Bootstrap).
 * [GitPod:](https://www.gitpod.io/)
 * Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 * [GitHub:](https://github.com/)
@@ -318,8 +217,6 @@
   * Heroku is used to host the live site.
 * [Atom:](https://atom.io/)
 * Atom was used as a Markdown Text Editor for README.md and Testing.md
-* [Emailjs:](https://www.emailjs.com/)
-* Emailjs is used to send the email from the contact form on the 'Contact Us' page.
 * [Favicon.io:](https://favicon.io/)
 * Favicon.io was used for Favicon :wine_glass: web page title images.
 * [Photoshop:](https://www.adobe.com/ie/products/photoshop.html)
@@ -337,25 +234,12 @@
 
   ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/amiresponsive.png?raw= "Am I Responsive")
 
-### Application Programming Interfaces (API's) Used
-
-* The website sources data from the **[Trefle.io](https://Trefle.io/)** and the **[Plant.id](https://plant.id/)** databases. The API's provide search capabilities for users to identify plants in a number of ways.
-
-* [Trefle.io](https://Trefle.io/)
- * The [Trefle.io](https://Trefle.io/) database was used as the primary search database for a user;
-   * entering a 'name'; or
-   * by using a filter by 'colour'.
-
-* [Plant.id](https://plant.id/)
- * The [Plant.id](https://plant.id/) database was used as the source for plant searches based on a user image. Images can be captured directly from a mobile device or by file upload.
-
 ## Site Construction
 
 * ### Consistent Page Components
  * All pages of the site contain the same 'header', 'navbar', 'carousel' and 'footer';
    * **Header** consists of a title carousel images with titles.
    * **Navbar** is a menu top bar dark yellow coloured lettering. There is a light backdrop highlighting the page that the user is on. The menu allows for easy access to any of the pages at all time. On mobile devices, the menu becomes a 'hamburger' and must be 'touched' in order to select any of the pages.
-   * **Carousel** The main 'title' header image is carousel images. These images are large and designed to create visual impact, especially as they scroll through from one to the other. The images are the same for all pages. The images have been selected to represent the 'Plant Kingdom'.
    * **Footer** The footer is displayed on all pages and is consistent. There are three sections **'About'** - describes 'us' as an organisation, **'Data Analysis and Presentation Requirements?'** - describes what we do, and **'Contact'** - describes how to contact **'us'** to discuss what we can do for **'you'**.
 * ### Home Page
  * Information Box
@@ -367,35 +251,7 @@
      * Login for registered users.
 * ### Subsequent Pages
 * All subsequent pages follow a common theme (using Materialise CSS for font and colours);
-  * Main Header Title in 'Yellow';
-  * Card in 'Teal' background with information text in 'Dark Teal'.
-
-* ### Contacts Page
- * The Contacts Page contains the 'Contact Form' for a user to supply contact information and to provide comments, questions or to provide a request for some work.
- * The 'Contact Form' will generate an email by referencing the **sendemail.js** file when a user submits their information.
-
-* ### Construction Table
- * The following table provides a summary of how the Site Pages and Sections are compiled;
-     Site Page | Page Section | Python File / Code Lines | JS File / Code Lines | API Reference |
-     ----------|--------------|-----------------|-----------|---------|
-     All | Carousel | N/A  | script.js / 7, 19 - 23 |N/A |
-     All | Navbar | N/A  | script.js / 2 - 6 |N/A |
-     Home | Card Boxes | app.py / 39 - 43 | N/A |N/A |
-     Register | Card Box | app.py / 212 - 236 | N/A |N/A |
-     Login | Card Box | app.py / 239 - 266 | N/A |N/A |
-     Logout | Card Box | app.py / 281 - 286 | N/A |N/A |
-     Plant List | Card Box | app.py / 50 - 53 | N/A  |N/A |
-     Add / Update Plant | Add | app.py / 56 - 133 | script.js / 11 - 18 |N/A |
-     Collection List | Card Box | app.py / 136 - 151 | N/A |N/A |
-     Add / Update Collection | Add | app.py / 154 - 209 | script.js / 11 - 18 |N/A |
-     Trefle Search | Search by 'name' | app.py / 320 - 473 | N/A |[Trefle.io](https://Trefle.io/) (Website) |
-     Trefle Filter | Filter by 'colour' | app.py / 535 - 678 | script.js / 53 - 63  |[Trefle.io](https://Trefle.io/) (Website) |
-     Trefle Plant Details | Search / Filter Return | app.py / 501 - 532 | N/A |[Trefle.io](https://Trefle.io/) (Website) |
-     Add Trefle Plant Details | Add | app.py / 476 - 498 | N/A |[Trefle.io](https://Trefle.io/) (Website) |
-     Plant.id Search | Plant.id 'image upload' | app.py / 681 - 756 | image_upload.js |[Plant.id](https://plant.id/) (Website) |
-     My Details | Card Box | app.py / 289 - 317 | N/A |N/A |
-     Contact | Contact Form |N/A| sendemailjs.js | [Emailjs](https://www.emailjs.com/) (Website)|
-     Error | Error Messages | app.py / 759 - 775 | N/A | N/A |
+  * Main Header Title in 'Burgundy'.
 
 
 ## Testing
@@ -409,19 +265,6 @@ Testing information can be found in a separate [testing.md](https://github.com/R
 * Note that at present there is no functionality for a user to delete their account, but would be provided as a future feature.
 * Note that the background, carousel and main home page cards all reference  [© Unsplash.com](https://unsplash.com/) for the images. As this is the case there is a risk that an image could be removed from the source and so the site image would fail. Copies of images are retained in the project image folder for backup.
 * GitPod IDE markup was used to format HTML files. This easy to use and makes the code very easy to read. I understand this to be a VS Code standard.
-* In the Heroku deployment, and on a mobile device, in the Trefle Search function, if a user enters a name with an apostrophe in it, the search with fail and report an Error (this issue is unique to Heroku deployment on a mobile device. The search will work on a desktop device or in Heroku Chrome Dev tools for mobile device screen sizes). The issue was discussed with CI Tutor Support with the suggestion to record the issue in the README.md file;
-
-* example of type of search;
-
-  ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/problem_search.png?raw= "Mobile Problem Search")
-
-* example of the error return;
-
-  ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/value_error.png?raw= "Mobile Device Error")
-
-* if the user enters a search on mobile with an apostrophe in the name, the following error message is returned (HTTP 500 server error);
-
-  ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/oops_error_message.png?raw= "Error Message")
 
 ## Deployment
 
@@ -466,7 +309,7 @@ The project was deployed to GitHub Pages using the following process;
 
   ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/heroku_deployment.png?raw= "Heroku Deployment")
 
-- [Click to view site **WINE SHOP** :wine_glass:](https://plant-manager-flask-mongodb.herokuapp.com/ "Heroku Deployed Site")
+- [Click to view site **WINE SHOP** :wine_glass:](https://plant-manager-flask-Amazon S3.herokuapp.com/ "Heroku Deployed Site")
 
 ### Forking the GitHub Repository
 
@@ -505,15 +348,13 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
 
 * Content for fixtures was derived from [Laithwaites](https://www.laithwaites.co.uk/) for inspiration.
 
-Use of any information in this site is exclusively for the purposes of viewing information only and is entirely for educational purposes.
+  * Use of any information in this site is exclusively for the purposes of viewing information only and is entirely for educational purposes.
 
-Any interest in content for purchase should be directed to [Laithwaites](https://www.laithwaites.co.uk/).
+  * Any interest in content for purchase should be directed to [Laithwaites](https://www.laithwaites.co.uk/).
 
 ### Media
 
-* All images [© Unsplash.com](https://unsplash.com/) unless otherwise stated;
 *   Background image - ['The grapes on the vineyards in Douro Valley, Portugal. The UNESCO World Heritage region where the Porto Wine is produced.'](https://unsplash.com/@qwitka) By Maksym Kaharlytskyi [© Unsplash.com](https://unsplash.com/);
-
 
 ### Acknowledgements
 
@@ -706,5 +547,558 @@ Any interest in content for purchase should be directed to [Laithwaites](https:/
   - V18.6 Load products to fix image reference
   - V18.7 Amend mixed products in gitpod
   - V18.8 Redeploy to heroku
+  - ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/amiresponsive.png?raw= "WINE SHOP")
+  
+  [View the live **WINE SHOP**  :wine_glass:  project here.](https://read205-wineshop.herokuapp.com/)
+  
+  # **WINE SHOP :wine_glass:**
+  
+  
+  ## Site Goals
+  
+  * This website provides a functionality for users to purchase a selction of wines from a winestore. users can select from a number of menu dropdowns for wines that suite their interest accross red, white, rose, sparkling and fortified. The user can select the wines and place them in a shopping cart, prrocide user details for delivery and make credit card payment.
+  
+  * **NOTE: This site is currently entirely for educational purposes only. Whilst there is an ability to register for the site, any personal details entered are not protected.**
+  
+  * If the site is perceived as successful, it is anticipated that the site could be expanded as;
+    * more wines cold be added to the list for purchase;
+    * more products could be added such as cheeses and other foods; and
+    * other products related to wines such as glasses, cheeseboards etc.
+  
+  * The site is designed to be responsive and accessible on a range of devices, making it easy to navigate for interested users. The website was designed using **'Mobile First'** principles as the site must be perceived to be quick and easy to use and read as a reference site on a mobile device.
+  
+  ## User Experience (UX)
+  
+  *   ### User stories
+  
+    *   #### First Time Visitor Goals
+        * The first time visitor will want to;
+          * easily understand the main purpose of the site;
+  
+          ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_maininfo.png?raw= "Home")
+  
+          * be able to easily navigate throughout the site to find content;
+  
+          ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_mainmenu.png?raw= "Main Menu")
+  
+          * register for the site and create login credentials;
+  
+          ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_register.png?raw= "Register")
+  
+          * use the menu dropdown to see a selection;
+  
+          ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_searchname.png?raw= "Search Name")
+  
+          * search for wines by name or description using the search bar;
+  
+              ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_searchname.png?raw= "Search Name")
+  
+              * View wines returned from a search;
+  
+              ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_return.png?raw= "Search Name")
+  
+              * View wine details from a search return;
+  
+              ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_plantdeets.png?raw= "Search Name")
+  
+          * see their user details and amend if necessary.
+  
+            ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_mydetails.png?raw= "My Details")
+  
+          * add items to their shopping cart;
+            * amend the items in the shopping cart by increasing or decreasing quantity;
+            * adding or deleting items completely;
+  
+              ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_mydetails.png?raw= "My Details")
+  
+  
+    *   #### Returning Visitor Goals
+        * The returning visitor will want to;
+          * login to the site;
+          * view their previous orders;
+          * update their contact and delivery details
+        * **A returning visitor** may want to go straight to the menu dropdown or search function.
+  
+    *   #### Frequent User Goals
+        * The frequent user will want to;
+          * login to the site;
+          * view their previous orders;
+          * update their contact and delivery details
+        * **A frequent visitor** may want to go straight to the menu dropdown or search;
+  
+    *   #### Mobile Menu
+          * On mobile devices the menu is shown as a 'hamburger' drop down;
+  
+          ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_mobile.png?raw= "Mobile")
+  
+          * On mobile devices the menu is shown as a 'hamburger' drop down;
+  
+          ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_mobilemenu.png?raw= "Mobile Menu")
+  
+          * On mobile devices the menu and search function operates in the same manner as for larger screens;
+  
+          ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_mobilesearch.png?raw= "Mobile Search")
+  
+  *   ### Design
+    *   #### Colour Scheme
+        * the main background uses an image of vines in the Duoro Valley in Portugal. the landing page shows this image distinctly, whilst all other pages use the same image as a 'hazy' backdrop.
+        * The main colour themes are 'Burgundy' (#722F37) and 'Green' (#4f742f), primarily in reference to 'red' and 'white' wines. 'Burgundy' is used to highlight 'buttons' with 'Green' as a 'hover' effect over buttons.
+        * The main colours,  were potentially a concern for the 'colour blind' fraternity. Some basic tests with colour-blind persons did not present any issues, however the spectrum of colour blindness is vast so there may be some issues with some persons. The colour structure is relatively easy to change if there is negative feedback.
+    *   #### Typography
+        * The site uses the 'Bootstrap' 'Roboto' default font throughout the whole website. 'Roboto' is a clean font which is both attractive and appropriate.
+    *   #### 'Bootstrap' Card Structure
+        * The 'Bootstrap' card structure is used to return search results. This structures the returns into identifiable components with an image and corresponding details for a return. This keeps each return distinct and independent of each other.
+    *   #### Imagery
+        * Note that the background reference  [© Unsplash.com](https://unsplash.com/) for the image. As this is the case there is a risk that an image could be removed from the source and so the site image would fail. Copies of images are retained in the project image folder for backup.
+        * The background image is of 'Dark plants ...', designed to provide a reference to vineyards.
+  
+            ![alt text](https://images.unsplash.com/photo-1596063093406-321358f23bb1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80)
+  
+            *['The grapes on the vineyards in Douro Valley, Portugal. The UNESCO World Heritage region where the Porto Wine is produced.'](https://unsplash.com/@qwitka) By Maksym Kaharlytskyi [© Unsplash.com](https://unsplash.com/)*
+  
+  
+  *   ### Wireframes
+    *   #### Original Wireframe Design (October 15, 2020).
+        * The **'Home'** page includes a basic overall introduction to the purpose of the site. Cards are used to describe the main features of the site. The features are User Plant List, User Collections, Search by a Name, Filter, Image Upload and a  Year Calendar.
+        * Once the User has a login these features are accessible from the menu.
+        * The menu includes direct links to wine types;
+          1. Reds;
+          1. Whites;
+          1. Rose;
+          1. Sparkling; and
+          1. Fortified
+        * Amazon S3 to be used as the database for static and media files.
+        * The search list is considered to return name and image upload searches as detail page returns.
+        * The pages include those for user details entry and checkout from the shopping cart.
+        * All images in the wireframe are by example only.
+        *   The **Original Wireframe Design** can be viewed here - [View](https://github.com/Readri205/MS4_shopfront/blob/master/readme/wireframe/wineshop.pdf).
+  
+  ## Features
+  
+  *   ### Responsive for Device Size
+      * Mobile / Smaller screen size
+        * The site is designed primarily for use on a mobile. The 'Box Content' structure using Bootstrap Grid System has been utilised so that the information boxes (search results) will stack vertically on small screens for readability.
+        * The menu system uses the Bootstrap 'navbar' functionality for small screens using the 'toggle' capability for the 'drop down' menu list from a 'hamburger' icon.
+        * The navbar is 'fixed' to the top of the screen at all times on page scroll down for easy access.
+        * The navbar is coloured 'dark teal' to make it distinctive from the site pages.
+        * The 'hamburger' is coloured 'dark yellow' to make it visible yet not intrusive when viewing the site details.
+        * See comments above with regard to potential colour blindness impacts of the yellow and green colour mix.
+        * The 'drop down' site page options are coloured 'dark yellow' with the current page shown with an 'off-white' background. Note that on a mobile, the drop down lists can prove 'sticky' on selection with touch screen and sometimes go through to the wrong selection.
+        * The header image and the carousel images are suitably sized for smaller screens.
+      * Desktop / Laptop large screen size
+        * The 'Box Content' is effective on wide screens. The Bootstrap Grid System allows for the 'Box Content' to align horizontally in themes that are consistent on each of the 'Home' and 'Search' pages.
+        * The header menu system uses the Bootstrap 'navbar' functionality with the menu option pages listed to the right.
+        * The menu item list is coloured 'burgundy' to make it visible yet not intrusive when viewing the site details.
+        * The 'drop down' site page options are coloured 'burgundy' with the current page shown with an 'off-white' background.
+  
+  *   ### Interactive Elements
+      * The first key feature of the site is the ability for the user to;
+         * enter their own list of plants;
+         * place their listed plants into collections;
+         * define their collections.
+      * The second key features of the site is the ability for a user to search for plants;
+         * by entering a 'name';
+         * by using a filter for required 'colours'; or
+         * upload an image from file.
+      * Each method returns results that the user can;
+         * review and choose to see more details on any particular return;
+         * add the plant to their list and to a collection.
+         * if the search is based on a Trefle.io search the Trefle.io plant id is also added to the list for cross reference to the database.
+      * The user is able to contact us via the 'Contact Us' page.
+         * This page has an interactive contact form that the user can complete and submit their details through to us.
+         * There is an open text box so that the user can submit comments.
+         * When the user submits their details by clicking the 'Send Contact Details' button, a modal pops up to confirm that details have been sent.
+  
+  *   ### Future Features
+      * If a user adds a plant to their list from the Trefle.io search , it would be useful to link directly back to the Trefle.io database in order to return more of the details on that plant.
+      * Increase the number of filter types in searches. Currently only 'colour' is provided but further filters could be included such as 'edible plants', 'soil types', 'plant height', and 'water conditions'.
+      * More complex filters could also be provided to include more than one filter type such as 'colour' and 'soil type'.
+      * Improve the quality of data returns for a specific plant in searches, either from updated data submissions in the Trefle.io database or supplement the plant data returns from other available databases.
+  
+  ## Technologies Used
+  
+  ### Languages Used
+  
+  *   [HTML5](https://en.wikipedia.org/wiki/HTML5)
+  *   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+  *   [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+  *   [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
+  
+  ### Database Used
+  * [Amazon S3](https://www.Amazon S3.com/cloud/atlas)
+  * Amazon S3 was used to store user data, user plant and collection lists for 'CRUD' purposes.
+  * The database was planned to be as simple as possible with three Amazon S3 collections;
+    1. Users - for user registration and login;
+  
+      ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/Amazon S3_user.png?raw= "Users")
+    1. Collections - for users to record their plant lists in their user defined collections;
+  
+      ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/Amazon S3_collection.png?raw= "Collection")
+    1. Plants - for users to record their plants as a complete list and divide these lists into their respective collections. Note that for any images in the database, they are referenced as an HTTP/HTTPS link only.
+  
+      ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/Amazon S3_plant.png?raw= "Plant")
+  
+  * All plants in the database are directly referenced with the Users ObjectId and a Collection ObjectId.
+  * All collections are directly referenced to a User ObjectId.
+  
+  * A key feature of the site is for users to reference the [Trefle.io](https://Trefle.io/) and [Plant.id](https://plant.id/) search capabilities and then upload the data from [Trefle.io](https://Trefle.io/) into their plant list. However, plants can be added to the user list manually, or by utilising the [Trefle.io](https://Trefle.io/) search functionality.
+  * Images can be uploaded to Amazon S3 but only in an HTTP/HTTPS referenced form. The database is not designed to hold large images in standard image formats such as JPEG. As such all images are 'referenced' in this way. If a user wishes to upload an image, the user can if the user references a third party website or database.
+  * Note that at present there is no functionality for a user to delete their account, but will be included as a future feature.
+  
+  
+  ### Frameworks, Databases, Libraries & Programs Used
+  
+  * [Bootstrap 1.0.0](https://Bootstrapcss.com/)
+  * Bootstrap was used to assist with the responsiveness and styling of the website.
+  * [Amazon S3](https://www.Amazon S3.com/cloud/atlas)
+  * Amazon S3 was used to store user data, user plant and collection lists for 'CRUD' purposes.
+  * [Hover.css:](https://ianlunn.github.io/Hover/)
+  * Hover.css was used on the contact details types and for social media icons in the footer to add the float transition while being hovered over.
+  * [Font Awesome:](https://fontawesome.com/)
+  * Font Awesome was used for the website to add icons for aesthetic and UX purposes.
+  * [jQuery:](https://jquery.com/)
+  * jQuery came with Bootstrap to make the navbar responsive but was also used to support JavaScript and is loaded from the [CDJNS](https://cdnjs.com/libraries/Bootstrap).
+  * [GitPod:](https://www.gitpod.io/)
+  * Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+  * [GitHub:](https://github.com/)
+  * GitHub is used to store the projects code after being pushed from Git.
+  * [Heroku:](https://www.heroku.com/)
+    * Heroku is used to host the live site.
+  * [Atom:](https://atom.io/)
+  * Atom was used as a Markdown Text Editor for README.md and Testing.md
+  * [Favicon.io:](https://favicon.io/)
+  * Favicon.io was used for Favicon :wine_glass: web page title images.
+  * [Photoshop:](https://www.adobe.com/ie/products/photoshop.html)
+  * Photoshop was used to resize images and edit photos for the website.
+  * [GitPod IDE Markup:](https://www.gitpod.io/)
+  * GitPod IDE markup was used to format HTML files. This easy to use and makes the code very easy to read. I understand this to be VS Code standard.
+  * [Adobe Stock:](https://stock.adobe.com/uk/)
+  * Adobe Stock was used as a library source for images.
+  * [Unsplash:](https://unsplash.com/)
+  * Unsplash was used as a library source for images.
+  * [Balsamiq:](https://balsamiq.com/)
+  * Balsamiq was used to create the [wireframes]() during the design process.
+  * [Am I Responsive:](http://ami.responsivedesign.is/#)
+  * Am I Responsive was used to test the page layouts during the build process;
+  
+    ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/amiresponsive.png?raw= "Am I Responsive")
+  
+  ## Site Construction
+  
+  * ### Consistent Page Components
+   * All pages of the site contain the same 'header', 'navbar', 'carousel' and 'footer';
+     * **Header** consists of a title carousel images with titles.
+     * **Navbar** is a menu top bar dark yellow coloured lettering. There is a light backdrop highlighting the page that the user is on. The menu allows for easy access to any of the pages at all time. On mobile devices, the menu becomes a 'hamburger' and must be 'touched' in order to select any of the pages.
+     * **Footer** The footer is displayed on all pages and is consistent. There are three sections **'About'** - describes 'us' as an organisation, **'Data Analysis and Presentation Requirements?'** - describes what we do, and **'Contact'** - describes how to contact **'us'** to discuss what we can do for **'you'**.
+  * ### Home Page
+   * Information Box
+     * Contains the details as to the intention of the site and a how it can be used. It contains basic information in each card to explain the key features of the site;
+       * User defined plant lists;
+       * User defined collections lists;
+       * Search functions by name, filter and image upload;
+       * Register function for new users;
+       * Login for registered users.
+  * ### Subsequent Pages
+  * All subsequent pages follow a common theme (using Materialise CSS for font and colours);
+    * Main Header Title in 'Burgundy'.
+  
+  
+  ## Testing
+  Testing information can be found in a separate [testing.md](https://github.com/Readri205/MS4_shopfront/blob/master/testing.md) file.
+  ### Known Bugs and Issues
+  * The python file 'app.py' could be rationalised into key functional items such as 'user, Trefle search and Plant.ID search' to make them more distinct and easier to reference specific functionality in the future.
+  * Likewise the templates could be rationalised into key functional folders such as 'user, Trefle search and Plant.ID search' to make them more distinct and easier to reference specific functionality in the future.
+  * Trefle search and filter functionality proved 'difficult' with reference to API pagination. The Trefle database restricts returns to 20 items per page. Identifying distinct pages and presenting them proved difficult even with the 'Shamrock' library, and as such there are a number of Trefle search and filter pages to accommodate pagination from the API return. As the current structure 'works' in terms of presentation (no impact to users), it was decided to submit as is and update the functionality at a later point.
+  * Note that on a mobile device the 'collections' drop down creates a 'mobile' type drop down selection that can be confusing initially, compared to a desktop drop down. It's a bit clunky but it works.
+  * Note that on a mobile, the drop down lists can prove 'sticky' on selection with touch screen and sometimes go through to the wrong selection. Again, this can be 'annoying' initially. Further review can look to resolve this for user aesthetics.
+  * Note that at present there is no functionality for a user to delete their account, but would be provided as a future feature.
+  * Note that the background, carousel and main home page cards all reference  [© Unsplash.com](https://unsplash.com/) for the images. As this is the case there is a risk that an image could be removed from the source and so the site image would fail. Copies of images are retained in the project image folder for backup.
+  * GitPod IDE markup was used to format HTML files. This easy to use and makes the code very easy to read. I understand this to be a VS Code standard.
+  
+  ## Deployment
+  
+  ### GitHub Pages
+  
+  The project was deployed to GitHub Pages using the following process;
+  
+  1. The project was written in [GitPod](https://www.gitpod.io/) and pushed to GitHub Pages ready for deployment by taking the following steps;
+  1. Logged in to GitHub and located the [GitHub Repository](https://github.com/Readri205/MS4_shopfront);
+  1. From this point deployment was made linking the Github repository to Heroku;
+  
+  ### Heroku Deployment
+  
+  1. The application was deployed in Heroku to run the Python Application on the Web front end.
+  1. An account was created in Heroku and then a new application was setup;
+  
+    ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/heroku_new_app.png?raw= "Heroku New App")
+  
+  1. In the 'Deploy' menu the Heroku application is connected to the Github Repository so that it is automatically updated when Github is deployed;
+  
+    ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/heroku_github_deploy.png?raw= "Github to Heroku Deploy")
+  
+  1. In the 'Settings' menu, all the relevant API token, Secret Key and config files are entered individually so that the application can run with reference to these inputs;
+  
+  * The application configs are set in the app.py file for reference;
+  
+    ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/heroku_configs.png?raw= "Heroku Configs")
+  
+  * Heroku can reference them once they are set in the Config Vars. All the tokens and secret keys are entered into an environment variable file that is referenced by the offline application and are not uploaded to Github. Any user wishing to copy the application and deploy it will need to obtain and create their own environment variables as listed below;
+  
+    ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/heroku_app_configs.png?raw= "Heroku App Configs")
+  
+  1. A requirements file must be set in the Github application which is passed to Heroku so that it knows which libraries to run;
+  
+    ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/heroku_reqv2.png?raw= "Heroku Deployment")
+  
+  1. A 'Proc' file must also be set in the Github application which is passed to Heroku so that it knows which programme to run the web application;
+  
+    ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/heroku_proc.png?raw= "Heroku Deployment")
+  
+  1. The application is opened on the web by clicking on the "Open app" button;
+  
+    ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/heroku_deployment.png?raw= "Heroku Deployment")
+  
+  - [Click to view site **WINE SHOP** :wine_glass:](https://plant-manager-flask-Amazon S3.herokuapp.com/ "Heroku Deployed Site")
+  
+  ### Forking the GitHub Repository
+  
+  A copy of the GitHub Repository can be made by forking the GitHub account. This copy can be viewed and  changes can be made to the copy without affecting the original repository. Take the following steps to fork the repository;
+  
+  1. Log in to GitHub and locate the [GitHub Repository](https://github.com/Readri205/MS4_shopfront);
+  1. At the top of the Repository above the "Settings" Button on the menu, locate the "Fork" Button.
+     ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/github_fork.png?raw= "Github Fork"); and
+  1. Click to create a copy of the original repository in your own GitHub account.
+  
+  ### Making a Local Clone
+  
+  1. Log in to **GitHub** and locate the [GitHub Repository](https://github.com/Readri205/MS4_shopfront)
+  1. Under the repository name, click "Code".
+  1. To clone the repository using HTTPS, click the top right hand link click "Use HTTPS";
+  1. Copy the link under "Clone with HTTPS";
+     ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/github_clone.png?raw= "Github Clone")
+  1. Open your Code Editor and access the appropriate process to paste the clone link;
+  1. Change the current working directory to the location where you want to keep the cloned directory;
+  1. Paste the URL you copied in step 4 above.
+  
+  Note that different Code Editors will have different processes for making the clone once the HTTPS link copy is made in step 4 above.
+  
+  * If using **GitHub Desktop**, the clone can de saved directly into GitHub Desktop from the "Code" dropdown menu by choosing **'Open with GitHub Desktop'**.
+  
+  A **Zip File** clone can be downloaded from the same "Code" drop down above;
+  * Select **'Download ZIP'** and the complete zip file will be saved to you local computer.
+  
+  ## Credits
+  
+  ### Code
+  
+  * [Code Institute course](https://codeinstitute.net/5-day-coding-challenge/?utm_term=%2Bcode%20%2Binstitute%20%2Bcourses&utm_campaign=a%2526c_BR_IRL_Code_Institute&utm_source=adwords&utm_medium=ppc&hsa_net=adwords&hsa_tgt=kwd-443742237303&hsa_ad=407017470923&hsa_acc=8983321581&hsa_grp=62188641040&hsa_mt=b&hsa_cam=1578649861&hsa_kw=%2Bcode%20%2Binstitute%20%2Bcourses&hsa_ver=3&hsa_src=g&gclid=CjwKCAjw4MP5BRBtEiwASfwAL3-Oi3uDo1sBfn2KpQVAlLb07T2ndP-Q2mCFxdGgpvoBMoPIAtbg9xoCyZgQAvD_BwE&gclsrc=aw.ds); (the 'Boutique Ado' example) by Chris Zielinski for the [Django](https://www.djangoproject.com/) / [Amazon S3](https://aws.amazon.com/s3/) / [Bootstrap](https://getbootstrap.com/) example which is used for the base construction of this website.
+  
+  ## Content
+  
+  * Content for fixtures was derived from [Laithwaites](https://www.laithwaites.co.uk/) for inspiration.
+  
+    * Use of any information in this site is exclusively for the purposes of viewing information only and is entirely for educational purposes.
+  
+    * Any interest in content for purchase should be directed to [Laithwaites](https://www.laithwaites.co.uk/).
+  
+  ### Media
+  
+  *   Background image - ['The grapes on the vineyards in Douro Valley, Portugal. The UNESCO World Heritage region where the Porto Wine is produced.'](https://unsplash.com/@qwitka) By Maksym Kaharlytskyi [© Unsplash.com](https://unsplash.com/);
+  
+  ### Acknowledgements
+  
+  * **Tutor support** at Code Institute for their support. When I have requested help, it has come quickly and efficiently when needed.
+  * **Student assessment** at Code Institute. I have looked to accommodate comments back on MS3 to reduce any re-occurring issues in MS4.
+  * **Other students** (Slack Code Institute Workspace) on the Full Stack Developer Course, via the [Slack Communication Platform](https://slack.com/intl/en-gb/).
+  * **Friends and family** providing review and feedback on the site content, navigation and screen size testing. This has been invaluable with two very 'have mobile, will travel' daughters, it is often brutal but effective.
+  
+  
+  ## Version Control
+  
+   *   All through the development phase of the project, commits have been made from the GitPod Repository to GitHub. The version control list below mirrors the GitHub Commit list. It is designed to provide a direct track on commits in the README file for easy access as to code status in GitPod.
+  
+    - V1.0 Initial Commit
+    - V1.1 Setup allauth
+    - V1.2 Add allauth templates and base template
+    - V1.3 Add blocks to base template
+    - V1.4 Add home app and templates
+    - V1.5 Add home page content and style
+    - V1.6 Add main page header profile
+    - V1.7 Add home page image and static
+    - V1.8 Amend my-account dropdown toggle in css
+    - V1.9 Amend css styles for text and shop buttons
+    - V2.0 Add mobile and main navbar
+    - V2.1 Upload images to media file
+    - V2.2 Upload fixtures and amend media images
+    - V2.3 Update json files with name fields
+    - V2.4 Update product json file for spelling text appellation
+    - V2.5 Add models product, appellation, variety, country, type
+    - V2.6 Add models to admin and set and ordered fields
+    - V2.7 Add products page and layout for products
+    - V2.8 Update products and product detail with fields and styles
+    - V2.9 Update css for products and product details
+    - V3.0 Amend css on products and amend details list
+    - V3.1 Add basic product search query
+    - V3.2 Add favicons and colour changes to fonts
+    - V3.3 Add type filter for products drop down
+    - V3.4 Amend main-nav for product views and types
+    - V3.5 Update menus with product views and sorts
+    - V3.6 Update collections for mixed variety products sort
+    - V3.7 Update for sorting and product filter count
+    - V3.8 Amend product sort to eliminate sytax errors
+    - V3.9 Add jquery script to corejs for product sort function
+    - V4.0 Update sort for product sort by product
+    - V4.1 Add page return function
+    - V4.2 Add cart app for shopping
+    - V4.3 Amend fonts and icons on cart page
+    - V4.4 Add context to cart
+    - V4.5 Add quantity to cart
+    - V4.6 Add cart url
+    - V4.7 Amend background, formats, fonts and table in cart
+    - V4.8 Amend styles for product home link
+    - V4.9 Amend cart shop summary for bootsrap text-end
+    - V5.0 Add quantity increment decrement script
+    - V5.1 Add icons to money and increment decrement to cart
+    - V5.2 Add update and remove links in cart
+    - V5.3 Amend styles on account and cart links
+    - V5.4 Add sub total update and cart quantity amends
+    - V5.5 Add toasts
+    - V5.6 Amend flag url from countryflag io to flagcdn.com
+    - V5.7 Update toasts for shopping add and updates
+    - V5.8 Add checkout app and checkout models
+    - V5.9 Add forms for checkout
+    - V6.0 Update crispy template and base css for checkout
+    - V6.1 Amend css in checkout
+    - V6.2 Add stripe componant to checkout
+    - V6.3 Add stripe variables to gitpod
+    - V6.4 Amend clientSecret syntax to fix payment
+    - V6.5 Add checkout success page
+    - V6.6 Add order detail to checkout page
+    - V6.7 Add stripe checkout confirmation
+    - V6.8 Add stripe webhook
+    - V6.9 Update stripe webhooks for payment types
+    - V7.0 Update webhook for client info on submit
+    - V7.1 Update webhooks for order redundancy
+    - V7.2 Add profiles app
+    - V7.3 Add profile model views and url
+    - V7.4 Update allauth for styles and crispy forms
+    - V7.5 Add profile link and style to profile page
+    - V7.6 Add profile update form
+    - V7.7 Add profile updates to checkout process
+    - V7.8 Add order update via stripe webhook for orders
+    - V7.9 Add confirmation email to webhook
+    - V8.0 Add product form for product update
+    - V8.1 Add add product form
+    - V8.2 Update product form for categories
+    - V8.3 Add add product style and media context processor
+    - V8.4 Add edit product function
+    - V8.5 Add delete product function
+    - V8.6 Add superuser profile checks
+    - V8.7 Add image widget for edit
+    - V8.8 Add image js for image load
+    - V8.9 Test webhook handler and update profile page styles
+    - V9.0 Update confirmation email details
+    - V9.1 Setup Heroku delpoyment
+    - V9.2 Deploy to heroku
+    - V9.3 Amend Procfile
+    - V9.4 Further amend on Procfile
+    - V9.5 Further amend on Procfile
+    - V9.6 Move Procfile to correct location
+    - V9.7 Move codes out
+    - V9.8 Debug amend and enable heroku auto update
+    - V9.9 Deploy files to aws
+    - V10.0 Add aws object parameters for cache
+    - V10.1 Remove additional media image
+    - V10.2 Upload favicon s3 location
+    - V10.3 Move favicons to test
+    - V10.4 Update favicon location for S3
+    - V10.5 Amend for faviconfiles location
+    - V10.6 Add stripe keys to heroku
+    - V10.7 Amend favicon links in base html
+    - V10.8 Return to original base html
+    - V10.9 Remove favicons
+    - V11.0 New folder for favicons
+    - V11.1 Favicons to root
+    - V11.2 Remove site manifest file from favicon
+    - V11.3 Amend to favicon and mobile menu styles
+    - V11.4 Update favicon route in S3
+    - V11.5 Further update favicon route for S3
+    - V11.6 Test red link on main menu for heroku
+    - V11.7 Test red link label
+    - V11.8 Test for type all reds
+    - V11.9 Reload fixtures files to heroku
+    - V12.0 Test for variety monastrell
+    - V12.1 Test for allowed hosts
+    - V12.2 Test remove import stripe
+    - V12.3 Add back import stripe
+    - V12.4 Set debug to true for errors
+    - V12.5 Test for amends on images access
+    - V12.6 Redeploy after amend image names
+    - V12.7 Update admin product detail display
+    - V12.8 Update debug to production
+    - V12.9 Amend mobile css and home page links
+    - V13.0 Amend mobile css
+    - V13.1 Update mobile page layouts
+    - V13.2 Update css on mobile
+    - V13.3 Update for product image html error
+    - V13.4 Further update for product image error
+    - V13.5 Update for product image reference
+    - V13.6 Amend checkout buttons page
+    - V13.7 Update cart page
+    - V13.8 Amend back to shop in empty cart page
+    - V13.9 Amend for button on empty cart page
+    - V14.0 Amend lint errors
+    - V14.1 Test product details page
+    - V14.2 Test text positions product details page
+    - V14.3 Test product details layout
+    - V14.4 Test product details text layout
+    - V14.5 Test for product details layout
+    - V14.6 Test for product details quantity layout
+    - V14.7 Test for details float
+    - V14.8 Add detail quantity form
+    - V14.9 Update for path error
+    - V15.0 Amend to debug true
+    - V15.1 Update detail quantity form
+    - V15.2 Amend product details template
+    - V15.3 Further amend product details template
+    - V15.4 Further amend product details page
+    - V15.5 Heroku push
+    - V15.6 Further product details amends
+    - V15.7 Amend to float add cart to right
+    - V15.8 Amend to keep shopping
+    - V15.9 Update product details page
+    - V16.0 Amend error on product details
+    - V16.1 Adjust image and quantity block
+    - V16.2 Amend columns and icons product detail
+    - V16.3 Add email account to settings
+    - V16.4 Amend email account settings
+    - V16.5 Update fonts on password resets
+    - V16.6 Update text in product details
+    - V16.7 Add amiresponsive image
+    - V16.8 Heroku push
+    - V16.9 Further heroku push
+    - V17.0 Heroku push for build fails
+    - V17.1 Reconnect Heroku
+    - V17.2 Further connect heroku
+    - V17.3 Load readme amiresponsive
+    - V17.4 Style amends on home page
+    - V17.5 Further style amend home page
+    - V17.6 Add readme images
+    - V17.7 Amends in readme
+    - V17.8 Amend product model
+    - V17.9 Amend products
+    - V18.0 Further amend products
+    - V18.1 Align all product files
+    - V18.2 Amend media image file reference in product json
+    - V18.3 Amend sku names for file reference in products
+    - V18.4 Further products amends
+    - V18.5 Remove mixed products
+    - V18.6 Load products to fix image reference
+    - V18.7 Amend mixed products in gitpod
+    - V18.8 Redeploy to heroku
+    - V18.9 Updates to readme
+  
+   ***
+
 
  ***
