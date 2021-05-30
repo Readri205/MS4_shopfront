@@ -581,5 +581,6 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
   - V19.5 Adds to readme
   - V19.6 Fix footer to page foot
   - V19.7 Add footer css and readme amends
+  - V19.8 Add footer bootstrap css
 
   ***
