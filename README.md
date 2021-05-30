@@ -588,5 +588,6 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
   - V20.3 Amends for footer spacing
   - V20.4 Increase footer spacing
   - V20.5 Footer style amend
+  - V20.6 Amends on footer
 
   ***
