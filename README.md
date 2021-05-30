@@ -323,17 +323,13 @@ The project was deployed to GitHub Pages using the following process;
 
 1. In the 'Settings' menu, all the relevant API token, Secret Key and config files are entered individually so that the application can run with reference to these inputs;
 
-* The application configs are set in the app.py file for reference;
-
-  ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/heroku_configs.png?raw= "Heroku Configs")
-
 * Heroku can reference them once they are set in the Config Vars. All the tokens and secret keys are entered into an environment variable file that is referenced by the offline application and are not uploaded to Github. Any user wishing to copy the application and deploy it will need to obtain and create their own environment variables as listed below;
 
-  ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/heroku_app_configs.png?raw= "Heroku App Configs")
+  ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/heroku_configs.png?raw= "Heroku App Configs")
 
 1. A requirements file must be set in the Github application which is passed to Heroku so that it knows which libraries to run;
 
-  ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/heroku_reqv2.png?raw= "Heroku Deployment")
+  ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/heroku_requirements.png?raw= "Heroku Deployment")
 
 1. A 'Proc' file must also be set in the Github application which is passed to Heroku so that it knows which programme to run the web application;
 
@@ -587,5 +583,6 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
   - V19.3 Add readme content
   - V19.4 Further readme updates
   - V19.5 Adds to readme
+  - V19.6 Fix footer to page foot
 
   ***
