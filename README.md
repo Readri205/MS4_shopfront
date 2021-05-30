@@ -306,7 +306,6 @@
 * Note that at present there is no functionality for a user to delete their account, but would be provided as a future feature.
 * GitPod IDE markup was used to format HTML files. This easy to use and makes the code very easy to read. I understand this to be a VS Code standard.
 * The footer on the 'Profile Page' does not fully extend across the width of the page. The error is likely to be easily resolved but time constraints require the fix to be made post submission date.
-* The footer on the login and sign out pages floats up the page. The error is likely to be easily resolved but time constraints require the fix to be made post submission date.
 * Social accounts have not been set up for auto login for users. This would be updated in future amends to the website.
 
 ## Deployment
@@ -607,5 +606,6 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
   - V20.8 Add testing references
   - V20.9 Update readme for profile page footer issue
   - V21.0 Amend footer to relative
+  - V21.1 Returned to fixed
 
   ***
