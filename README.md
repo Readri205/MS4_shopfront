@@ -552,5 +552,6 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
   - V18.8 Redeploy to heroku
   - V18.9 Add footer section
   - V19.0 Add css on footer
+  - V19.2 Amend css on footer
 
   ***
