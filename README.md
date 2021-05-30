@@ -29,8 +29,6 @@
 
 * If the site is perceived as successful, it is anticipated that the site could be expanded as;
 * there is a significant amount of data in the Trefle database that can be utilised for more specific searches and filtering;
-* other API sources could also be utilised to improve the information set;
-* other functions could be added such as creating as a calendar for gardening jobs at a particular time of year.
 
 * The site is designed to be responsive and accessible on a range of devices, making it easy to navigate for interested users. The website was designed using **'Mobile First'** principles as the site must be perceived to be quick and easy to use and read as a reference site on a mobile device.
 
@@ -169,7 +167,7 @@
         ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_capture.png?raw= "Mobile Capture")
 
 *   ### Design
-  *   #### colour Scheme
+  *   #### Colour Scheme
       * The main colour is 'Teal' (#008080), designed to provide a light neutral background to highlight a 'Yellow" (#FFFF00) text. The colours have been manipulated to lighten or darken them using 'Materialize' CSS properties. The various shades of 'Teal' are used to reference the the plant kingdom.
       * The main colours, 'Yellow" (#FFFF00)on a 'Teal' (#008080) background, were potentially a concern for the 'colour blind' fraternity. Some basic tests with colour blind persons did not present any issues, however the spectrum of colour blindness is vast so there may be some issues with some persons. The colour structure is relatively easy to change if there is negative feedback.
   *   #### Typography
@@ -697,5 +695,6 @@ Any interest in content for purchase should be directed to [Laithwaites](https:/
   - V17.5 Further style amend home page
   - V17.6 Add readme images
   - V17.7 Amends in readme
+  - V17.8 Amend product model
 
  ***
