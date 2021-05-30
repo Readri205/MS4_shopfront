@@ -702,5 +702,6 @@ Any interest in content for purchase should be directed to [Laithwaites](https:/
   - V18.2 Amend media image file reference in product json
   - V18.3 Amend sku names for file reference in products
   - V18.4 Further products amends
+  - V18.5 Remove mixed products
 
  ***
