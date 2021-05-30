@@ -698,5 +698,6 @@ Any interest in content for purchase should be directed to [Laithwaites](https:/
   - V17.8 Amend product model
   - V17.9 Amend products
   - V18.0 Further amend products
+  - V18.1 Align all product files
 
  ***
