@@ -336,54 +336,6 @@
    }
 },
  {
-   "pk": 160,
-   "model": "products.product",
-   "fields": {
-      "sku": "0954919",
-      "product": "Chateau de Beaucastel Roussanne Chateauneuf-du-Pape Vieilles 2019",
-      "image": "0954919.png",
-      "appellation": 65,
-      "description": "Chateau de Beaucastel Roussanne Chateauneuf-du-Pape Vieilles 2019",
-      "rating": 3.5,
-      "country": 7,
-      "variety": 90,
-      "price": 7.99,
-      "type": 1
-   }
-},
- {
-   "pk": 182,
-   "model": "products.product",
-   "fields": {
-      "sku": "1014806",
-      "product": "Chateau Laville Haut-Brion 2006",
-      "image": "1014806.png",
-      "appellation": 200,
-      "description": "Chateau Laville Haut-Brion 2006",
-      "rating": 3.5,
-      "country": 7,
-      "variety": 97,
-      "price": 360,
-      "type": 1
-   }
-},
- {
-   "pk": 202,
-   "model": "products.product",
-   "fields": {
-      "sku": "1032719",
-      "product": "Chateau Pape Clement Blanc 2019",
-      "image": "1032719.png",
-      "appellation": 198,
-      "description": "Chateau Pape Clement Blanc 2019",
-      "rating": 3.5,
-      "country": 7,
-      "variety": 95,
-      "price": 7.99,
-      "type": 1
-   }
-},
- {
    "pk": 1040,
    "model": "products.product",
    "fields": {
@@ -464,54 +416,6 @@
    }
 },
  {
-   "pk": 88,
-   "model": "products.product",
-   "fields": {
-      "sku": "0468017",
-      "product": "Von Buhl Jesuitengarten Grosses Gewächs 2017",
-      "image": "0468017.png",
-      "appellation": 202,
-      "description": "Von Buhl Jesuitengarten Grosses Gewächs 2017",
-      "rating": 3.5,
-      "country": 8,
-      "variety": 87,
-      "price": 44,
-      "type": 1
-   }
-},
- {
-   "pk": 170,
-   "model": "products.product",
-   "fields": {
-      "sku": "0966519",
-      "product": "Villa Wolf Pinot Gris Pfalz 2019",
-      "image": "0966519.png",
-      "appellation": 201,
-      "description": "Bright, fresh, dry Pinot Gris from a leading light of modern German winemaking, Ernst Loosen",
-      "rating": 3.5,
-      "country": 8,
-      "variety": 77,
-      "price": 12.99,
-      "type": 1
-   }
-},
- {
-   "pk": 175,
-   "model": "products.product",
-   "fields": {
-      "sku": "0983019",
-      "product": "Villa Wolf Gewurztraminer Pfalz 2019",
-      "image": "0983019.png",
-      "appellation": 201,
-      "description": "Delightfully aromatic Gewurz with clean, fruity, light spice and fresh rose petal flavours",
-      "rating": 3.5,
-      "country": 8,
-      "variety": 35,
-      "price": 13.49,
-      "type": 1
-   }
-},
- {
    "pk": 329,
    "model": "products.product",
    "fields": {
@@ -572,38 +476,6 @@
       "country": 9,
       "variety": 4,
       "price": 28,
-      "type": 1
-   }
-},
- {
-   "pk": 28,
-   "model": "products.product",
-   "fields": {
-      "sku": "0055219",
-      "product": "Campanula Pinot Grigio 2019",
-      "image": "0055219.png",
-      "appellation": 124,
-      "description": "Deliciously fresh and appetising Pinot Grigio and great value too. one of our bestselling whites",
-      "rating": 5,
-      "country": 10,
-      "variety": 76,
-      "price": 9.99,
-      "type": 1
-   }
-},
- {
-   "pk": 29,
-   "model": "products.product",
-   "fields": {
-      "sku": "0055220",
-      "product": "Campanula Pinot Grigio 2020",
-      "image": "0055220.png",
-      "appellation": 124,
-      "description": "Deliciously fresh and appetising Pinot Grigio and great value too. one of our bestselling whites",
-      "rating": 5,
-      "country": 10,
-      "variety": 76,
-      "price": 9.99,
       "type": 1
    }
 },
@@ -809,54 +681,6 @@
       "appellation": 187,
       "description": "Top selling, old-vine Sauvignon Blanc from a pioneering family in the super-sunny Nelson region",
       "rating": 5,
-      "country": 15,
-      "variety": 94,
-      "price": 12.99,
-      "type": 1
-   }
-},
- {
-   "pk": 115,
-   "model": "products.product",
-   "fields": {
-      "sku": "0880920",
-      "product": "Kora Marlborough Sauvignon Blanc 2020",
-      "image": "0880920.png",
-      "appellation": 168,
-      "description": "Gooseberry-fresh, tropical fruit white from the latest generation of a top Marlborough winery",
-      "rating": 4.8,
-      "country": 15,
-      "variety": 94,
-      "price": 11.99,
-      "type": 1
-   }
-},
- {
-   "pk": 136,
-   "model": "products.product",
-   "fields": {
-      "sku": "0927720",
-      "product": "Cloudy Bay Sauvignon Blanc 2020",
-      "image": "0927720.png",
-      "appellation": 168,
-      "description": "Marlborough’s most renowned Sauvignon Blanc and for good reason. Such intensity, poise and vivacity",
-      "rating": 4.3,
-      "country": 15,
-      "variety": 94,
-      "price": 25,
-      "type": 1
-   }
-},
- {
-   "pk": 313,
-   "model": "products.product",
-   "fields": {
-      "sku": "1715120",
-      "product": "DK Sauvignon Blanc 2020",
-      "image": "1715120.png",
-      "appellation": 168,
-      "description": "Vibrant gooseberry, grapefruit and passionfruit filled white from the renowned David Knappstein",
-      "rating": 4.6,
       "country": 15,
       "variety": 94,
       "price": 12.99,
@@ -1088,70 +912,6 @@
    }
 },
  {
-   "pk": 108,
-   "model": "products.product",
-   "fields": {
-      "sku": "0610919",
-      "product": "The Rustler Chenin Blanc 2019",
-      "image": "0610919.png",
-      "appellation": 322,
-      "description": "If you’re after a great-value glass of fruity-fresh South African refreshment, reach for The Rustler",
-      "rating": 4.7,
-      "country": 18,
-      "variety": 17,
-      "price": 10.49,
-      "type": 1
-   }
-},
- {
-   "pk": 109,
-   "model": "products.product",
-   "fields": {
-      "sku": "0610920",
-      "product": "The Rustler Chenin Blanc 2020",
-      "image": "0610920.png",
-      "appellation": 322,
-      "description": "Bright, zesty Chenin Blanc at its most vibrant and enticing, from a champion South African winemaker",
-      "rating": 4.7,
-      "country": 18,
-      "variety": 17,
-      "price": 10.49,
-      "type": 1
-   }
-},
- {
-   "pk": 137,
-   "model": "products.product",
-   "fields": {
-      "sku": "0928417",
-      "product": "Klein Constantia Vin de Constance (50cl) 2017",
-      "image": "0928417.png",
-      "appellation": 88,
-      "description": "Klein Constantia Vin de Constance (50cl) 2017",
-      "rating": 3.5,
-      "country": 18,
-      "variety": 62,
-      "price": 60,
-      "type": 1
-   }
-},
- {
-   "pk": 210,
-   "model": "products.product",
-   "fields": {
-      "sku": "1040418",
-      "product": "Vondeling Babiana 2018",
-      "image": "1040418.png",
-      "appellation": 315,
-      "description": "A unique, characterful, ripe fruit Chenin Blanc blend from an award-winning Paardeberg estate",
-      "rating": 3.5,
-      "country": 18,
-      "variety": 117,
-      "price": 17.49,
-      "type": 1
-   }
-},
- {
    "pk": 1027,
    "model": "products.product",
    "fields": {
@@ -1356,22 +1116,6 @@
       "country": 1,
       "variety": 48,
       "price": 9.99,
-      "type": 2
-   }
-},
- {
-   "pk": 1086,
-   "model": "products.product",
-   "fields": {
-      "sku": "/M14002",
-      "product": "Bestselling Aussie Reds",
-      "image": "/M14002.png",
-      "appellation": 177,
-      "description": "Bestselling Aussie Reds – from JUST £7.99 a bottle",
-      "rating": 4.6,
-      "country": 2,
-      "variety": 57,
-      "price": 95.88,
       "type": 2
    }
 },
@@ -1792,54 +1536,6 @@
    }
 },
  {
-   "pk": 451,
-   "model": "products.product",
-   "fields": {
-      "sku": "2369517",
-      "product": "Dog Point Pinot Noir 2017",
-      "image": "2369517.png",
-      "appellation": 168,
-      "description": "Dog Point Pinot Noir 2017",
-      "rating": 3.5,
-      "country": 15,
-      "variety": 80,
-      "price": 7.99,
-      "type": 2
-   }
-},
- {
-   "pk": 577,
-   "model": "products.product",
-   "fields": {
-      "sku": "2962718",
-      "product": "Ata Rangi Pinot Noir 2018",
-      "image": "2962718.png",
-      "appellation": 170,
-      "description": "Ata Rangi Pinot Noir 2018",
-      "rating": 3.5,
-      "country": 15,
-      "variety": 80,
-      "price": 7.99,
-      "type": 2
-   }
-},
- {
-   "pk": 804,
-   "model": "products.product",
-   "fields": {
-      "sku": "3757918",
-      "product": "Rapaura Springs Marlborough Pinot Noir Reserve 2018",
-      "image": "3757918.png",
-      "appellation": 168,
-      "description": "Dark cherry and spicy oak combine in this 93-pt Pinot Noir from an award-winning New Zealand cellar",
-      "rating": 4.4,
-      "country": 15,
-      "variety": 80,
-      "price": 21,
-      "type": 2
-   }
-},
- {
    "pk": 805,
    "model": "products.product",
    "fields": {
@@ -1936,38 +1632,6 @@
    }
 },
  {
-   "pk": 922,
-   "model": "products.product",
-   "fields": {
-      "sku": "3943718",
-      "product": "Vinha do Fava Reserva 2018",
-      "image": "3943718.png",
-      "appellation": 301,
-      "description": "Landmark Reserva edition of winemaker Jaime Quendera’s velvety, award-winning Black Red",
-      "rating": 4.6,
-      "country": 16,
-      "variety": 14,
-      "price": 13.99,
-      "type": 2
-   }
-},
- {
-   "pk": 923,
-   "model": "products.product",
-   "fields": {
-      "sku": "3943719",
-      "product": "Vinha do Fava Reserva 2019",
-      "image": "3943719.png",
-      "appellation": 301,
-      "description": "Sumptuous Reserva edition of winemaker Jaime Quendera’s velvety, award-winning red, Vinha do Fava",
-      "rating": 4.6,
-      "country": 16,
-      "variety": 14,
-      "price": 13.99,
-      "type": 2
-   }
-},
- {
    "pk": 342,
    "model": "products.product",
    "fields": {
@@ -2000,22 +1664,6 @@
    }
 },
  {
-   "pk": 419,
-   "model": "products.product",
-   "fields": {
-      "sku": "2233619",
-      "product": "Grill House Shiraz Pinotage 2019",
-      "image": "2233619.png",
-      "appellation": 322,
-      "description": "Pinotage and Shiraz make a delicious dark fruit marriage in this weighty Cape red from Gerhard Swart",
-      "rating": 4.9,
-      "country": 18,
-      "variety": 99,
-      "price": 11.49,
-      "type": 2
-   }
-},
- {
    "pk": 420,
    "model": "products.product",
    "fields": {
@@ -2043,38 +1691,6 @@
       "rating": 4.8,
       "country": 18,
       "variety": 8,
-      "price": 10.49,
-      "type": 2
-   }
-},
- {
-   "pk": 542,
-   "model": "products.product",
-   "fields": {
-      "sku": "2593019",
-      "product": "The Comeback King Merlot 2019",
-      "image": "2593019.png",
-      "appellation": 229,
-      "description": "Smooth, velvety and spiced Merlot with juicy plum fruit, from the Capes beautiful Robertson region",
-      "rating": 4.4,
-      "country": 18,
-      "variety": 55,
-      "price": 10.49,
-      "type": 2
-   }
-},
- {
-   "pk": 668,
-   "model": "products.product",
-   "fields": {
-      "sku": "3298719",
-      "product": "The Comeback King Shiraz 2019",
-      "image": "3298719.png",
-      "appellation": 229,
-      "description": "Big, rich Gold-medal Shiraz from a fifth-generation family estate in South Africa’s Robertson",
-      "rating": 4.6,
-      "country": 18,
-      "variety": 98,
       "price": 10.49,
       "type": 2
    }
@@ -2620,38 +2236,6 @@
       "country": 7,
       "variety": 15,
       "price": 65,
-      "type": 4
-   }
-},
- {
-   "pk": 891,
-   "model": "products.product",
-   "fields": {
-      "sku": "3888608",
-      "product": "Amour de Deutz Blanc de Blancs (in gift box) 2008",
-      "image": "3888608.png",
-      "appellation": 63,
-      "description": "Delicate, expressive Blanc de Blancs Champagne from an exceptional vintage, aged to perfection",
-      "rating": 3.5,
-      "country": 7,
-      "variety": 15,
-      "price": 125,
-      "type": 4
-   }
-},
- {
-   "pk": 960,
-   "model": "products.product",
-   "fields": {
-      "sku": "3971819",
-      "product": "Abbesse de Loire Cremant de Loire Rose 2019",
-      "image": "3971819.png",
-      "appellation": 116,
-      "description": "Celebrate with this moreish, mouthwatering, dry Loire rose fizz from the acclaimed Bougrier family",
-      "rating": 4.4,
-      "country": 7,
-      "variety": 6,
-      "price": 14.49,
       "type": 4
    }
 },
