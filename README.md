@@ -289,7 +289,18 @@
     * Cart cost and card payment form.
 
 ## Testing
-Testing information can be found in a separate [testing.md](https://github.com/Readri205/MS4_shopfront/blob/master/testing.md) file.
+* Testing information in the following test schedule;
+
+  ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/testing_schedule.png?raw= "Heroku New App")
+
+  The file can be found here;
+
+  [View](https://github.com/Readri205/MS4_shopfront/blob/master/readme/wireframe/testing.xls)
+
+* The django programme in Gitpod was tested with python3 manage.py -m flake8 with the following issues remaining;
+
+  ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/django_flake8.png?raw= "Heroku New App")
+
 ### Known Bugs and Issues
 *
 * Note that at present there is no functionality for a user to delete their account, but would be provided as a future feature.
@@ -590,5 +601,6 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
   - V20.5 Footer style amend
   - V20.6 Amends on footer
   - V20.7 Final footer style
+  - V20.8 Add testing references
 
   ***
