@@ -704,5 +704,6 @@ Any interest in content for purchase should be directed to [Laithwaites](https:/
   - V18.4 Further products amends
   - V18.5 Remove mixed products
   - V18.6 Load products to fix image reference
+  - V18.7 Amend mixed products in gitpod
 
  ***
