@@ -62,21 +62,21 @@
           * amend the items in the shopping cart by increasing or decreasing quantity;
           * adding or deleting items completely;
 
-            ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_mydetails.png?raw= "My Details")
+            ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_cart.png?raw= "My Cart")
 
         * checkout and make payment;
           * go to user details and delivery information;
           * review the shopping cart summary;
           * input credit card payment and submit order.
 
-            ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_mydetails.png?raw= "My Details")
+            ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_checkout.png?raw= "My Checkout")
 
         * super users can manage product sets in database;
           * add new products to the database;
           * delete products from database; and
           * amend existing products.
 
-            ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_productmanagement.png?raw= "Product Management")
+            ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_product.png?raw= "Product Management")
 
 
   *   #### Returning Visitor Goals
@@ -225,41 +225,41 @@
 ### Frameworks, Databases, Libraries & Programs Used
 
 * [Bootstrap 1.0.0](https://Bootstrapcss.com/)
-* Bootstrap was used to assist with the responsiveness and styling of the website.
+  * Bootstrap was used to assist with the responsiveness and styling of the website.
 * [Django](https://www.djangoproject.com/)
-* Django framework was used to construct the website using standard templates and Django pyhton scripts, including the allauth profiles and security mechanisms for user login and registration.
+  * Django framework was used to construct the website using standard templates and Django pyhton scripts, including the allauth profiles and security mechanisms for user login and registration.
 * [Amazon S3](https://www.Amazon S3.com/cloud/atlas)
-* Amazon S3 was used to store user data, user plant and collection lists for 'CRUD' purposes.
+  * Amazon S3 was used to store user data, user plant and collection lists for 'CRUD' purposes.
 * [Stripe](https://www.stripe.com)
-* Stripe was used to facilitate customer payments using credit card information.
+  * Stripe was used to facilitate customer payments using credit card information.
 * [Hover.css:](https://ianlunn.github.io/Hover/)
-* Hover.css was used on the contact details types and for social media icons in the footer to add the float transition while being hovered over.
+  * Hover.css was used on the contact details types and for social media icons in the footer to add the float transition while being hovered over.
 * [Font Awesome:](https://fontawesome.com/)
-* Font Awesome was used for the website to add icons for aesthetic and UX purposes.
+  * Font Awesome was used for the website to add icons for aesthetic and UX purposes.
 * [jQuery:](https://jquery.com/)
-* jQuery came with Bootstrap to make the navbar responsive but was also used to support JavaScript and is loaded from the [CDJNS](https://cdnjs.com/libraries/Bootstrap).
+  * jQuery came with Bootstrap to make the navbar responsive but was also used to support JavaScript and is loaded from the [CDJNS](https://cdnjs.com/libraries/Bootstrap).
 * [GitPod:](https://www.gitpod.io/)
-* Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+  * Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 * [GitHub:](https://github.com/)
-* GitHub is used to store the projects code after being pushed from Git.
+  * GitHub is used to store the projects code after being pushed from Git.
 * [Heroku:](https://www.heroku.com/)
   * Heroku is used to host the live site.
 * [Atom:](https://atom.io/)
-* Atom was used as a Markdown Text Editor for README.md and Testing.md
+  * Atom was used as a Markdown Text Editor for README.md and Testing.md
 * [Favicon.io:](https://favicon.io/)
-* Favicon.io was used for Favicon :wine_glass: web page title images.
+  * Favicon.io was used for Favicon :wine_glass: web page title images.
 * [Photoshop:](https://www.adobe.com/ie/products/photoshop.html)
-* Photoshop was used to resize images and edit photos for the website.
+  * Photoshop was used to resize images and edit photos for the website.
 * [GitPod IDE Markup:](https://www.gitpod.io/)
-* GitPod IDE markup was used to format HTML files. This easy to use and makes the code very easy to read. I understand this to be VS Code standard.
+  * GitPod IDE markup was used to format HTML files. This easy to use and makes the code very easy to read. I understand this to be VS Code standard.
 * [Adobe Stock:](https://stock.adobe.com/uk/)
-* Adobe Stock was used as a library source for images.
+  * Adobe Stock was used as a library source for images.
 * [Unsplash:](https://unsplash.com/)
-* Unsplash was used as a library source for images.
+  * Unsplash was used as a library source for images.
 * [Balsamiq:](https://balsamiq.com/)
-* Balsamiq was used to create the [wireframes]() during the design process.
+  * Balsamiq was used to create the [wireframes]() during the design process.
 * [Am I Responsive:](http://ami.responsivedesign.is/#)
-* Am I Responsive was used to test the page layouts during the build process;
+  * Am I Responsive was used to test the page layouts during the build process;
 
   ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/amiresponsive.png?raw= "Am I Responsive")
 
@@ -274,7 +274,6 @@
    * Summary pages include details for each wine including;
      * Image;
      * Name;
-     * Description;
      * Rating;
      * Variety;
      * Country & Flag;
@@ -583,5 +582,6 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
   - V19.7 Add footer css and readme amends
   - V19.8 Add footer bootstrap css
   - V19.9 Add images to readme
+  - V20.0 Add further images to readme
 
   ***
