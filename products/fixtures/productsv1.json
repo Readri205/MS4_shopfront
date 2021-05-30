@@ -51,7 +51,7 @@
    "pk": 11,
    "model": "products.product",
    "fields": {
-      "sku": "11620",
+      "sku": "0011620",
       "product": "Yarrunga Field Special Reserve White 2020",
       "image": "0011620.png",
       "appellation": 188,
@@ -115,7 +115,7 @@
    "pk": 41,
    "model": "products.product",
    "fields": {
-      "sku": "91219",
+      "sku": "0091219",
       "product": "Danaris Gruner Veltliner 2019",
       "image": "0091219.png",
       "appellation": 189,
@@ -179,7 +179,7 @@
    "pk": 1,
    "model": "products.product",
    "fields": {
-      "sku": "720",
+      "sku": "0000720",
       "product": "Don Cayetano Sauvignon Blanc 2020",
       "image": "0000720.png",
       "appellation": 284,
@@ -195,7 +195,7 @@
    "pk": 12,
    "model": "products.product",
    "fields": {
-      "sku": "12020",
+      "sku": "0012020",
       "product": "Vina Tarapaca Sauvignon Blanc 2020",
       "image": "0012020.png",
       "appellation": 284,
@@ -275,7 +275,7 @@
    "pk": 56,
    "model": "products.product",
    "fields": {
-      "sku": "201319",
+      "sku": "0201319",
       "product": "La Belle Saison Sauvignon Blanc 2019",
       "image": "0201319.png",
       "appellation": 297,
@@ -291,7 +291,7 @@
    "pk": 77,
    "model": "products.product",
    "fields": {
-      "sku": "352420",
+      "sku": "0352420",
       "product": "La Nantaise Reserve 2020",
       "image": "0352420.png",
       "appellation": 185,
@@ -307,7 +307,7 @@
    "pk": 122,
    "model": "products.product",
    "fields": {
-      "sku": "910320",
+      "sku": "0910320",
       "product": "Les Grands Cailloux Viognier 2020",
       "image": "0910320.png",
       "appellation": 193,
@@ -323,7 +323,7 @@
    "pk": 134,
    "model": "products.product",
    "fields": {
-      "sku": "923017",
+      "sku": "0923017",
       "product": "Domaine Bonneau du Martray Corton-Charlemagne Grand Cru 2017",
       "image": "0923017.png",
       "appellation": 93,
@@ -387,7 +387,7 @@
    "pk": 52,
    "model": "products.product",
    "fields": {
-      "sku": "183513",
+      "sku": "0183513",
       "product": "Domdechant Werner Hochheimer Domdechaney Riesling Auslese 2013",
       "image": "0183513.png",
       "appellation": 221,
@@ -403,7 +403,7 @@
    "pk": 63,
    "model": "products.product",
    "fields": {
-      "sku": "239320",
+      "sku": "0239320",
       "product": "Naegele Riesling Trocken Fass Nr. 98 2020",
       "image": "0239320.png",
       "appellation": 202,
@@ -515,7 +515,7 @@
    "pk": 61,
    "model": "products.product",
    "fields": {
-      "sku": "230719",
+      "sku": "0230719",
       "product": "Il Papavero Bianco",
       "image": "0230719.png",
       "appellation": 304,
@@ -531,7 +531,7 @@
    "pk": 68,
    "model": "products.product",
    "fields": {
-      "sku": "295519",
+      "sku": "0295519",
       "product": "Collezione di Paolo Bianco Vergine 2019",
       "image": "0295519.png",
       "appellation": 27,
@@ -547,7 +547,7 @@
    "pk": 73,
    "model": "products.product",
    "fields": {
-      "sku": "322019",
+      "sku": "0322019",
       "product": "Vesuvium Greco di Tufo 2019",
       "image": "0322019.png",
       "appellation": 144,
@@ -563,7 +563,7 @@
    "pk": 99,
    "model": "products.product",
    "fields": {
-      "sku": "536119",
+      "sku": "0536119",
       "product": "Il Pino Pinot Grigio 2019",
       "image": "0536119.png",
       "appellation": 291,
@@ -659,7 +659,7 @@
    "pk": 13,
    "model": "products.product",
    "fields": {
-      "sku": "12720",
+      "sku": "0012720",
       "product": "Hunters Sauvignon Blanc 2020",
       "image": "0012720.png",
       "appellation": 168,
@@ -675,7 +675,7 @@
    "pk": 24,
    "model": "products.product",
    "fields": {
-      "sku": "33120",
+      "sku": "0033120",
       "product": "Split Rock Sauvignon Blanc 2020",
       "image": "0033120.png",
       "appellation": 187,
@@ -771,7 +771,7 @@
    "pk": 14,
    "model": "products.product",
    "fields": {
-      "sku": "13819",
+      "sku": "0013819",
       "product": "Amoras Branco 2019",
       "image": "0013819.png",
       "appellation": 299,
@@ -835,7 +835,7 @@
    "pk": 15,
    "model": "products.product",
    "fields": {
-      "sku": "14519",
+      "sku": "0014519",
       "product": "La Cittadella Pinot Grigio 2019",
       "image": "0014519.png",
       "appellation": 119,
@@ -883,7 +883,7 @@
    "pk": 33,
    "model": "products.product",
    "fields": {
-      "sku": "63620",
+      "sku": "0063620",
       "product": "Bon Courage Colombard 2020",
       "image": "0063620.png",
       "appellation": 229,
@@ -899,7 +899,7 @@
    "pk": 59,
    "model": "products.product",
    "fields": {
-      "sku": "216720",
+      "sku": "0216720",
       "product": "The Gooseberry Bush 2020",
       "image": "0216720.png",
       "appellation": 229,
@@ -947,7 +947,7 @@
    "pk": 64,
    "model": "products.product",
    "fields": {
-      "sku": "243819",
+      "sku": "0243819",
       "product": "Baron de Barbon Blanco 2019",
       "image": "0243819.png",
       "appellation": 227,
@@ -963,7 +963,7 @@
    "pk": 65,
    "model": "products.product",
    "fields": {
-      "sku": "252119",
+      "sku": "0252119",
       "product": "Palacio de Menade 2019",
       "image": "0252119.png",
       "appellation": 48,
@@ -979,7 +979,7 @@
    "pk": 79,
    "model": "products.product",
    "fields": {
-      "sku": "363019",
+      "sku": "0363019",
       "product": "Posada del Rey Blanco",
       "image": "0363019.png",
       "appellation": 305,
@@ -995,7 +995,7 @@
    "pk": 80,
    "model": "products.product",
    "fields": {
-      "sku": "370919",
+      "sku": "0370919",
       "product": "Perla del Mar 2019",
       "image": "0370919.png",
       "appellation": 305,
@@ -1059,7 +1059,7 @@
    "pk": 102,
    "model": "products.product",
    "fields": {
-      "sku": "576219",
+      "sku": "0576219",
       "product": "The Waxed Bat Reserve 2019",
       "image": "0576219.png",
       "appellation": 174,
@@ -1123,7 +1123,7 @@
    "pk": 3,
    "model": "products.product",
    "fields": {
-      "sku": "2420",
+      "sku": "0002420",
       "product": "The Black Stump Durif Shiraz 2020",
       "image": "0002420.png",
       "appellation": 259,
@@ -1139,7 +1139,7 @@
    "pk": 32,
    "model": "products.product",
    "fields": {
-      "sku": "61819",
+      "sku": "0061819",
       "product": "The Boxer Durif 2019",
       "image": "0061819.png",
       "appellation": 259,
@@ -1235,7 +1235,7 @@
    "pk": 20,
    "model": "products.product",
    "fields": {
-      "sku": "18318",
+      "sku": "0018318",
       "product": "Barons de Rothschild Lafite Reserve Speciale Bordeaux 2018",
       "image": "0018318.png",
       "appellation": 32,
@@ -1461,7 +1461,7 @@
    "fields": {
       "sku": "/M13120",
       "product": "Discovery Reds Case Gift",
-      "image": "M13120.png",
+      "image": "/M13120.png",
       "appellation": 177,
       "description": "Explore the world of red wine with the delicious wines in this discovery dozen",
       "rating": 4.6,
@@ -1477,7 +1477,7 @@
    "fields": {
       "sku": "/M13123",
       "product": "Classic Reds Dozen Gift",
-      "image": "M13123.png",
+      "image": "/M13123.png",
       "appellation": 177,
       "description": "A dozen delicious classic reds guaranteed to please any wine lover",
       "rating": 4.6,
@@ -1493,7 +1493,7 @@
    "fields": {
       "sku": "/M14098",
       "product": "Essentials Reds",
-      "image": "M14098.png",
+      "image": "/M14098.png",
       "appellation": 177,
       "description": "The ultimate red wine essentials – great value and so juicy fruit-packed – just £6.99 a bottle",
       "rating": 4.6,
@@ -1523,7 +1523,7 @@
    "pk": 48,
    "model": "products.product",
    "fields": {
-      "sku": "130518",
+      "sku": "0130518",
       "product": "Stonewall Pinot Noir 2018",
       "image": "0130518.png",
       "appellation": 168,
@@ -1573,7 +1573,7 @@
    "fields": {
       "sku": "/M14093",
       "product": "Black Reds of Portugal",
-      "image": "M14093.png",
+      "image": "/M14093.png",
       "appellation": 177,
       "description": "The delicious dark Black Reds of Portugal – from just £7.99 a bottle",
       "rating": 4.6,
@@ -1587,7 +1587,7 @@
    "pk": 69,
    "model": "products.product",
    "fields": {
-      "sku": "299919",
+      "sku": "0299919",
       "product": "Valoroso Cabernet Touriga Nacional Syrah 2019",
       "image": "0299919.png",
       "appellation": 301,
@@ -1715,7 +1715,7 @@
    "pk": 8,
    "model": "products.product",
    "fields": {
-      "sku": "3919",
+      "sku": "0003919",
       "product": "El Bombero 2019",
       "image": "0003919.png",
       "appellation": 46,
@@ -1731,7 +1731,7 @@
    "pk": 9,
    "model": "products.product",
    "fields": {
-      "sku": "3920",
+      "sku": "0003920",
       "product": "El Bombero 2020",
       "image": "0003920.png",
       "appellation": 46,
@@ -1811,7 +1811,7 @@
    "pk": 138,
    "model": "products.product",
    "fields": {
-      "sku": "928717",
+      "sku": "0928717",
       "product": "Ridge Estate Cabernet Sauvignon 2017",
       "image": "0928717.png",
       "appellation": 251,
@@ -1859,7 +1859,7 @@
    "pk": 93,
    "model": "products.product",
    "fields": {
-      "sku": "510820",
+      "sku": "0510820",
       "product": "Don Cayetano Cabernet Merlot Rosado 2020",
       "image": "0510820.png",
       "appellation": 289,
@@ -1891,7 +1891,7 @@
    "pk": 51,
    "model": "products.product",
    "fields": {
-      "sku": "166119",
+      "sku": "0166119",
       "product": "Domaine de Paris Cotes de Provence Rose 2019",
       "image": "0166119.png",
       "appellation": 105,
@@ -1955,7 +1955,7 @@
    "pk": 57,
    "model": "products.product",
    "fields": {
-      "sku": "212219",
+      "sku": "0212219",
       "product": "Il Papavero Rosato 2019",
       "image": "0212219.png",
       "appellation": 253,
@@ -2115,7 +2115,7 @@
    "pk": 89,
    "model": "products.product",
    "fields": {
-      "sku": "482819",
+      "sku": "0482819",
       "product": "Petticoat White Zinfandel 2019",
       "image": "0482819.png",
       "appellation": 43,
@@ -2179,7 +2179,7 @@
    "pk": 91,
    "model": "products.product",
    "fields": {
-      "sku": "500120",
+      "sku": "0500120",
       "product": "Champagne Moet & Chandon Brut Imperial",
       "image": "0500120.png",
       "appellation": 63,
@@ -2243,7 +2243,7 @@
    "pk": 35,
    "model": "products.product",
    "fields": {
-      "sku": "65915",
+      "sku": "0065915",
       "product": "South Ridge Cuvee Merret Brut 2015",
       "image": "0065915.png",
       "appellation": 262,
@@ -2259,7 +2259,7 @@
    "pk": 36,
    "model": "products.product",
    "fields": {
-      "sku": "65916",
+      "sku": "0065916",
       "product": "South Ridge Cuvee Merret 2016",
       "image": "0065916.png",
       "appellation": 262,
@@ -2371,7 +2371,7 @@
    "pk": 47,
    "model": "products.product",
    "fields": {
-      "sku": "128017",
+      "sku": "0128017",
       "product": "Dows Vintage 2017",
       "image": "0128017.png",
       "appellation": 209,
@@ -2387,7 +2387,7 @@
    "pk": 118,
    "model": "products.product",
    "fields": {
-      "sku": "907518",
+      "sku": "0907518",
       "product": "Taylors Vintage Port 2018",
       "image": "0907518.png",
       "appellation": 209,
@@ -2403,7 +2403,7 @@
    "pk": 123,
    "model": "products.product",
    "fields": {
-      "sku": "916716",
+      "sku": "0916716",
       "product": "Croft Vintage Port 2016",
       "image": "0916716.png",
       "appellation": 209,
@@ -2419,7 +2419,7 @@
    "pk": 124,
    "model": "products.product",
    "fields": {
-      "sku": "916717",
+      "sku": "0916717",
       "product": "Croft Vintage Port 2017",
       "image": "0916717.png",
       "appellation": 209,
