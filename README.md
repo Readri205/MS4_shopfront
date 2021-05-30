@@ -26,19 +26,21 @@
       * The first time visitor will want to;
         * easily understand the main purpose of the site;
 
-        ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_maininfo.png?raw= "Home")
+        ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_homepage.png?raw= "Home")
 
         * be able to easily navigate throughout the site to find content;
 
-        ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_mainmenu.png?raw= "Main Menu")
+        ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_menubar.png?raw= "Main Menu")
 
         * register for the site and create login credentials;
 
-        ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_register.png?raw= "Register")
+        ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_signin.png?raw= "Sign In")
+
+        ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_signup.png?raw= "Sign Up")
 
         * use the menu dropdown to see a selection;
 
-        ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_searchname.png?raw= "Search Name")
+        ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/app_dropdown.png?raw= "Search")
 
         * search for wines by name or description using the search bar;
 
@@ -584,5 +586,6 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
   - V19.2 Amend css on footer
   - V19.3 Add readme content
   - V19.4 Further readme updates
+  - V19.5 Adds to readme
 
   ***
