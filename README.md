@@ -217,7 +217,7 @@
 *   [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
 
 ### Database Used
-* [Amazon S3](https://www.Amazon S3.com/cloud/atlas)
+* [Amazon S3:](https://aws.amazon.com/s3/)
 * Amazon S3 was used to store user data, user plant and collection lists for 'CRUD' purposes.
 * The database was planned to be as simple as possible with three Amazon S3 collections;
   * All static files are housed in s3;
@@ -631,5 +631,6 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
   - V21.6 Add flake8 test
   - V21.7 Remove keys and debug
   - V21.8 Additional readme comments
+  - V21.9 Update Amazon S3 link
 
   ***
