@@ -294,15 +294,21 @@
 ## Testing
 * Testing information in the following test schedule;
 
-  ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/testing_schedule.png?raw= "Heroku New App")
+  * Desktop
+
+  ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/test_desktop.png?raw= "Desktop Test")
+
+  * mobile
+
+  ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/test_mobile.png?raw= "Mobile Test")
 
   The file can be found here;
 
-  [View](https://github.com/Readri205/MS4_shopfront/blob/master/readme/wireframe/testing.xls)
+  [View](https://github.com/Readri205/MS4_shopfront/blob/master/readme/wireframe/testsheet.xlsx)
 
-* The django programme in Gitpod was tested with python3 manage.py -m flake8 with the following issues remaining;
+* The Django programme in Gitpod was tested with python3 manage.py -m flake8 with the following issues remaining;
 
-  ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/django_flake8.png?raw= "Heroku New App")
+  ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/django_flake8.png?raw= "Heroku Flake8")
 
 ### Known Bugs and Issues
 *
@@ -614,5 +620,6 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
   - V21.2 Return to relative
   - V21.3 Debug and secret key removed
   - V21.4 Add and amend content for readme
+  - V21.5 Add test images and file for readme
 
   ***
