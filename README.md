@@ -12,7 +12,7 @@
 * **NOTE: This site is currently entirely for educational purposes only. Whilst there is an ability to register for the site, any personal details entered are not protected.**
 
 * If the site is perceived as successful, it is anticipated that the site could be expanded as;
-  * more wines cold be added to the list for purchase;
+  * more wines could be added to the list for purchase;
   * more products could be added such as cheeses and other foods; and
   * other products related to wines such as glasses, cheeseboards etc.
 
@@ -121,29 +121,30 @@
       * The main colour themes are 'Burgundy' (#722F37) and 'Green' (#4f742f), primarily in reference to 'red' and 'white' wines. 'Burgundy' is used to highlight 'buttons' with 'Green' as a 'hover' effect over 'buttons'.
       * The main colours,  were potentially a concern for the 'colour blind' fraternity. Some basic tests with colour-blind persons did not present any issues, however the spectrum of colour blindness is vast so there may be some issues with some persons. The colour structure is relatively easy to change if there is negative feedback.
   *   #### Typography
-      * ...
+      * The site uses 'Sans Serif' font.
   *   #### 'Bootstrap' Card Structure
       * The 'Bootstrap' card structure is used to return search results. This structures the returns into identifiable components with an image and corresponding details for a return. This keeps each return distinct and independent of each other.
   *   #### Imagery
       * Note that the background reference is [© Unsplash.com](https://unsplash.com/) for the image. As this is the case there is a risk that an image could be removed from the source and so the site image would fail. Copies of images are retained in the project image folder for backup.
       * The background image is of 'The grapes on the vineyards in Douro Valley, Portugal'.
 
-            ![alt text](https://images.unsplash.com/photo-1596063093406-321358f23bb1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80)
+          ![alt text](https://images.unsplash.com/photo-1596063093406-321358f23bb1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80)
 
-            *['The grapes on the vineyards in Douro Valley, Portugal. The UNESCO World Heritage region where the Porto Wine is produced.'](https://unsplash.com/@qwitka) By Maksym Kaharlytskyi [© Unsplash.com](https://unsplash.com/)*
+          *['The grapes on the vineyards in Douro Valley, Portugal. The UNESCO World Heritage region where the Porto Wine is produced.'](https://unsplash.com/@qwitka) By Maksym Kaharlytskyi [© Unsplash.com](https://unsplash.com/)*
 
 
 *   ### Wireframes
-  *   #### Original Wireframe Design (October 15, 2020).
-      * The **'Home'** page includes a basic overall introduction to the purpose of the site. Cards are used to describe the main features of the site. The features are User Plant List, User Collections, Search by a Name, Filter, Image Upload and a  Year Calendar.
+  *   #### Original Wireframe Design (March 9, 2021).
+      * The **'Home'** page includes a basic overall introduction to the purpose of the site.
       * Once the User has a login these features are accessible from the menu.
       * The menu includes direct links to wine types;
-        1. Reds;
-        1. Whites;
-        1. Rose;
-        1. Sparkling; and
-        1. Fortified
+          1. Reds;
+          1. Whites;
+          1. Rose;
+          1. Sparkling; and
+          1. Fortified
       * Amazon S3 to be used as the database for static and media files.
+      * Stripe is to be sued for the credit card payment mechanism.
       * The search list is considered to return name and image upload searches as detail page returns.
       * The pages include those for user details entry and checkout from the shopping cart.
       * All images in the wireframe are by example only.
@@ -158,8 +159,6 @@
       * The menu system uses the Bootstrap 'navbar' functionality for small screens using the 'toggle' capability for the 'drop down' menu list from a 'hamburger' icon.
       * The navbar is 'fixed' to the top of the screen at all times on page scroll down for easy access.
       * The navbar is coloured 'dark teal' to make it distinctive from the site pages.
-      * The 'hamburger' is coloured 'dark yellow' to make it visible yet not intrusive when viewing the site details.
-      * See comments above with regard to potential colour blindness impacts of the yellow and green colour mix.
       * The 'drop down' site page options are coloured 'burgundy' with the current page shown with an 'white' background.
       * The header image suitably sized for smaller screens.
     * Desktop / Laptop large screen size
@@ -193,7 +192,7 @@
     * The user is able to make an order and make a payment.
        * The user can make a payment and enter their details for delivery;
        * The user will receives a 'toast' confirmation to confirm the order and will receive an email.
-    * The super-user is able to make adjustments to te product database;
+    * The super-user is able to make adjustments to the product database;
       * The user can make a payment and enter their details for delivery;
       * The user will receives a 'toast' confirmation to confirm the order and will receive an email.
 
@@ -227,12 +226,10 @@
 
 ### Frameworks, Databases, Libraries & Programs Used
 
-* [Bootstrap 1.0.0](https://Bootstrapcss.com/)
+* [Bootstrap 5.0](https://Bootstrapcss.com/)
   * Bootstrap was used to assist with the responsiveness and styling of the website.
 * [Django](https://www.djangoproject.com/)
   * Django framework was used to construct the website using standard templates and Django pyhton scripts, including the allauth profiles and security mechanisms for user login and registration.
-* [Amazon S3](https://www.Amazon S3.com/cloud/atlas)
-  * Amazon S3 was used to store user data, user plant and collection lists for 'CRUD' purposes.
 * [Stripe](https://www.stripe.com)
   * Stripe was used to facilitate customer payments using credit card information.
 * [Hover.css:](https://ianlunn.github.io/Hover/)
@@ -261,6 +258,8 @@
   * Unsplash was used as a library source for images.
 * [Balsamiq:](https://balsamiq.com/)
   * Balsamiq was used to create the [wireframes]() during the design process.
+* [Amazon S3:](https://aws.amazon.com/s3/)
+  * Amazon S3 was used to store Static and Media files in production.
 * [Am I Responsive:](http://ami.responsivedesign.is/#)
   * Am I Responsive was used to test the page layouts during the build process;
 
@@ -271,7 +270,7 @@
 * ### Consistent Page Components
  * All pages of the site contain the same 'header', 'navbar' and 'footer';
    * **Navbar** is a menu top bar with 'burgundy' lettering. The menu allows for easy access to any of the pages at all time. On mobile devices, the menu becomes a 'hamburger' and must be 'touched' in order to select any of the pages.
-   * **Footer** The footer is displayed on all pages and is consistent. There are two sections **'About'** - describes 'us' as an organisation, and **'Contact'** - describes how to contact **'us'**.
+   * **Footer** The footer is displayed on all pages and is consistent. **'Contact'** - describes how to contact **'us'**.
 * ### Product Pages
  * Information Box
    * Summary pages include details for each wine including;
@@ -294,11 +293,13 @@
 ## Testing
 * Testing information in the following test schedule;
 
+  * As noted above there is an issue with the footer riding up the profile and login pages. This issue is highlighted in the testing below. The issue will be fixed in the next upgrade for the site. Time requirements for submission means this issue is submitted as is.
+
   * Desktop
 
   ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/test_desktop.png?raw= "Desktop Test")
 
-  * mobile
+  * Mobile
 
   ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/test_mobile.png?raw= "Mobile Test")
 
@@ -333,6 +334,8 @@ The project was deployed to GitHub Pages using the following process;
 1. From this point deployment was made linking the Github repository to Heroku;
 
 ### Heroku Deployment
+
+* All images for deploymeny below are generic and do not necessarily reflect pages for this project, however the process is consistent.
 
 1. The application was deployed in Heroku to run the Python Application on the Web front end.
 1. An account was created in Heroku and then a new application was setup;
@@ -627,5 +630,6 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
   - V21.5 Add test images and file for readme
   - V21.6 Add flake8 test
   - V21.7 Remove keys and debug
+  - V21.8 Additional readme comments
 
   ***
