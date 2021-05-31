@@ -308,7 +308,11 @@
 
 * The Django programme in Gitpod was tested with python3 manage.py -m flake8 with the following issues remaining;
 
-  ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/django_flake8.png?raw= "Heroku Flake8")
+  ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/test_flake8_1.png?raw= "Flake8 part 1")
+
+  ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/test_flake8_2.png?raw= "Flake8 part 2")
+
+  * Items are either line too long which won't effect code, or comments as to 'avoid using 'null' on string fields.
 
 ### Known Bugs and Issues
 *
@@ -621,5 +625,6 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
   - V21.3 Debug and secret key removed
   - V21.4 Add and amend content for readme
   - V21.5 Add test images and file for readme
+  - V21.6 Add flake8 test
 
   ***
