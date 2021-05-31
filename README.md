@@ -305,7 +305,7 @@
 
   The file can be found here;
 
-  [View](https://github.com/Readri205/MS4_shopfront/blob/master/readme/wireframe/testsheet.xlsx)
+  [View](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/testsheet.xlsx)
 
 * The Django programme in Gitpod was tested with python3 manage.py -m flake8 with the following issues remaining;
 
@@ -632,5 +632,6 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
   - V21.7 Remove keys and debug
   - V21.8 Additional readme comments
   - V21.9 Update Amazon S3 link
+  - V22.0 Amend test file link
 
   ***
