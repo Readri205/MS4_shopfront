@@ -1,6 +1,6 @@
 ![alt text](https://github.com/Readri205/MS4_shopfront/blob/master/readme/images/amiresponsive.png?raw= "WINE SHOP")
 
-[View the live **WINE SHOP**  :wine_glass:  project here.](https://read205-wineshop.herokuapp.com/)
+[View the live **WINE SHOP**  :wine_glass:  project here.](https://winesstore.herokuapp.com/)
 
 # **WINE SHOP :wine_glass:**
 
@@ -203,6 +203,9 @@
     * Add other products like foods and other items associated with wines.
     * User functionality for users to delete their account directly.
     * Add marketing tools for product messaging to registered and other users where they 'opt-in' for such material.
+    * A more extensive and complete footer will be completed to account for more detailed contact mechanisms and links to core principles and values of the organisation and how it operates
+    * make the footer consistently sit at the foot of all pages.
+    * Add links to social accounts to provide an easer user experience for users to register and login using their social accounts.
 
 
 ## Technologies Used
@@ -610,5 +613,6 @@ A **Zip File** clone can be downloaded from the same "Code" drop down above;
   - V21.1 Returned to fixed
   - V21.2 Return to relative
   - V21.3 Debug and secret key removed
+  - V21.4 Add and amend content for readme
 
   ***
